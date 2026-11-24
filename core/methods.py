@@ -113,13 +113,39 @@ def aggregate(gdf_points, gdf_areas, key, indicator, residents):
 # =============================================================================
 def quality_report(gdf_points, gdf_areas, subcat=None):
     """Automatic checks of one OSM file. Expects column 'PLZ' (from assign_area). Returns DataFrame."""
-    # TODO (see Task 5): number of objects, share without name, share without <subcat>,
-    #      near-duplicates (same name, closer than CFG["dup_distance_m"] metres - compute in CFG["crs_metric"]),
-    #      points outside Berlin (PLZ is NaN), implausible coordinates (CFG["berlin_lat"], CFG["berlin_lon"]),
-    #      share of objects with addr:postcode and how often it equals the PLZ of the spatial join,
-    #      number of PLZ areas without any object.
-    #      Return a DataFrame with the columns "Check" and "Result".
-    raise NotImplementedError
+    n = len(gdf_points)
+
+    def share(k, total):
+        return "{} of {} ({:.1f} %)".format(k, total, 100 * k / total) if total else "no data"
+
+    rows = [("Number of objects", str(n)),
+            ("Objects without name", share(int(gdf_points["name"].isna().sum()), n))]
+    if subcat and subcat in gdf_points.columns:
+        rows.append(("Objects without " + subcat, share(int(gdf_points[subcat].isna().sum()), n)))
+
+    # near-duplicates: pairs with the same name within the threshold (metres -> metric CRS)
+    named = gdf_points.loc[gdf_points["name"].notna(), ["name", "geometry"]].to_crs(CFG["crs_metric"])
+    pairs = gpd.sjoin(named, named, predicate="dwithin", distance=CFG["dup_distance_m"])
+    pairs = pairs[(pairs.index < pairs["index_right"])           # every pair once, no self matches
+                  & (pairs["name_left"] == pairs["name_right"])]
+    rows.append(("Near-duplicates (pairs with same name, within {} m)".format(CFG["dup_distance_m"]),
+                 str(len(pairs))))
+
+    rows.append(("Points outside all PLZ areas", str(int(gdf_points["PLZ"].isna().sum()))))
+    plausible = (gdf_points.geometry.y.between(*CFG["berlin_lat"])
+                 & gdf_points.geometry.x.between(*CFG["berlin_lon"]))
+    rows.append(("Implausible coordinates", str(int((~plausible).sum()))))
+
+    # addr:postcode (text) against the PLZ of the spatial join (number); only comparable if both exist
+    has_pc = gdf_points["addr:postcode"].notna()
+    rows.append(("Objects with addr:postcode", share(int(has_pc.sum()), n)))
+    both = gdf_points[has_pc & gdf_points["PLZ"].notna()]
+    same = pd.to_numeric(both["addr:postcode"], errors="coerce") == both["PLZ"]
+    rows.append(("addr:postcode equals PLZ of spatial join", share(int(same.sum()), len(both))))
+
+    empty = ~gdf_areas["PLZ"].isin(gdf_points["PLZ"])
+    rows.append(("PLZ areas without any object", share(int(empty.sum()), len(gdf_areas))))
+    return pd.DataFrame(rows, columns=["Check", "Result"])
 
 
 # =============================================================================
