@@ -1,4 +1,5 @@
 import os
+import html
 import json
 
 import numpy                         as np
@@ -21,17 +22,18 @@ from config                          import pdict as CFG      # only for CRS and
 @st.cache_data
 def load_areas(file, key):
     """Polygons (PLZ or Bezirk) from WKT csv -> GeoDataFrame (one row per area, EPSG:4326)"""
-    # TODO: read "datasets/" + file (sep=";"), geometry via gpd.GeoSeries.from_wkt, set the CRS,
-    #       keep only column <key> + geometry, make sure every area appears only once (dissolve)
-    raise NotImplementedError
+    df  = pd.read_csv("datasets/" + file, sep=";")
+    gdf = gpd.GeoDataFrame(df[[key]], geometry=gpd.GeoSeries.from_wkt(df["geometry"]), crs=CFG["crs_geo"])
+    return gdf.dissolve(by=key).reset_index()[[key, "geometry"]]
 
 
 @st.cache_data
 def load_osm_points(file):
     """OSM csv (written by download_osm.py) -> GeoDataFrame of Points (EPSG:4326)"""
-    # TODO: read the csv (sep=";", keep "addr:postcode" as string), drop rows without lat / lon,
-    #       geometry = gpd.points_from_xy(lon, lat)   <- order: x = longitude, y = latitude!
-    raise NotImplementedError
+    df = pd.read_csv("datasets/" + file, sep=";", dtype={"addr:postcode": str})
+    df = df.dropna(subset=["lat", "lon"]).reset_index(drop=True)
+    # x = longitude, y = latitude
+    return gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df["lon"], df["lat"]), crs=CFG["crs_geo"])
 
 
 @ht.timer
@@ -47,9 +49,9 @@ def preprop_resid(dfr):
 def assign_area(gdf_points, gdf_areas, key):
     """Spatial join: adds column <key> (PLZ / Bezirk) to every point. NaN = outside of all areas.
     Points exactly on a border can match twice -> only the first match is kept."""
-    # TODO: gpd.sjoin(..., how="left", predicate="within"), remove duplicated index entries,
-    #       drop the helper column "index_right"
-    raise NotImplementedError
+    joined = gpd.sjoin(gdf_points, gdf_areas[[key, "geometry"]], how="left", predicate="within")
+    joined = joined[~joined.index.duplicated(keep="first")]
+    return joined.drop(columns="index_right")
 
 
 def _split_values(series):
@@ -74,19 +76,36 @@ def filter_category(gdf, col, category):
 # =============================================================================
 def residents_by_area(df_res, gdf_plz, gdf_dis, key):
     """Residents per PLZ or per Bezirk (columns <key>, Einwohner)."""
-    # TODO: key == "PLZ": merge the PLZ polygons with df_res.
-    #       key == "Bezirk": assign every PLZ (by its centre, computed in CFG["crs_metric"]) to a Bezirk
-    #       (gpd.sjoin_nearest) and sum the residents per Bezirk. Write down this approximation!
-    raise NotImplementedError
+    res = gdf_plz.merge(df_res, on="PLZ", how="left")
+    if key == "PLZ":
+        return res[["PLZ", "Einwohner"]]
+
+    # Approximation: each PLZ counts completely towards the Bezirk that contains (or is closest to) its
+    # centroid, although some PLZ areas cross Bezirk borders.
+    centres = res[["PLZ", "Einwohner", "geometry"]].to_crs(CFG["crs_metric"])
+    centres["geometry"] = centres.geometry.centroid
+    joined = gpd.sjoin_nearest(centres, gdf_dis[["Bezirk", "geometry"]].to_crs(CFG["crs_metric"]))
+    joined = joined[~joined.index.duplicated(keep="first")]      # same distance to two districts
+    return joined.groupby("Bezirk", as_index=False)["Einwohner"].sum()
 
 
 def aggregate(gdf_points, gdf_areas, key, indicator, residents):
     """One row per area (also areas without objects = 0) with columns count, area_km2, Einwohner, value"""
-    # TODO: count points per area; start from the POLYGONS (left merge) so that empty areas get 0
-    #       area_km2: area in CFG["crs_metric"] / 1e6
-    #       value   : "Number" | "Number per km2" | "Number per 10,000 residents"
-    #                 (no value, NaN, if Einwohner < CFG["min_residents"])
-    raise NotImplementedError
+    counts = gdf_points.groupby(key).size().rename("count").reset_index()     # NaN = outside, not counted
+    agg = gdf_areas.merge(counts, on=key, how="left").merge(residents, on=key, how="left")
+    agg["count"]    = agg["count"].fillna(0).astype(int)
+    agg["area_km2"] = agg.geometry.to_crs(CFG["crs_metric"]).area / 1e6
+
+    if indicator == "Number":
+        agg["value"] = agg["count"].astype(float)
+    elif indicator == "Number per km2":
+        agg["value"] = agg["count"] / agg["area_km2"]
+    elif indicator == "Number per 10,000 residents":
+        enough = agg["Einwohner"] >= CFG["min_residents"]        # False also if Einwohner is missing
+        agg["value"] = (agg["count"] / agg["Einwohner"].where(enough) * 10000)
+    else:
+        raise ValueError("Unknown indicator: " + str(indicator))
+    return agg
 
 
 # =============================================================================
