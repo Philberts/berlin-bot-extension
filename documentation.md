@@ -32,6 +32,7 @@ map and lets you combine your interests into a complete plan for your day.
 2. **Added a Culture data source.** It combines theatres, arts centres, cinemas, museums and galleries, making it easier to include cultural activities when planning a day.
 3. **Simplified the data-source menu for this use case.** Playgrounds and charging stations remain in the project but are hidden from the menu, keeping the visible choices more focused on places relevant to the Queer Berlin map.
 4. **Applied a subtle pink visual theme.** A light rose-white background, matching sidebar and soft metric cards improve visual consistency and make the Queer Berlin interface feel welcoming without distracting from the map or data.
+5. **Made Point map (clusters) the default map view.** The Streamlit app now opens with clustered individual points instead of choropleth areas or a heatmap, highlighting the location of each relevant place immediately.
 
 # The answer to your question with Screenshots?
 ...

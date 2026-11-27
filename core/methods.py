@@ -271,7 +271,11 @@ def make_streamlit_app(pdict, df_residents):
     # ---- Menus 3-5 ----------------------------------------------------------
     area_label = st.sidebar.selectbox("Area unit", list(pdict["areas"].keys()))
     ind        = st.sidebar.selectbox("Indicator", pdict["indicators"])
-    mtype      = st.sidebar.selectbox("Map type", pdict["maptypes"])
+    mtype      = st.sidebar.selectbox(
+        "Map type",
+        pdict["maptypes"],
+        index=pdict["maptypes"].index("Point map (clusters)")
+    )
     colors     = list(pdict["colorscales"].values())[0]
     if mtype == "Choropleth":
         colors = pdict["colorscales"][st.sidebar.selectbox("Colour scale", list(pdict["colorscales"].keys()))]
