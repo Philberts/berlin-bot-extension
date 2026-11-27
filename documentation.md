@@ -39,6 +39,8 @@ map and lets you combine your interests into a complete plan for your day.
 The amount of LGBTQ+ Tags is not overwhelmingly good.
 The cultural facilities are missing the LGTBQ+ tag almost entirely - have to work with an assumption here (assumption: Every cultural place is LGBTW+ friendly)
 
+For “Number per 10,000 residents,” areas with fewer than 500 residents or with missing resident data are shown without a value to avoid unstable rates.
+
 |File	|Objects	|Notes|
 |-------|-------|-------|
 |osm_lgbtq.csv|	132|	Downloaded 2026-11-27, so it is fresh. Separator is ;.|
