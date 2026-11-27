@@ -217,7 +217,8 @@ def make_streamlit_app(pdict, df_residents):
     st.title("OpenStreetMap Berlin: Places and Supply")
 
     # ---- Menu 1: data source ------------------------------------------------
-    src = st.sidebar.selectbox("Data source", list(pdict["sources"].keys()))
+    visible = [k for k, v in pdict["sources"].items() if v.get("show", True)]
+    src = st.sidebar.selectbox("Data source", visible)
     cfg = pdict["sources"][src]
     if not os.path.exists("datasets/" + cfg["file"]):
         st.error("File datasets/" + cfg["file"] + " not found. Run:  python download_osm.py \"" + src + "\"")
