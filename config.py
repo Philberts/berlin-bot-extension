@@ -36,7 +36,6 @@ p["sources"] = {
     "Culture":           {"tags": {"amenity": ["theatre", "arts_centre", "cinema"],
                           "tourism": ["museum", "gallery"]},
                           "file": "osm_culture.csv", "subcat": "kind"},
-    # TODO (team): add at least one source of your own choice (at least six sources in total)
 }
 
 # -----------------------------------------------------------------------------
