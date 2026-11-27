@@ -48,15 +48,15 @@ def download_source(label, cfg):
     gdf["lat"] = centroids.y
     gdf["lon"] = centroids.x
 
-    # Tags do not exist for every object. Add missing columns from KEEP and cfg["subcat"] (filled with
-    # pd.NA), so that later code never fails on a missing column.
-    for col in KEEP + [cfg["subcat"]]:
+    # Tags do not exist for every object. Add missing columns from KEEP, cfg["subcat"] and the download
+    # tags (filled with pd.NA), so that later code never fails on a missing column.
+    for col in KEEP + [cfg["subcat"]] + list(cfg["tags"]):
         if col not in gdf.columns:
             gdf[col] = pd.NA
 
-    # Select osm_type, osm_id, name, lat, lon + the KEEP columns, remove duplicates,
-    # save to "datasets/" + cfg["file"]  (sep=";", index=False, encoding="utf-8")
-    cols = ["osm_type", "osm_id", "name", "lat", "lon"] + KEEP + [cfg["subcat"]]
+    # Select osm_type, osm_id, name, lat, lon + the KEEP columns + the download tags (e.g. lgbtq=welcome),
+    # remove duplicates, save to "datasets/" + cfg["file"]  (sep=";", index=False, encoding="utf-8")
+    cols = ["osm_type", "osm_id", "name", "lat", "lon"] + KEEP + [cfg["subcat"]] + list(cfg["tags"])
     cols = list(dict.fromkeys(cols))   # "name" and subcat may be listed twice
     # A node and a way can share the same id, so compare type AND id
     df = pd.DataFrame(gdf[cols]).drop_duplicates(subset=["osm_type", "osm_id"])
