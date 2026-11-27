@@ -3,10 +3,7 @@
 
 **Students-Project**: Data Science M.Sc., Advanced Software Engineering
 
-Since the task want a 2 page PDF documentation we can create it here from this markdown using pandoc.
-It is documented within the readme how to build a PDF from markdown.
-
-*Task*:  Write a documentation of about 2 pages (PDF): use case, what you changed and why, the answer to your question with screenshots, limits of the OSM data, and a check of two chatbot answers against your data table.
+This report documents the use case, app changes, results and limitations. The PDF is generated from this Markdown; see the README for the build command.
 
 # Use Case: Queer Berlin in one Map
 
@@ -38,7 +35,7 @@ map and lets you combine your interests into a complete plan for your day.
 
 # Limits of the OSM Data
 The amount of LGBTQ+ Tags is not overwhelmingly good.
-The cultural facilities are missing the LGTBQ+ tag almost entirely - have to work with an assumption here (assumption: Every cultural place is LGBTW+ friendly)
+The cultural facilities are almost entirely missing LGBTQ+ tags. Treating every cultural venue as LGBTQ+-friendly is an assumption, not verified information.
 The planner uses straight-line distance, not walking or transit routes, and should be treated as a shortlist rather than a route optimizer.
 
 For “Number per 10,000 residents,” areas with fewer than 500 residents or with missing resident data are shown without a value to avoid unstable rates.
@@ -47,37 +44,25 @@ For “Number per 10,000 residents,” areas with fewer than 500 residents or wi
 |-------|-------|-------|
 |osm_lgbtq.csv|	132|	Downloaded 2026-11-27, so it is fresh. Separator is ;.|
 |osm_culture.csv|	1,043|	357 galleries, 246 museums, 197 theatres, 140 arts centres, 89 cinemas.|
-|osm_cafes.csv|	2,619|	General cafés. 13 of them are also in the LGBTQ+ file.|
 
-# Will the Use-Case work
-A full day plan works in Schöneberg and Kreuzberg, but only thinly elsewhere. 
+# Results for the use case
+The LGBTQ+ dataset contains 132 places: 54 bars, pubs or clubs and 12 erotic or sauna venues; the other 66 include 13 cafés, 11 community centres, 6 restaurants and bookshops. Its LGBTQ+ tags include 89 “primary,” 37 “welcome” and 4 “only” entries. Of the “welcome” places, 72% are not nightlife venues, supporting daytime plans.
 
-|Your claim|	Verdict|	Evidence|
-|--------|---------|----------|
-|Everything on one map|	 Works|	Files have coordinates and join to PLZ and Bezirk.|
-|More than bars and clubs|	 Mostly|	54 entries are bars, pubs or clubs and 12 are erotic/sauna type. The other 66 include 13 cafés, 11 community centres, 6 restaurants and bookshops.|
-|"Actively welcoming"|	 Works|	The lgbtq tag has primary (89), welcome (37) and only (4). welcome places are 72% non-nightlife, so they suit daytime plans.|
-|Museums, theatres, exhibitions|	Weak|	The LGBTQ+ file has 1 museum, 4 cinemas, 1 library, 0 theatres and 0 galleries. Only 5 objects appear in both files. We have to MAKE AN ASSUMPTION HERE that cultural facilities are IN GENERAL LGBTQ+ FRIENDLY|
-|Community centres and safe spaces|	Works|	11 community centres and 3 social facilities, but see the gaps below.|
-|Combine into one day|	Only in the core area|	38 places lie within 1 km of Nollendorfplatz. Three districts have none.|
+The culture dataset adds 1,043 venues, but only five objects overlap with the LGBTQ+ dataset. The LGBTQ+ dataset itself has only 1 museum, 4 cinemas, 1 library, no theatres and no galleries. Cultural venues therefore broaden the itinerary, but their LGBTQ+ friendliness is an unverified assumption. The day planner is most useful in central areas: 38 places are within 1 km of Nollendorfplatz, while three districts have none.
 
 # Checking two Chatbot Answers against our real data
-**Q1**: “Which Berlin district has the highest number of LGBTQ venues per 10,000 residents, and where are the largest gaps between cultural opportunity and LGBTQ infrastructure?”
+**Q1**: “Which Berlin district has the highest number of LGBTQ venues per 10,000 residents?”
 
 **Answer**: The district with the highest number of LGBTQ venues per 10,000 residents is Friedrichshain-Kreuzberg, with a value of approximately 1.41 venues per 10,000 residents.
 
-**Human Assessment**: This Number is correct and also the Top 1 district was correctly identified.
-
-![Q1 chatbot answer](img/screenshot_Q1.png){ width=80% }
+**Human Assessment**: The answer correctly identifies the top district. The data table gives Friedrichshain-Kreuzberg 36 venues and 256,021 residents, which is 1.41 venues per 10,000 residents.
 
 **Q2**: “Which districts have the most cultural facilities per 10,000 residents, and how does data quality affect the conclusion that an area is underserved?”
 
-**Answer**: 
-- Mitte: 10.02 
-- Friedrichshain-Kreuzberg: 6.41
-- Charlottenburg-Wilmersdorf: 5.05
-When considering whether an area is underserved, it's important to take data quality into account. For example, there are 23 objects without names (2.2% of the total), and 37 postal code areas without any objects (19.5%). This suggests that mapping quality can vary across different areas, which may affect the perceived availability of cultural facilities. Therefore, it's advisable to consult the data quality report for a more comprehensive understanding of the situation in each district.
+**Answer**: Mitte leads with 10.02 cultural venues per 10,000 residents, followed by Friedrichshain-Kreuzberg (6.41) and Charlottenburg-Wilmersdorf (5.05). The chatbot cautions that mapping quality varies, noting 23 unnamed objects (2.2%) and 37 PLZ areas without objects (19.5%).
 
-**Human Assessment**: The numbers are correct and in fact the highest 3 (Validated against Chloropleth map type). The assessment of the data quality issues states correct numbers from the data qualities dropdown menu and a smart sentence.
+**Human Assessment**: The three values match the district-level data table. The data-quality figures also match the report: 23 unnamed objects (2.2%) and 37 PLZ areas without cultural objects (19.5%). These source-wide figures show possible mapping gaps, but do not by themselves establish that any particular district is underserved.
 
-![Q2 chatbot answer](img/screenshot_Q2.png){ width=80% }
+| Q1 chatbot answer | Q2 chatbot answer |
+|:---:|:---:|
+| ![Q1 chatbot answer](img/screenshot_Q1.png){ width=100% } | ![Q2 chatbot answer](img/screenshot_Q2.png){ width=100% } |
