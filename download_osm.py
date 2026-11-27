@@ -31,6 +31,17 @@ def download_source(label, cfg):
     gdf = gdf.reset_index()
     gdf = gdf.rename(columns={gdf.columns[0]: "osm_type", gdf.columns[1]: "osm_id"})
 
+    #lgbtq addition
+    if cfg.get("drop_no"):      # keep objects with at least one tag that is not "no"
+        tags = [t for t in cfg["tags"] if t in gdf.columns]
+        gdf = gdf[(gdf[tags].notna() & (gdf[tags] != "no")).any(axis=1)].copy()
+
+    if cfg["subcat"] == "kind":  # first type that is filled in: bar, books, sauna ...
+        types = ["amenity", "shop", "leisure", "tourism", "office", "healthcare",
+                 "club", "craft", "historic"]
+        types = [t for t in types if t in gdf.columns]
+        gdf["kind"] = gdf[types].bfill(axis=1).iloc[:, 0]
+
     # Nodes are points, ways / relations are polygons. We need ONE point per object:
     # centroid in a projected CRS (pdict["crs_metric"]), then back to lat / lon (pdict["crs_geo"]).
     centroids = gdf.geometry.to_crs(pdict["crs_metric"]).centroid.to_crs(pdict["crs_geo"])

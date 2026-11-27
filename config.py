@@ -14,6 +14,9 @@ p["file_info"]      = "osm_download_info.json"     # written by download_osm.py
 #   file   : csv file in "datasets/" written by download_osm.py
 #   subcat : OSM tag used for the dependent pull-down menu "Category filter"
 p["sources"] = {
+    "LGBTQ+ places": {"tags": {"lgbtq": True, "lgbtq:queer": True, "lgbtq:gay": True,
+                          "lgbtq:lesbian": True, "gay": True,  "lgbtq:trans": True, "lgbtq:bi": True},
+                          "file": "osm_lgbtq.csv", "subcat": "kind", "drop_no": True},
     "Restaurants":       {"tags": {"amenity": "restaurant"},
                           "file": "osm_restaurants.csv",  "subcat": "cuisine"},
     "Cafes":             {"tags": {"amenity": "cafe"},

@@ -1,0 +1,133 @@
+osm_type;osm_id;name;lat;lon;cuisine;brand;operator;access;opening_hours;wheelchair;addr:postcode;kind
+node;268917395;Schwulenberatung Berlin;52.50439699999999;13.3096797;;;;;Mo-Fr 09:00-20:00;yes;10629;community_centre
+node;282420247;Himmelreich;52.510258199999996;13.456621199999999;;;;;;yes;10245;bar
+node;350460874;Babylon Kreuzberg;52.5006568;13.4169229;;;Yorck Kinogruppe;;;limited;10999;cinema
+node;352907002;Xenon;52.48633029999999;13.359397600000001;;;Xenon Kino Wieske FTB Filmtheaterbetriebe;;;yes;10827;cinema
+node;410135936;Frau Luna;52.49631289999999;13.4211347;;;;;Mo-Sa 17:00+;;10999;bar
+node;417191722;Walhalla;52.5240507;13.3394417;regional;;;;Mo-Su,PH 12:00-01:00;yes;10555;restaurant
+node;493655311;Café Morgenrot;52.5375349;13.4088525;;;;;"Mo off; Tu-Th 15:00-01:00; Fr 15:00-02:00; Sa 11:00-02:00; Su 11:00-23:00";limited;10435;cafe
+node;560524662;Trixie Bar;52.5466467;13.4173898;;;;;;yes;10437;bar
+node;567168302;Besenkammer;52.520639299999985;13.4123199;;;;;24/7;no;10178;pub
+node;595536654;MediosApotheke Hackescher Markt;52.5245938;13.4032424;;;;;"Mo-Fr 08:00-19:00; Sa 09:00-19:00";no;10178;pharmacy
+node;616308956;Möbel Olfe;52.5000581;13.4174433;;;;;Tu-Sa 18:00+;yes;10999;bar
+node;660153461;Zero Stress Pizza;52.50041110000001;13.43176;pizza;;;;Mo-Su 17:00-23:00;no;10997;restaurant
+node;693830507;Cafe Bäckerei;52.504670000000004;13.34207;;;;;;;10787;cafe
+node;745736106;Silverfuture;52.4880316;13.4302103;;;;;Su-Th 17:00-02:00, Fr,Sa 17:00-03:00;limited;12047;pub
+node;760476894;Tipsy Bear;52.541013299999996;13.410605200000001;;;;;Mo-Fr 19:00-03:00, Sa 19:00-05:00, Su 17:00-03:00;yes;10437;bar
+node;866058253;Shiraz;52.5014868;13.4181472;persian;;;;"Mo-Th,Su 11:30-23:00; Fr-Sa 11:30-01:00";no;10999;restaurant
+node;886851197;Batho;52.510944499999994;13.4584138;;;;;Mo-Su 12:00-23:30;yes;10245;restaurant
+node;959344243;SchwuZ;52.47946289999999;13.433783700000001;;;SchwuZ Kulturveranstaltungs GmbH;;;yes;12053;
+node;998544689;Sonntags-Club;52.551330899999996;13.418728100000001;;;Sonntags-Club e.V.;;"Mo-Th,Sa-Su 18:00+; Fr 18:00+ open ""female only""";limited;10437;bar
+node;1278254656;Betty F***;52.52754039999999;13.4052143;;;;;Mo-Th 20:00-03:00, Fr,Sa 20:00-05:00;no;10119;bar
+node;1314614854;Rausch Gold;52.490934599999996;13.3864196;;;;;Mo-Fr 20:00-04:00+;no;10961;pub
+node;1361259244;Die Busche;52.503615;13.448261;;;;;We 23:00-05:00,Fr 22:00-07:00,Sa 22:00-07:00;limited;10245;nightclub
+node;1400511882;FLAX;52.535812299999996;13.431084;"regional;german";;S. Wehrmaker;;Mo,Tu off, We 18:30-03:00, Th 18:30-03:00, Fr 18:30-04:00, Sa 18:30-04:00, Su 18:30-02:00;limited;10405;pub
+node;1503866353;Metis;52.5472521;13.4104271;;;;;"Mo 14:00-18:00; Tu, We 12:00-19:00; Th, Fr 10:00-20:00; Sa 09:00-18:00; Su 11:00-18:00";;;books
+node;1607815772;Ajpnia;52.48683319999999;13.3430245;;;Ajpnia e.V.;;"We 19:00+; Sa 20:00+";limited;10825;bar
+node;1636136230;XXL Cruising-Club;52.55420409999999;13.4123732;;;;;12:00-03:00;no;10439;bar
+node;1636136231;Bärenhöhle;52.55328619999999;13.414849200000003;;;;;Mo-Fr 16:00+, Sa 20:00+, Su 18:00+;no;10439;pub
+node;1636136234;Duplexx;52.544959899999995;13.4122815;;;;;Mo-Su 12:00-24:00;no;;video
+node;1730496048;;52.5505017;13.4133714;;;;;Mo-Sa 10:00-20:00;no;;kiosk
+node;1738706652;R&Co;52.4987495;13.3452578;;;;;Mo-Sa 12:00-20:00;yes;10777;clothes
+node;1791368627;Rad und Tat;52.47851369999999;13.421226900000002;;;Ru T- Rad und Tat - Offene Initiative Lesbischer Frauen e.V.;;"Tu,We,Fr 10:00-14:00; Th 15:00-19:00";limited;12049;community_centre
+node;1867212497;Lab.Oratory;52.51157359999999;13.443014200000002;;;Berghain OstGut GmbH;;;limited;10243;bar
+node;1882869703;Prinzknecht;52.4989776;13.3429028;;;;;Su-Th 15:00-02:00, Fr,Sa 15:00-03:00;yes;10777;pub
+node;1915578865;Bodyworker;52.4975536;13.351254;;;;;;no;10777;massage
+node;1915697585;Mann-O-Meter e.V.;52.4998069;13.3550034;;;;;"Mo-Fr 17:00-22:00; Sa-Su 16:00-20:00";yes;10783;community_centre
+node;1927276405;K6;52.50051919999999;13.3503688;;;;;;yes;10787;pub
+node;1927763622;Tristeza;52.4865618;13.430953;;;;;"Tu-Th 18:00-01:30, Fr-Sa 18:00-04:00, Su 18:00-24:00; Mo off";limited;12047;bar
+node;1929519705;Quälgeist;52.437445699999984;13.3754837;;;Quälgeist Berlin e.V.;;;no;12107;community_centre
+node;2114030856;Boiler;52.49363829999999;13.3873361;;;Boiler Berlin Sauna GmbH;;Mo-Th 12:00-06:00, Fr 12:00-24:00, Sa 00:00-00:00, Su 00:00-00:00, Mo 00:00-06:00;no;10961;sauna
+node;2213818303;Curly;52.547945899999995;13.3668959;;;;;We-Sa 19:00-23:00+;;13347;bar
+node;2238828808;REWE voll pflanzlich;52.50770969999999;13.449942600000002;;Rewe;REWE Dennis Henkelmann oHG;;Mo-Sa 07:00-23:00;yes;10243;supermarket
+node;2308129193;B-Lage;52.4736946;13.451159;;;;;Mo-Su 18:00-24:00;limited;12055;bar
+node;2495554584;Other Nature;52.492875700000006;13.3820025;;;;;"Mo 12:00-19:00; Tu 13:00-18:00; We-Sa 12:00-19:00";limited;10965;erotic
+node;2496651338;Melitta Sundström;52.490789;13.3871797;;;;;Su,Tu-Th 17:00-02:00, Fr,Sa 17:00-03:30;no;10961;cafe
+node;2496651341;Espressolounge;52.490470599999995;13.3870665;;;;;"Mo-Fr 07:30-19:00; Sa 08:00-19:00; Su,PH 09:00-19:00";yes;10961;cafe
+node;2640326880;19grams;52.50712959999999;13.4685959;coffee_shop;;;;"Mo-Fr 08:00-18:00; Sa,Su 09:00-18:00";limited;10245;cafe
+node;2709186225;Boardroom;52.494638599999995;13.3532828;"sandwich;flammkuchen";;;;Tu-Su 14:00-22:00;limited;10781;cafe
+node;2818117012;Schwules Museum *;52.5042512;13.3582193;;;;;"Mo, We, Fr 12:00-18:00; Th 12:00-20:00; Sa 14:00-19:00; Su 14:00-18:00";yes;10785;museum
+node;3390615493;Kaschk by Brlo;52.52841990000001;13.4099389;;;Brlo;;"Mo-We 12:00-02:00; Th 12:00-02:00; Fr 12:00-03:00; Sa 10:00-03:00; Su 12:00-01:00";yes;10119;bar
+node;3442702173;Fotostudio Pahl;52.4893464;13.4500718;;;Antje Pahl;;Tu,Th 10:00-18:00;;12435;photographer
+node;3632408170;Neues Ufer;52.489523399999996;13.3597788;;;;;Mo-Su 14:00-02:00;limited;10827;bar
+node;3632641432;Pommern Apotheke;52.4885088;13.3588471;;;;;"Mo-Fr 08:30-18:30; Sa 09:00-13:00";yes;10827;pharmacy
+node;3666635599;Cafe Modo;52.4990874;13.3416676;"bagel;breakfast;coffee_shop;tea";;;;"Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00";limited;10777;cafe
+node;3727835831;Marienhof;52.5348162;13.4239667;;;;;Tu-Sa 19:00-24:00+;no;10405;bar
+node;3737222086;Grosse Freiheit 114;52.5135013;13.456127700000001;;;;;Tu-Sa 19:00-24:00+;no;;pub
+node;3780969415;Toms Wurst;52.4979525;13.3491419;sausage;;;;11:30-24:00;;10777;fast_food
+node;3826014006;Heile Welt;52.4987557;13.3516497;;;;;;limited;10777;bar
+node;3826451051;Scheune;52.49771849999999;13.3484263;;;;;Mo-Su 21:00+;yes;10777;bar
+node;3826452461;Mr. B, Leather & Rubber;52.49814560000001;13.3488324;;;Mister B;;"Mo-Fr 12:00-20:00; Sa 11:00-20:00";limited;10777;erotic
+node;3826452471;Eisenherz;52.49783949999999;13.3487725;;;;;Mo-Sa 10:00-20:00;yes;10777;books
+node;3826452472;Privatclub The Jaxx;52.49789680000001;13.3489686;;;;;Mo-Su 12:00-03:00;no;10777;bar
+node;3826455884;Romeo und Romeo;52.4983295;13.349377200000001;;;;;Mo-Su,PH 09:00-20:00;yes;10777;cafe
+node;3826455890;Tabasco;52.49926179999999;13.3489343;;;;;;no;10777;bar
+node;3826455897;RoB;52.49780289999999;13.3486643;;;;;Mo-Sa 11:00-19:00;limited;10777;erotic
+node;3826455898;x-boxer;52.4973538;13.3493928;;;;;Mo-Sa 11:00-20:00;yes;10777;erotic
+node;3872556357;Chaos Computer Club Berlin;52.5217004;13.3828039;;;Chaos Computer Club Berlin e.V.;;Th 19:00-24:00;no;10117;hackerspace
+node;4034138654;Roses Bar;52.500536199999985;13.4216423;;;;;;no;10999;bar
+node;4202779999;Latex AS Store Berlin;52.4988216;13.349664300000002;;;;;Th-Sa 13:00-20:00;no;10777;erotic
+node;4304149095;This is Coco;52.51110489999999;13.4584943;"coffee_shop;cake;breakfast";;;;"Mo-Th 09:30-16:30; Fr-Su 09:30-17:30";no;10245;cafe
+node;4582601010;Benedict;52.49689729999998;13.3239431;breakfast;;;;Mo-Su 08:00-22:00;yes;10719;cafe
+node;4619327772;Hafen;52.4979722;13.3492092;;;Ulrich Simontowitz;;Mo-Su 20:00-24:00;no;10777;bar
+node;4657374385;Lager Lager;52.4915205;13.4286712;;;;;"Mo,We-Su 16:00-24:00; Tu off";limited;12047;pub
+node;4753705052;Rosa Winkel;52.4994651;13.3534665;;;;;;yes;;memorial
+node;4799003823;Bull;52.5001984;13.349430800000002;;;;;24/7;yes;10787;bar
+node;4970066224;Zàgara;52.50189689999999;13.4407344;;;;;Mo-Su 12:00-19:00;no;10997;ice_cream
+node;5389518870;Connection Shop und Kino;52.4989962;13.3427073;;;;;Mo-Th 12:00-23:00, Fr,Sa 12:00-01:00, Su,PH 14:00-22:00;limited;;cinema
+node;5389518871;Dreizehn;52.499391100000004;13.3422644;;;;;Mo-Su 14:00+;no;;pub
+node;5640234265;ILOsBar;52.49771189999999;13.3474298;;;;;"Tu - Th 17:00 - 02:00; Fr, Sa 17:00 - 04:00";;10777;bar
+node;5648017162;New Action;52.500205;13.349528600000001;;;;;"We,Su 22:00-02:00; Th 22:00-03:00; Fr,Sa 22:00-05:00";limited;10787;bar
+node;6031918185;Ashoor;52.5098238;13.4569852;;;;;"Mo-Th,Su 18:00-02:00; Fr-Sa 18:00-04:00";limited;10245;pub
+node;6227747977;Paolo Pinkel;52.483179899999996;13.4317283;"chinese;cypriot;peruvian";;;;Mo-Su 18:00-23:00+;no;12043;restaurant
+node;6470345311;Transfair;52.50477839999999;13.4691969;"coffee_shop;cake";;Schwulenberatung Berlin gGmbH;;Mo-Fr 10:00-18:00;yes;10245;cafe
+node;6470345312;Lebensort Vielfalt;52.504732899999986;13.4692691;;;Schwulenberatung Berlin gGmbH;;;;10245;social_facility
+node;6873175597;Village.Berlin;52.5004394;13.3619362;;;;;;;10785;community_centre
+node;7024423260;Das Hoven;52.490576100000006;13.4315445;;;;;"Mo, Su 09:00-16:00; Tu-Sa 09:00-22:30";limited;12047;restaurant
+node;7058016113;Wagner;52.49767659999999;13.3473215;;;;;Mo-Sa 12:00-20:00;no;;clothes
+node;7392103175;Prince Peach;52.5368642;13.4224481;"coffee_shop;breakfast;pasta;cake;pastry;brunch;tea";;;;We-Su 10:00-18:00;yes;10405;
+node;9045180679;Bar Saint Jean;52.5235889;13.3907508;;;;;"Mo,Su off; Tu-Th 19:00-02:00; Fr-Sa 20:00-03:00";no;10117;bar
+node;9371207523;Incognito;52.49416919999999;13.344973;;;;;Mo-Th 16:00-03:00, Fr,Sa 14:00-05:00, Su 14:00-03:00;;10779;bar
+node;9491027921;She said;52.49152579999999;13.4233067;;;;;"Mo-Fr 10:00-19:00; Sa 11:00-19:00";yes;10967;books
+node;9884853217;VEG'D;52.51314829999998;13.456296400000001;burger;;;;Mo-Su 12:00-22:00;no;10245;fast_food
+node;10280888671;Bubble CBD;52.479806999999994;13.4434788;;;;;;yes;12059;cannabis
+node;10594730711;Maneo;52.49961569999999;13.355195200000002;;;Mann-o-Meter e. V.;;;;10783;social_facility
+node;11035783613;Boyberry Berlin;52.498019899999996;13.349368400000001;;;;;"Mo-Th,Su 15:00-05:00; Fr,Sa 15:00-06:00";no;10777;bar
+node;11035951199;Blond;52.4978319;13.347798400000002;;;;;Mo-Su 17:00-04:00;no;10777;bar
+node;11093057353;Kuckuck;52.498451599999996;13.3497155;;;;;Mo-Sa 11:00-19:00;;;gift
+node;11159199524;Maskulo Store;52.49874189999999;13.3453965;;;;;"Mo-Fr 14:00-20:00; Sa, Su 14:00-21:00";;10777;clothes
+node;11257213162;Karada House;52.53246239999999;13.351528600000002;;;;;;;10559;community_centre
+node;11583914069;Ficken3000;52.488608699999986;13.4227057;;;;;Mo-Su 22:00-05:00+;;10967;bar
+node;11977555992;Schwulenberatung;52.5047299;13.4691535;;;;;;yes;;association
+node;12049677722;Oya BarKneipe;52.5008915;13.4233212;;;Oya Kolektif UG;;"Tu-Th 18:00-00:00; Fr-Sa 18:00-02:00";yes;10997;bar
+node;12168511022;KOR;52.474991599999996;13.4531627;;;;;;;12059;community_centre
+node;12168570600;Daruma;52.46440539999999;13.445034;;;;;;;12057;community_centre
+node;12168600798;IKSK - Institut für Körperforschung und sexuelle Kultur;52.51169209999999;13.426320800000001;;;;;;;10243;community_centre
+node;12179705459;Casa Kuà;52.5012499;13.4229186;;;Casa Kuà Initiative;;;no;10997;social_facility
+node;12629144675;She said;52.491559499999994;13.423353200000001;;;;;"Mo-Fr 10:00-19:00; Sa 11:00-19:00";;;cafe
+node;12888468756;Club Culture Houze;52.498693899999985;13.4343375;;;;;;;;bar
+node;13035613604;House of Riegillio;52.496962499999995;13.3494425;;;;;Tu-Sa 12:00-20:00;;;clothes
+node;13165534605;rastlos;52.49960659999999;13.3491984;;;;;24/7;;;bar
+node;13184484381;Duplexx;52.4982171;13.3457043;;;;;"Mo-Th,Su 12:00-24:00; Fr-Sa 12:00-02:00";;10777;video
+node;13186226466;Woof Berlin;52.4990971;13.3415291;;;;;Mo-Su,PH 21:00+;;10777;bar
+node;13295339178;club sauna;52.493804499999996;13.387787300000001;;;Boiler Berlin Sauna GmbH;customers;;no;;sauna
+node;13298612717;Stück;52.49898399999999;13.4456156;;;;;"Mo-We 18:00-01:00; Th-Sa 18:00-03:00";no;10997;bar
+node;13327110717;The Coven;52.52269649999999;13.4003393;;;;;;;;bar
+node;13471102128;Böse Buben;52.477335399999994;13.3578441;;;;;We 16:00-23:00, Th 19:00-01:00, Fr 20:00-02:00, Sa 20:00-03:00, Su 15:00+;no;10829;bar
+node;13607094201;Spinnboden Lesbenarchiv & Bibliothek e.V.;52.5352681;13.3992502;;;;;"We 14:00-19:00; Fr 10:00-15:00";;10115;library
+node;13932572501;Bussi;52.4869367;13.430803;;;HMJT GbR;;;;;bar
+node;14055022623;teledisko;52.505036999999994;13.337473600000001;;;;;Mo-Su,PH 00:00-00:00;;;nightclub
+node;14076715427;Gedenkstelle CSD-Attentat vom 25.7.2026;52.51245089999999;13.3699797;;;;;;;;memorial
+node;14096556928;Queere Haushaltshilfe;52.5318337;13.4192241;;;Baumgärtel Berlin GmbH;;;;10405;cleaning
+node;14113750493;Ergotherapie Mensch/ich;52.4387374;13.5493691;;;;;"Mo-Th 09:00-18:00; Fr 09:00-14:00";yes;;doctors
+node;14141070517;zartspace;52.50981240000001;13.463588;;;;;;;10245;massage
+node;14225352886;CALMA Saunagarten;52.50196269999999;13.4657924;;;;;"2026 Oct 17-18 16:00-24:00; 2026 Oct 19+ Mo,Tu,Th,Fr,Su 18:00-24:00";;10245;sauna
+node;14399436830;Das Amt;52.5203588;13.4131105;;;;;;;;nightclub
+way;24240975;Kino International;52.520636696053614;13.423008962917178;;;Yorck Kinogruppe;;"""30 minutes before first screening""";yes;10178;cinema
+way;32514431;Zum schmutzigen Hobby;52.50793947988762;13.453505393246557;;;;;;no;10245;pub
+way;40616591;Lambda::BB;52.54829456241506;13.40707431242091;;;Jugendnetzwerk lambda Berlin-Brandenburg e.V.;;Tu-Th 15:00-19:00;yes;10437;community_centre
+way;65425822;Südblock;52.49853925734992;13.416821736262007;"salad;german;burger";;;;"Mo-Sa 17:00-23:00; Su 15:00-23:00";yes;10999;cafe
+way;117220640;Denkmal für die im Nationalsozialismus verfolgten Homosexuellen;52.513257700004154;13.376136899998743;;;;;;yes;;memorial
+way;194061423;Literarisches Colloquium Berlin;52.42277089200528;13.17842779023649;;;Literarisches Colloquium Berlin e.V.;;;;14109;
+way;355476495;OXI;52.50759386112325;13.474934320960115;;;;;;limited;10365;nightclub
+way;1030332468;Kanal;52.48196121495535;13.462571853441235;;;;;;;;community_centre
