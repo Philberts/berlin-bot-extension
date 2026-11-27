@@ -214,6 +214,45 @@ def _download_date(pdict, label):
 def make_streamlit_app(pdict, df_residents):
     """Makes Streamlit App: OSM data of Berlin, controlled by pull-down menus"""
     st.set_page_config(page_title="OpenStreetMap Berlin", layout="wide")
+    st.markdown(
+        """
+        <style>
+        [data-testid="stAppViewContainer"] {
+            background: linear-gradient(135deg, #fffafa 0%, #fff5f7 55%, #fdf1f5 100%);
+        }
+
+        [data-testid="stSidebar"] {
+            background: linear-gradient(180deg, #fff7f9 0%, #fdeef2 100%);
+            border-right: 1px solid #f1d9e0;
+        }
+
+        [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] {
+            color: #4a3b40;
+        }
+
+        [data-testid="stMetric"] {
+            background: rgba(255, 255, 255, 0.82);
+            border: 1px solid #f1dfe4;
+            border-radius: 14px;
+            padding: 1rem;
+            box-shadow: 0 2px 10px rgba(154, 82, 105, 0.06);
+        }
+
+        [data-testid="stExpander"] {
+            border: 1px solid #efdde3;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.55);
+        }
+
+        .stButton > button,
+        .stDownloadButton > button {
+            border-color: #d98aa1;
+            color: #70384b;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
     st.title("OpenStreetMap Berlin: Places and Supply")
 
     # ---- Menu 1: data source ------------------------------------------------

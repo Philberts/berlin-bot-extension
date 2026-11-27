@@ -31,6 +31,7 @@ map and lets you combine your interests into a complete plan for your day.
 1. **Added LGBTQ+ places as a data source.** We query OpenStreetMap for LGBTQ+-related tags and keep the tag details and a place category, so users can find places beyond the bars and clubs usually featured in short lists.
 2. **Added a Culture data source.** It combines theatres, arts centres, cinemas, museums and galleries, making it easier to include cultural activities when planning a day.
 3. **Simplified the data-source menu for this use case.** Playgrounds and charging stations remain in the project but are hidden from the menu, keeping the visible choices more focused on places relevant to the Queer Berlin map.
+4. **Applied a subtle pink visual theme.** A light rose-white background, matching sidebar and soft metric cards improve visual consistency and make the Queer Berlin interface feel welcoming without distracting from the map or data.
 
 # The answer to your question with Screenshots?
 ...
