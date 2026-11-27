@@ -36,6 +36,49 @@ def load_osm_points(file):
     return gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df["lon"], df["lat"]), crs=CFG["crs_geo"])
 
 
+def load_day_planner_places(pdict):
+    """Combine the LGBTQ+ and culture sources into unique, selectable day-planner places."""
+    frames = []
+    for label in ("LGBTQ+ places", "Culture"):
+        cfg = pdict["sources"][label]
+        frame = load_osm_points(cfg["file"]).copy()
+        frame["source"] = label
+        frames.append(frame)
+
+    places = pd.concat(frames, ignore_index=True)
+    places["place_id"] = places["osm_type"].astype(str) + ":" + places["osm_id"].astype(str)
+    places = places.drop_duplicates(subset="place_id", keep="first").reset_index(drop=True)
+    places["place_label"] = places["name"].fillna("Unnamed place").astype(str)
+    if "kind" in places.columns:
+        kinds = places["kind"].fillna("").astype(str)
+        places["place_label"] += kinds.where(kinds.eq(""), " · " + kinds)
+    places["place_label"] += " · " + places["source"]
+    return places
+
+
+def nearest_day_planner_places(places, origin_id, excluded_ids, limit=5):
+    """Return up to <limit> unvisited places nearest to origin, ordered by metric distance."""
+    projected = places.to_crs(CFG["crs_metric"])
+    origin = projected.loc[places["place_id"] == origin_id, "geometry"]
+    if origin.empty:
+        raise ValueError("Unknown day-planner origin: " + str(origin_id))
+
+    candidates = places.loc[~places["place_id"].isin(excluded_ids)].copy()
+    if candidates.empty:
+        candidates["distance_m"] = pd.Series(dtype=float)
+        return candidates
+
+    candidate_geometry = projected.loc[candidates.index, "geometry"]
+    candidates["distance_m"] = candidate_geometry.distance(origin.iloc[0])
+    return candidates.sort_values(["distance_m", "place_id"]).head(limit)
+
+
+def day_planner_distance(places, from_id, to_id):
+    """Straight-line distance in metres between two planner places."""
+    projected = places.set_index("place_id").to_crs(CFG["crs_metric"])
+    return projected.loc[from_id, "geometry"].distance(projected.loc[to_id, "geometry"])
+
+
 @ht.timer
 def preprop_resid(dfr):
     """Preprocessing plz_einwohner.csv: only PLZ and residents, only Berlin range"""
@@ -210,6 +253,61 @@ def _download_date(pdict, label):
     return "unknown"
 
 
+def render_day_planner(pdict):
+    """Render a simple nearest-neighbour day planner for LGBTQ+ and cultural venues."""
+    st.subheader("Plan your day")
+    required = ("LGBTQ+ places", "Culture")
+    missing = [pdict["sources"][label]["file"] for label in required
+               if not os.path.exists("datasets/" + pdict["sources"][label]["file"])]
+    if missing:
+        st.info("The day planner needs these datasets: " + ", ".join(missing)
+                + ". Download them with `python download_osm.py`.")
+        return
+
+    places = load_day_planner_places(pdict)
+    if places.empty:
+        st.info("No places with coordinates are available for the day planner.")
+        return
+
+    ids = places["place_id"].tolist()
+    labels = places.set_index("place_id")["place_label"].to_dict()
+    start_id = st.selectbox("Choose your starting location", ids,
+                            format_func=lambda place_id: labels[place_id],
+                            key="day_plan_start")
+    if st.session_state.get("day_plan_start_id") != start_id:
+        st.session_state["day_plan_start_id"] = start_id
+        st.session_state["day_plan_stop_ids"] = []
+
+    stop_ids = st.session_state.setdefault("day_plan_stop_ids", [])
+    visited = [start_id] + stop_ids
+    current_id = visited[-1]
+    st.markdown("**Your day plan**")
+    st.markdown("1. **{}** _(start)_".format(labels[start_id]))
+    for index, place_id in enumerate(stop_ids, start=2):
+        distance = day_planner_distance(places, visited[index - 2], place_id)
+        st.markdown("{}. **{}** _(about {:.0f} m from previous stop)_".format(
+            index, labels[place_id], distance))
+
+    nearby = nearest_day_planner_places(places, current_id, visited)
+    if nearby.empty:
+        st.success("You have added every available place to your plan.")
+        return
+
+    st.caption("Choose from the five closest places to your current stop (straight-line distance).")
+    next_id = st.selectbox(
+        "Next stop",
+        nearby["place_id"].tolist(),
+        format_func=lambda place_id: "{} — {:.0f} m".format(
+            labels[place_id], nearby.loc[nearby["place_id"] == place_id, "distance_m"].iloc[0]),
+        key="day_next_choice_" + current_id,
+    )
+    add_col, reset_col = st.columns(2)
+    if add_col.button("Add next stop", key="day_plan_add"):
+        stop_ids.append(next_id)
+    if reset_col.button("Start over", key="day_plan_reset"):
+        st.session_state["day_plan_stop_ids"] = []
+
+
 @ht.timer
 def make_streamlit_app(pdict, df_residents):
     """Makes Streamlit App: OSM data of Berlin, controlled by pull-down menus"""
@@ -254,6 +352,7 @@ def make_streamlit_app(pdict, df_residents):
         unsafe_allow_html=True,
     )
     st.title("OpenStreetMap Berlin: Places and Supply")
+    render_day_planner(pdict)
 
     # ---- Menu 1: data source ------------------------------------------------
     visible = [k for k, v in pdict["sources"].items() if v.get("show", True)]

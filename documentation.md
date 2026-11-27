@@ -34,10 +34,12 @@ map and lets you combine your interests into a complete plan for your day.
 3. **Simplified the data-source menu for this use case.** Playgrounds and charging stations remain in the project but are hidden from the menu, keeping the visible choices more focused on places relevant to the Queer Berlin map.
 4. **Applied a subtle pink visual theme.** A light rose-white background, matching sidebar and soft metric cards improve visual consistency and make the Queer Berlin interface feel welcoming without distracting from the map or data.
 5. **Made Point map (clusters) the default map view.** The Streamlit app now opens with clustered individual points instead of choropleth areas or a heatmap, highlighting the location of each relevant place immediately.
+6. **Added a slim day planner.** Users choose a starting LGBTQ+ or cultural venue and add stops from the five closest unvisited places, recalculated from the latest stop. The itinerary is kept in the current app session and can be restarted.
 
 # Limits of the OSM Data
 The amount of LGBTQ+ Tags is not overwhelmingly good.
 The cultural facilities are missing the LGTBQ+ tag almost entirely - have to work with an assumption here (assumption: Every cultural place is LGBTW+ friendly)
+The planner uses straight-line distance, not walking or transit routes, and should be treated as a shortlist rather than a route optimizer.
 
 For “Number per 10,000 residents,” areas with fewer than 500 residents or with missing resident data are shown without a value to avoid unstable rates.
 
