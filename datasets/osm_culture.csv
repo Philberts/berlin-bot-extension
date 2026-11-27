@@ -1,0 +1,1044 @@
+osm_type;osm_id;name;lat;lon;cuisine;brand;operator;access;opening_hours;wheelchair;addr:postcode;kind;amenity;tourism
+node;29040741;Filmrauschpalast;52.53437840000001;13.3596231;;;Filmrausch Moabit e.V.;;;no;10557;cinema;cinema;
+node;66917094;Friedrichstadt-Palast;52.5239216;13.3888786;;;;;;yes;10117;theatre;theatre;
+node;66917098;Quatsch Comedy Club;52.52362389999998;13.3886211;;;;;;limited;10117;theatre;theatre;
+node;66917115;Kabarett-Theater Distel;52.52066690000001;13.3885051;;;Martin Maier-Bode;;;yes;10117;theatre;theatre;
+node;66917188;Admiralspalast;52.52077140000001;13.3889021;;;;;;yes;10117;theatre;theatre;
+node;73696610;Gedenkstätte Deutscher Widerstand;52.5076051;13.3629858;;;;;"Mo-Fr 09:00-18:00; Sa,Su,PH 10:00-18:00";limited;;museum;;museum
+node;79808389;Die Wühlmäuse;52.508865099999994;13.2707514;;;;;;yes;14052;theatre;theatre;
+node;84644782;Dokumentationszentrum Flucht, Vertreibung, Versöhnung;52.50487079999999;13.3822143;;;;;"Tu-Su 10:00-19:00; Mo off";yes;10963;museum;;museum
+node;101186634;UCI Am Eastgate;52.5417516;13.5420275;;UCI Kinowelt;;;"""30min vor Vorstellungsbeginn""";yes;12681;cinema;cinema;
+node;173985100;HAU 2 (Hebbel am Ufer);52.4991141;13.3858716;;;;;;yes;10963;theatre;theatre;
+node;229948256;Sophiensæle;52.5258825;13.4016022;;;Sophiensæle GmbH;;;yes;10178;theatre;theatre;
+node;251559871;Kino Intimes;52.51291090000001;13.458195500000002;;;;;"Mo-Fr 13:30-18:00+; Sa,Su 11:30-18:00+";yes;10245;cinema;cinema;
+node;256754256;Babylon;52.525898899999994;13.4114358;;;;;"Mo-Fr 17:00+; Sa,Su ""eine halbe Stunde vor der ersten Vorstellung""";limited;10178;cinema;cinema;
+node;257709121;Kulturhaus Spandau;52.53547869999999;13.202311700000001;;;;;;yes;;arts_centre;arts_centre;
+node;259797763;Berliner Kriminaltheater;52.5182037;13.439945500000002;;;BKT Bühnen und Betriebs GmbH;;;yes;10243;theatre;theatre;
+node;268591806;Das Museum der Domäne Dahlem;52.45835650000001;13.2889441;;;;;"Mo-Su 10:00-18:00; Th off";limited;;museum;;museum
+node;272004025;Cineplex;52.538500899999995;13.2063427;;Cineplex;;;Su-Th 09:30-22:30, Fr,Sa 09:30-00:30;limited;;cinema;cinema;
+node;272406395;Schaubühne am Lehniner Platz;52.4986606;13.3022747;;;Gemeinnützige Theaterbetriebs GmbH;;"Mo-Sa 11:00-18:30; Su 15:00-18:30";yes;10709;theatre;theatre;
+node;272807733;Ratibortheater;52.49768619999999;13.4429775;;;Harald Klenk;;;yes;10997;theatre;theatre;
+node;273477667;Kino Spreehöfe;52.46205929999999;13.5121795;;;;;"""Unterschiedlich, je nach Spielplan.""";limited;12459;cinema;cinema;
+node;277004600;Cosima;52.4769552;13.330452300000001;;;;;;no;12159;cinema;cinema;
+node;281391655;Stasimuseum;52.51450729999999;13.487485;;;ASTAK e.V.;;"Mo-Fr 10:00-18:00; Sa-Su,PH 11:00-18:00";yes;10365;museum;;museum
+node;281887442;Kino Toni & Tonino;52.5488199;13.4509296;;;;;Mo-Su 09:00-22:00;yes;13086;cinema;cinema;
+node;282754671;Verlängertes Wohnzimmer;52.514232899999996;13.4721701;;;;;;;10247;theatre;theatre;
+node;289404068;Deutsche Oper Berlin;52.51214409999999;13.3083771;;;Stiftung Oper in Berlin;;;yes;10627;theatre;theatre;
+node;290381165;Theater an der Parkaue;52.516993;13.4772031;;;;;;yes;10367;theatre;theatre;
+node;292700476;Feuerwehrmuseum Berlin;52.5863068;13.2863134;;;;;"Tu,Th 09:00-15:00; We 09:00-18:00; Fr,Sa 10:00-13:00; Mo,Su,PH off; Dec 24-Jan 01,easter -2 days-easter +1 day,easter +48 days-easter +50 days off";yes;13507;museum;;museum
+node;292738889;Museum für Kommunikation;52.50993079999999;13.387255200000002;;;;;"Tu 09:00-20:00; We-Fr 09:00-17:00; Sa-Su 10:00-18:00; PH 10:00-18:00";yes;10117;museum;;museum
+node;297049901;Museum Köpenick;52.445363799999996;13.5790965;;;;;"Mo-Th 10:00-18:00; Sa-Su 14:00-18:00";no;12555;museum;;museum
+node;299288097;Kino im Kulturhaus Spandau;52.53546149999998;13.2024584;;;;;"""Kassenöffnung 20 Min. vor Vorstellungsbeginn""";yes;13597;cinema;cinema;
+node;301107444;Atelier Achim Kühn;52.409749899999994;13.5713419;;;;;;;12524;gallery;;gallery
+node;303027574;Scheinbar Varieté;52.48811690000001;13.366734999999998;;;Scheinbar Varieté e.V.;;;no;10829;theatre;theatre;
+node;312618622;Kant Kino;52.5067663;13.3084282;;;Yorck Kinogruppe;;"""Öffnungszeiten: immer 30 Minuten vor der ersten Vorstellung""";limited;10627;cinema;cinema;
+node;313942258;CineStar;52.53779750000001;13.6041151;;CineStar;;;;yes;;cinema;cinema;
+node;315146496;Theater Thikwa (F40);52.48737379999999;13.3883479;;;Theater Thikwa e.V.;;;yes;10965;theatre;theatre;
+node;318525456;Komische Oper Berlin;52.515664799999996;13.3869856;;;Stiftung Oper in Berlin;;;yes;10117;theatre;theatre;
+node;331345531;Sputnik Kino;52.48999140000001;13.4101466;;;;;;limited;10967;cinema;cinema;
+node;333351711;Cineplex;52.481966100000015;13.4316965;;Cineplex;;;"Mo-Fr 14:30-18:00+; Sa,Su 11:30-18:00+";yes;;cinema;cinema;
+node;339825650;Lichtblick;52.53649870000001;13.4077602;;;Stattkino Berlin e.V.;;;no;10435;cinema;cinema;
+node;340388625;Deutschlandmuseum;52.508788399999986;13.378434;;;Betreibergesellschaft Deutschland Museum DM GmbH;;Mo-Su 10:00-20:00;yes;10117;museum;;museum
+node;343650200;Hackesche Höfe Kino;52.52406679999999;13.4019071;;;Timebandits Medienproduktions- und Vertriebs GmbH & Co. Kinobetriebs KG;;"""Täglich 30 Minuten vor Beginn der ersten Vorstellung""";no;10178;cinema;cinema;
+node;343650283;Kino Central;52.52456639999999;13.401842200000003;;;;;;limited;10178;cinema;cinema;
+node;344381412;Enthüllt. Berlin und seine Denkmäler;52.54121839999999;13.2138542;;;Kulturamt Spandau;;"We-Fr 10:00-17:00; Th 13:00-20:00";;13599;museum;;museum
+node;344642062;Kesselhaus Kulturbrauerei;52.5392251;13.4136688;;;;;;;10435;arts_centre;arts_centre;
+node;345806623;Deutsches Theater;52.5243546;13.381906600000002;;;;;;limited;10117;theatre;theatre;
+node;350460866;fsk - Kino am Oranienplatz;52.50152609999999;13.4145507;;;fsk Kino & Peripher Filmverleih GmbH;;;yes;10969;cinema;cinema;
+node;350460874;Babylon Kreuzberg;52.5006568;13.4169229;;;Yorck Kinogruppe;;;limited;10999;cinema;cinema;
+node;352907002;Xenon;52.48633029999999;13.359397600000001;;;Xenon Kino Wieske FTB Filmtheaterbetriebe;;;yes;10827;cinema;cinema;
+node;355500002;Erinnerungsstätte Notaufnahmelager Marienfelde;52.4204028;13.368450200000002;;;;;;yes;12277;museum;;museum
+node;355946428;Yorck;52.493048900000005;13.3853593;;;Yorck Kinogruppe;;;no;10965;cinema;cinema;
+node;369037135;Anti-Kriegs-Museum;52.54602059999999;13.3479549;;;Anti-Kriegs-Museum e.V.;;Mo-Su,PH 16:00-20:00;limited;13353;museum;;museum
+node;370766098;Galerie Zandi;52.503134499999994;13.3136309;;;;;"Mo-Fr 11:00-18:30; Sa 11:00-14:00";no;10629;gallery;;gallery
+node;372353895;Kunstforum Berliner Volksbank;52.5101819;13.2889708;;;;;;no;14057;arts_centre;arts_centre;
+node;387772994;Kunstgalerie;52.5226914;13.3893996;;;;;;;;arts_centre;arts_centre;
+node;388325296;Blauer Stern;52.58035869999999;13.401489;;;Yorck Kinogruppe;;;yes;13156;cinema;cinema;
+node;391462594;UCI Kinowelt;52.429525399999996;13.4554457;;UCI Kinowelt;;;;yes;12351;cinema;cinema;
+node;410135935;Studio für Gestaltung;52.49332689999999;13.427490300000002;;;;;"Th,Fr 13:00-18:00; Sa 12:00-16:00";yes;12047;beverages;;gallery
+node;410692505;La Girafe;52.4929136;13.4370565;;;;;;no;;gallery;;gallery
+node;410745800;kronenboden;52.5550908;13.3753262;;;;;;yes;13357;gallery;;gallery
+node;428511003;TIK: Theater im Kino;52.51661369999999;13.464371;;;;;;limited;;theatre;theatre;
+node;429739550;Mori-Ôgai-Gedenkstätte;52.5219182;13.3799981;;;;;"Tu,We,Fr 12:00-16:00; Th 12:00-18:00";;10117;museum;;museum
+node;437291301;Cinestar Cubix am Alexanderplatz;52.5202139;13.412091;;CineStar;;;"Mo,Tu 13:15-21:00; We-Fr 13:15-23:30; Sa 10:45-23:30; Su 10:45-21:00";yes;10178;cinema;cinema;
+node;447078290;Brotfabrik;52.552559599999995;13.4305846;;;;;"Mo-Fr 18:00+, Sa,Su 16:00-18:00+; PH 16:00-18:00+";yes;13086;cinema;cinema;
+node;448810258;Puppentheater-Museum Berlin;52.47728849999999;13.4390108;;;;;"Tu-Fr 09:00-18:00; Sa 14:00-18:00; Su 11:00-16:00";;12043;museum;;museum
+node;448811295;Moviemento;52.49033420000001;13.4234006;;;Moviemento Kino Betriebs GmbH;;;no;10967;cinema;cinema;
+node;453378190;Die Mauer | The Wall;52.5093664;13.3797713;;;Berlin Wall Exhibition UG;;Mo-Su,PH 10:00-18:00;yes;10117;museum;;museum
+node;454167248;Vineta Theater;52.5583825;13.413048;;;;;;no;;theatre;theatre;
+node;474378383;Kleines Theater;52.47336409999999;13.3223214;;;Kleines Theater am Südwestkorso GmbH;;;yes;12161;theatre;theatre;
+node;474801031;Passage Kino;52.47748109999999;13.439406;;;Yorck Kinogruppe;;;limited;12043;cinema;cinema;
+node;474801032;Neuköllner Oper;52.4775631;13.439333;;;Neuköllner Oper e.V.;;;no;12043;theatre;theatre;
+node;476027573;Theater Rambazamba;52.5399039;13.413636500000003;;;;;;yes;;theatre;theatre;
+node;494156434;Tilsiter Lichtspiele;52.52075149999999;13.447355;;;;;Mo-Fr 16:00-24:00+, Sa,Su 14:00-24:00+;no;10249;cinema;cinema;
+node;498822384;Berliner Unterwelten-Museum;52.54781169999999;13.3892456;;;Berliner Unterwelten e.V.;;;no;13355;museum;;museum
+node;507083358;Heimatmuseum Zehlendorf;52.43544959999999;13.260304900000001;;;;;"Mo,Th 10:00-18:00; Tu,Fr 10:00-14:00";no;14169;museum;;museum
+node;510154873;Volksbühne im Prater;52.53985980000001;13.4107279;;;;;;no;10435;theatre;theatre;
+node;511117580;Galería Lunasol;52.47001180000001;13.4322642;;;;;"Tu-Th 11:00-22:00; Fr,Sa 11:00-23:00";yes;12051;gallery;;gallery
+node;538692583;Museum für Naturkunde;52.5304903;13.3791152;;;Leibniz-Institut für Evolutions- und Biodiversitätsforschung;;"Tu-Fr 09:30-18:00; Sa,Su 10:00-18:00";yes;10115;museum;;museum
+node;540613216;Galgenhaus Stadtmuseum Berlin;52.5143734;13.402485900000002;;;;;;yes;10178;museum;;museum
+node;543623547;Errant Sound;52.512362200000005;13.419821300000002;;;Errant Sound e.V.;;;;10179;gallery;;gallery
+node;545060231;Hugenottenmuseum Berlin;52.514289;13.392429200000002;;;;;Tu-Su 11:30-16:30;yes;10117;museum;;museum
+node;545074057;Parlamentshistorische Ausstellung des Deutschen Bundestages;52.5126755;13.3927272;;;;;"May-Sep: 10:00-19:00; Oct-Apr 10:00-18:00";yes;10117;museum;;museum
+node;545733901;Theater im Palais;52.5185239;13.3954981;;;Theaterverein Am Festungsgraben e.V.;;;yes;10117;theatre;theatre;
+node;545738013;Saarländische Galerie;52.518549;13.395823000000002;;;;;;;;gallery;;gallery
+node;549931287;SpreeLacArt Kulturwerk Schöneweide;52.46089829999998;13.5130035;;;;;;yes;;theatre;theatre;
+node;559613172;Museum Treptow;52.44345189999999;13.5022281;;;;;Mo-Th 10:00-18:00, Fr 09:00-14:00, Sa-Su 14:00-18:00;yes;12487;museum;;museum
+node;569103989;Atelier Freier Fotografen;52.52465509999998;13.4511428;;;;;Sa,Su 15:00-18:00;no;10249;gallery;;gallery
+node;572221430;Vagantenbühne;52.5061225;13.328570500000001;;;Vagantenbühne Berlin gemeinnütziges Theater GmbH;;;limited;10623;theatre;theatre;
+node;573816270;;52.5417097;13.4882868;;;;;;;13055;gallery;;gallery
+node;577577509;Jugend[widerstands]museum;52.5177959;13.456325;;;;;"Mo-Fr 09:00-19:00; Sa 12:00-16:00";limited;10247;museum;;museum
+node;609911082;ACUDkino;52.5336773;13.4008281;;;;;;no;10119;cinema;cinema;
+node;611632754;Polizeimuseum;52.48298749999999;13.3869139;;;;;;no;12101;museum;;museum
+node;613229739;Theater Mirakulum;52.5356564;13.3980652;;;;;;no;10115;theatre;theatre;
+node;615148215;Chamäleon;52.524041999999994;13.402083;;;CHAMÄLEON Theater GmbH;;;limited;10178;theatre;theatre;
+node;619119805;Renaissance-Theater Berlin;52.510338399999995;13.323503;;;Neue Theater-Betriebs GmbH;;;no;10623;theatre;theatre;
+node;632148988;FHXB Friedrichshain-Kreuzberg Museum;52.50060179999999;13.4182215;;;Bezirksamt Friedrichshain-Kreuzberg;;"Tu-Fr 12:00-18:00; Sa-Su 10:00-18:00";limited;10999;museum;;museum
+node;638313755;Casablanca;52.435842;13.547897;;;;;entspr. Kinoprogramm;limited;12489;cinema;cinema;
+node;660899079;Freiluftkino Kreuzberg;52.5040614;13.4234804;;;;;"""Nur im Sommer, Filmstart nach Einbruch der Dunkelheit. """;yes;10997;cinema;cinema;
+node;661126964;Keramik-Museum Berlin;52.51719489999999;13.304034;;;Förderverein Keramik-Museum Berlin e.V.;;Fr-Mo 13:00-17:00;limited;10585;museum;;museum
+node;662864720;Rollberg Kino;52.4787966;13.428028600000001;;;Yorck Kinogruppe;;Sa,Su 16:45-18:00+;limited;12053;cinema;cinema;
+node;672798786;Galerie Wedding;52.547521999999994;13.3566625;;;Bezirksamt Mitte von Berlin;;"Tu-Sa 12:00-19:00; Su,Mo,PH off";yes;13353;arts_centre;arts_centre;
+node;675243681;CinemaxX;52.50864439999999;13.3737448;;Cinemaxx;;;;limited;10785;cinema;cinema;
+node;695831689;Theater Coupé;52.48943859999999;13.3122082;;;Künstlerkolonie Berin e.V.;;;limited;10713;theatre;theatre;
+node;701057032;Heimatmuseum Rudow;52.417444999999994;13.495073;;;Rudower Heimatverein;;We,Sa,Su 10:00-16:00;;12355;museum;;museum
+node;721672414;B.L.O. Ateliers;52.50435059999999;13.4833277;;;Lockkunst;;;;10317;arts_centre;arts_centre;
+node;735151601;BKA-Theater;52.49364049999999;13.3876998;;;Die Theaterexperten gGmbH;;;limited;10961;theatre;theatre;
+node;736236928;GISELA Freier Kunstraum Lichtenberg;52.50483359999999;13.490377;;;;;"Tu-Fr 12:00-16:00; Th 12:00-18:00; Sa 14:00-17:00";;10317;gallery;;gallery
+node;766728477;Geschichtsspeicher Fichtebunker;52.490337299999986;13.412901100000001;;;Berliner Unterwelten e.V.;customers;"""Kann nur während Führungen besichtigt werden. Termine unter tickets.berliner-unterwelten.de""";no;;museum;;museum
+node;766875174;Anna-Seghers-Gedenkstätte;52.43817069999999;13.5407192;;;;;Tu,Th 10:00-16:00;no;12489;museum;;museum
+node;771225710;Neuer Berliner Kunstverein;52.527912099999995;13.3860465;;;;;"Tu, We, Fr-Su 12:00-18:00; Th 12:00-20:00";yes;10115;arts_centre;arts_centre;
+node;775579194;Galerie Marinova;52.54638370000001;13.4090758;;;;;;;;gallery;;gallery
+node;837792482;Neues Off;52.4834225;13.4244236;;;Yorck Kinogruppe;;;no;12049;cinema;cinema;
+node;849063657;WasserWerkstatt des WasserMuseum e.V.;52.470499600000004;13.3037544;;;;;;;14199;museum;;museum
+node;866058308;SOX;52.5012357;13.418672600000003;;;;;;;10999;arts_centre;arts_centre;
+node;867738691;sakamotocontemporary;52.5024545;13.4144913;;;;;;yes;10969;arts_centre;arts_centre;
+node;873444364;Ballhaus Naunynstraße;52.50200309999999;13.4213249;;;;;;;10997;theatre;theatre;
+node;873444370;Hoftheater Kreuzberg;52.5016868;13.420827;;;;;;limited;10997;theatre;theatre;
+node;894765631;AHA-Berlin;52.48814670000001;13.3678205;;;AHA-Berlin e.V.;;;limited;10829;theatre;theatre;
+node;895507273;Maxim Gorki Theater - Studio;52.51898619999999;13.3959797;;;;;;yes;;theatre;theatre;
+node;895509940;Acker Stadt Palast - Freie Bühne Mitte .eV;52.529683999999996;13.3965478;;;;;;;;theatre;theatre;
+node;899133792;Zimmer 16;52.56549520000001;13.401433;;;;;;yes;;theatre;theatre;
+node;910361469;Heimathafen Neukölln;52.4770235;13.4399161;;;;;;limited;12043;theatre;theatre;
+node;910725856;Die Stachelschweine;52.50437119999999;13.3374894;;;Berliner Literarisches Kabarett GmbH;;;yes;10789;theatre;theatre;
+node;924203028;Galerie Mutter Fourage;52.41652059999999;13.1459292;;;;;"Fr 14:00-18:00; Sa,Su 12:00-17:00";;14109;gallery;;gallery
+node;945390395;Theatersaal des Kulturhauses Spandau;52.53548339999998;13.202507200000001;;;;;;;;theatre;theatre;
+node;945402693;BrotfabrikBühne;52.552560699999994;13.4307318;;;;;;no;13086;theatre;theatre;
+node;946790935;Theater Lichterfelde;52.441938999999984;13.2974764;;;Hans-Hermann Keune;;;;12205;theatre;theatre;
+node;977686791;Mehringhof Theater;52.491814899999994;13.3886918;;;Andreas Wahl;;;limited;10961;theatre;theatre;
+node;979081268;Titania-Palast;52.46414819999999;13.326652100000002;;;;;"""Kasseneröffnung 30 min vor der ersten Vorstellung""";limited;12163;cinema;cinema;
+node;1022709683;Lancini;52.5153343;13.2924731;;;;;"Mo,We,Th 11:00-18:30; Fr 11:00-15:30; Sa 11:30-18:00";;14059;arts_centre;arts_centre;
+node;1096182603;Theater im Nikolaiviertel;52.516541;13.40783;;;;;;;;theatre;theatre;
+node;1154118481;Zimmertheater Steglitz;52.466759499999995;13.3213047;;;;;;limited;12163;theatre;theatre;
+node;1158225994;Ballhaus Ost;52.5430043;13.415305000000002;;;;;;limited;10437;theatre;theatre;
+node;1175152683;Wohnzimmerclub;52.4911319;13.4249827;;;;;;limited;;theatre;theatre;
+node;1181726882;Grimmuseum;52.49103289999999;13.4128111;;;;;;;10967;arts_centre;arts_centre;
+node;1187935417;Theater am Frankfurter Tor;52.51663739999999;13.4508762;;;;;;no;;theatre;theatre;
+node;1197273317;OpenAirKino Spandau;52.5364431;13.2015024;;;;;;yes;13597;cinema;cinema;
+node;1216694752;NOrthEurope/WestGermany;52.4992773;13.4196111;;;;;;no;10999;arts_centre;arts_centre;
+node;1216706172;NK;52.48579929999999;13.448829;;;;;;limited;;arts_centre;arts_centre;
+node;1216725461;ohrenhoch, der Geräuschladen;52.4868316;13.4360547;;;;;Su 14:00-21:00;limited;12045;arts_centre;arts_centre;
+node;1216725466;Ausland;52.54483869999999;13.4194785;;;;;;no;10437;arts_centre;arts_centre;
+node;1244787397;Galerie Heba im Atelier;52.498699;13.4427006;;;;;"Su 14:00-17:00; Mo,Tu 11:00-18:00; Fr,Sa 11:00-18:00";no;10997;art;;gallery
+node;1246340370;F40 - English Theatre Berlin;52.48723529999999;13.3883628;;;;;;limited;10965;theatre;theatre;
+node;1246402201;Das Weite Theater;52.516917799999995;13.477426700000002;;;Das Weite Theater e.V.;;;limited;10367;theatre;theatre;
+node;1246402202;Theater der kleinen Form;52.511813599999996;13.4487808;;;KiT - Kinder im Theater e.V.;;;no;10243;theatre;theatre;
+node;1246402203;Theater O-TonArt;52.491975599999996;13.3645476;;;Art aller Art e.V.;;;;10783;theatre;theatre;
+node;1246402205;Theater o.N.;52.534984800000004;13.4162235;;;Theater o.N. e.V.;;;no;10405;theatre;theatre;
+node;1246402206;bat-Studiotheater;52.531816400000004;13.418434;;;;;;yes;10405;theatre;theatre;
+node;1246402207;HAU 3 (Hebbel am Ufer);52.49733899999998;13.3856884;;;;;;no;10963;theatre;theatre;
+node;1246402209;Schlesische 27;52.4985811;13.4480786;;;Verein zur Förderung der Interkulturellen Jugendarbeit e.V.;;;;10997;arts_centre;arts_centre;
+node;1246402211;UNI.T;52.50984570000001;13.3289883;;;;;;no;10623;theatre;theatre;
+node;1256737686;Kleinkunstkeller;52.492515399999995;13.4162451;;;;;;no;;theatre;theatre;
+node;1257857018;Galerie am Tuchollaplatz;52.50278809999999;13.479651;;;;;Th 16:00-19:00;no;;gallery;;gallery
+node;1257857022;Museum Lichtenberg im Stadthaus;52.50299089999999;13.480855100000001;;;;;Tu-Su 11:00-18:00;no;10317;museum;;museum
+node;1260572076;Die Pankower Machthaber;52.57639869999998;13.4063769;;;;;"Mo-Su 10:00-18:00; PH off";yes;;museum;;museum
+node;1263355907;Prime Time Theater;52.543494499999994;13.3633056;;;;;;yes;13353;theatre;theatre;
+node;1263799847;Disconnect Art Gallery and Record Shop;52.5109844;13.4671354;;;;;"Th-Sa 14:00-19:00; PH off";limited;10247;music;;gallery
+node;1269889052;Centre Français de Berlin;52.55838519999998;13.3391068;;;Centre Français de Berlin gGmbH;;;yes;13349;arts_centre;arts_centre;
+node;1270188822;Computerspielemuseum;52.517578999999984;13.4419522;;;Gameshouse gGmbH;;Mo-Su 10:00-20:00;limited;10243;museum;;museum
+node;1270330031;Galerie 15;52.50381509999998;13.290977400000001;;;;;"Sa,Su 13:00-16:00; Mo-Fr 09:00-17:00";;14057;gallery;;gallery
+node;1289390673;Die Musenstube;52.48603909999999;13.4319584;;;;;;;;theatre;theatre;
+node;1303363193;Theater im Keller;52.48841999999999;13.4277627;;;;;;no;12047;theatre;theatre;
+node;1333382350;Kunsthaus;52.537975399999986;13.430623900000002;;;;;;;;arts_centre;arts_centre;
+node;1334978500;Keramik offene Werkstatt;52.5380153;13.4307546;;;;;;;;arts_centre;arts_centre;
+node;1336816758;Sweet Secrets;52.5383336;13.2028074;;;;;;yes;13597;cinema;cinema;
+node;1336883756;Theater am Potsdamer Platz;52.50722079999999;13.3721193;;;Cirque du Soleil Entertainment Group;;;yes;10785;theatre;theatre;
+node;1336890158;Dancetheater LaborGRAS.com;52.4967578;13.4214048;;;;;;;;theatre;theatre;
+node;1356039238;WK+;52.48326519999999;13.4349684;;;;;Th-Sa 16:00-20:00;yes;12043;gallery;;gallery
+node;1358325721;Berliner U-Bahn-Museum;52.5173541;13.2499733;;;Arbeitsgemeinschaft Berliner U-Bahn e.V.;;Sa[2] 10:30-16:00;no;14052;museum;;museum
+node;1373939507;Raum für drastische Maßnahmen;52.5094253;13.4726497;;;;;Th,Sa 17:00-20:00;;10247;gallery;;gallery
+node;1387498130;Aedes Gallery;52.53217020000002;13.4108887;;;;;"Tu-Fr 11:00-18:30; Su,Mo,PH 13:00-17:00";no;10119;gallery;;gallery
+node;1390712121;Das Verborgene Museum  (geschlossen);52.50803979999999;13.318459300000002;;;;;;no;;museum;;museum
+node;1445221277;Kammerspiele;52.52427499999999;13.3813992;;;;;;yes;10117;theatre;theatre;
+node;1457124704;Maxim-Gorki-Theater;52.51901409999999;13.3950767;;;;;;yes;10117;theatre;theatre;
+node;1476011662;Zille-Museum;52.5164;13.4061389;;;Heinrich Zille Freundeskreis e.V.;;"We-Sa 11:00-18:00; Su,PH 13:00-18:00";yes;10178;museum;;museum
+node;1478259435;Kunstraum Kreuzberg/Bethanien;52.5045518;13.4237552;;;;;Mo-Su 10:00-20:00;yes;;arts_centre;arts_centre;gallery
+node;1486087544;BühnenRausch;52.5514416;13.4183206;;;;;;no;10439;theatre;theatre;
+node;1505273433;Kunstgewerbemuseum;52.44403289999999;13.5728521;;;Staatliche Museen zu Berlin;;"Oct-Mar: Th-Su 11:00-17:00; Apr-Sep: We-Fr 11:00-17:00; Apr-Sep: Sa,Su 11:00-18:00";yes;;museum;;museum
+node;1510226734;WIRWIR;52.4805238;13.4450094;;;Dérive UG;;;;12059;gallery;;gallery
+node;1552051436;Galerie Neu;52.52733690000001;13.3907807;;;Galerie Neu GmbH & Co. KG;;Tu-Fr 11:00-18:00;;10115;gallery;;gallery
+node;1552051918;Imago;52.52690119999999;13.3912329;;;;;;;10115;gallery;;gallery
+node;1569218585;Kino Sex Shop;52.4896169;13.427538600000002;;;;;;no;;cinema;cinema;
+node;1573750954;Kultur in der Petruskirche;52.4251253;13.3280056;;;;;;limited;12209;arts_centre;arts_centre;
+node;1583408273;Museum Pankow;52.56421979999999;13.4024579;;;Bezirksamt Pankow;;"Tu,Th,Sa,Su 10:00-18:00; PH off";no;13187;museum;;museum
+node;1653339015;Museum Blindenwerkstatt Otto Weidt;52.52429430000001;13.4021873;;;;;"Mo-Fr 09:00-18:00; Sa-Su,PH 10:00-18:00; Dec 24 off";yes;10178;museum;;museum
+node;1695270262;Mai van der Linden;52.53358;13.402415;;;;;;;;gallery;;gallery
+node;1737242128;Berliner Tschechow Theater;52.571365199999995;13.5682593;;;;;;yes;12689;theatre;theatre;
+node;1739006720;Theater unterm Turm;52.4950885;13.3254288;;;;;;;10719;theatre;theatre;
+node;1746712005;Kleine Nachtrevue;52.50331879999999;13.3479976;;;Sylvia Schmid;;;no;10787;theatre;theatre;
+node;1759670848;Atelier Lücki;52.5006344;13.4941506;;;;;;;;gallery;;gallery
+node;1787511231;b-ware! ladenkino;52.5118751;13.4616485;;;;;10:45+;limited;10245;cinema;cinema;
+node;1791505197;Theater Remise;52.504084000000006;13.4822631;;;;;;limited;;theatre;theatre;
+node;1827559268;Werkbund Berlin;52.5090606;13.3184486;;;;;;no;10623;museum;;museum
+node;1860421220;Galerie Schwind;52.52672890000001;13.3958993;;;;;;yes;10117;gallery;;gallery
+node;1860480265;Hamburger Bahnhof - Nationalgalerie der Gegenwart;52.528439999999996;13.372038600000002;;;Staatliche Museen zu Berlin;;"Tu-We,Fr 10:00-18:00; Th 10:00-20:00; Sa-Su 11:00-18:00";yes;10557;gallery;;gallery
+node;1863569258;Filmtheater am Friedrichshain;52.5290424;13.430316800000002;;;Yorck Kinogruppe;;;limited;10407;cinema;cinema;
+node;1867566597;Forum Willy Brandt Berlin;52.5153117;13.3863294;;;Bundeskanzler-Willy-Brandt-Stiftung;;11:00-17:00;yes;10117;museum;;museum
+node;1871854816;Tempodrom;52.5016098;13.381181;;;Tempodrom Betriebsgesellschaft mbH & Co. KG;;;yes;10963;theatre;theatre;
+node;1874529830;Ausstellungen in der Kleinen Orangerie am Schloss Charlottenburg;52.5199022;13.2936163;;;Elke von der Lieth;;"Tu-Fr 10:00-17:00; We 10:00-19:00; Sa off; Su 11:00-17:00";limited;14059;museum;;museum
+node;1874529831;Kommunale Galerie Berlin;52.489492399999996;13.3120475;;;;;"Tu-Fr 10:00-17:00;We 10:00-19:00; Su 11:00-17:00";yes;10713;gallery;;gallery
+node;1894233174;studio.w;52.49301409999999;13.4174861;;;;;;;;gallery;;gallery
+node;1904205947;Mind Pirates;52.5006861;13.445552300000001;;;;;;;;arts_centre;arts_centre;
+node;1905963685;Galerie Anna Probst;52.49578069999999;13.324247900000001;;;;;;;10719;gallery;;gallery
+node;1909615766;Kunsthaus Davidu Berlin;52.4902771;13.3932794;;;;;;;10961;gallery;;gallery
+node;1934149453;filmkunst 66;52.5044255;13.319656700000001;;;Regina Ziegler und Tanja Ziegler GbR;;;limited;10623;cinema;cinema;
+node;1945796840;Cosmic Comedy Club;52.52980139999999;13.410003;;;;;;limited;10119;theatre;theatre;
+node;1948871674;Freie Theateranstalten Berlin;52.51829339999999;13.2899708;;;;;;limited;14059;theatre;theatre;
+node;1965270875;BE-KAS Sexothek & Kino;52.48379669999999;13.4295458;;;;;;no;;cinema;cinema;
+node;1979921489;G-allery;52.5020343;13.3135977;;;;;;;;gallery;;gallery
+node;1987766261;Reister Webdesign;52.52912030000001;13.4087336;;;;;;no;;gallery;;gallery
+node;2033362563;Berliner Medizinhistorisches Museum der Charité;52.526136;13.3745186;;;Charité - Universitätsmedizin Berlin;;"Mo off; Tu,Th-Fr,Su 10:00-17:00; We,Sa 10:00-19:00";limited;10117;museum;;museum
+node;2055249974;ChertLüdde;52.486822499999995;13.3566353;;;;;;;10827;gallery;;gallery
+node;2093602596;Fabriktheater;52.534271200000006;13.359503400000001;;;Fabriktheater Moabit e.V.;;;no;10557;theatre;theatre;
+node;2160083741;Delphi LUX;52.5060698;13.3305818;;;Yorck Kinogruppe;;"""30 Minuten vor Vorstellungsbeginn""";yes;10623;cinema;cinema;
+node;2164030082;Anne Frank Zentrum;52.5244928;13.4019195;;;;;Tu-Su 10:00-18:00;yes;10178;museum;;museum
+node;2171343204;Einbildmalen;52.50659789999999;13.3203744;;;;;;no;10623;gallery;;gallery
+node;2192175175;Only Photography;52.50399779999999;13.3188208;;;;;;;10629;gallery;;gallery
+node;2280779378;Crystal;52.48480359999999;13.3912374;;;;;;yes;10965;arts_centre;arts_centre;
+node;2281044314;Galerie Olga Benario;52.477702699999995;13.4401793;;;;;"""by appointment""";;12043;gallery;;gallery
+node;2321948745;Uhrenmuseum;52.4699672;13.3340538;;;;;;limited;12159;museum;;museum
+node;2334724664;okk - Organ kritischer Kunst;52.557159899999995;13.3855346;;;;;;;13359;gallery;;gallery
+node;2335146075;Das Gotische Haus;52.53768590000001;13.2067237;;;;;"Mo-Sa 10:00-18:00; Su 12:00-18:00; PH off";no;;museum;;museum
+node;2360277462;Bezirksmuseum Marzahn-Hellersdorf, Haus 2;52.54349199999999;13.5619103;;;;;Mo-Fr 10:00-18:00;yes;;museum;;museum
+node;2374926524;Theater Aufbau Kreuzberg;52.5032468;13.4088806;;;;;;yes;;arts_centre;arts_centre;
+node;2395299465;Theater Artenschutz;52.52053519999999;13.3586326;;;;;;no;10557;theatre;theatre;
+node;2401869345;Mauermuseum;52.507187099999996;13.390676000000001;;;;;Mo-Su 10:00-18:00;no;10969;museum;;museum
+node;2445454963;Eva Lichtspiele;52.484682;13.3200059;;;;;;limited;10713;cinema;cinema;
+node;2456821792;Stadtteilzentrum Pankow Bürgerhaus e.V.;52.5699319;13.3996926;;;;;;yes;13187;arts_centre;arts_centre;
+node;2458223837;Kino Krokodil;52.55244340000001;13.4195677;;;;;"""varies according to the monthly program (see website kino-krokodile.de, fliers)""";no;10437;cinema;cinema;
+node;2471028319;Robert Grunenberg;52.5055658;13.3239833;;;;;;;10623;gallery;;gallery
+node;2476268052;Bundesplatz Studio;52.47898369999999;13.3293579;;;;;;limited;10715;cinema;cinema;
+node;2479053617;Cinema Paris;52.5020922;13.3249378;;;Yorck Kinogruppe;;;limited;10719;cinema;cinema;
+node;2483030293;Tanzfabrik Berlin;52.4907694;13.379104;;;Tanzfabrik Berlin e. V.;;;;10965;arts_centre;arts_centre;
+node;2488873131;Garn Theater;52.487037999999984;13.376389000000001;;;Adolfo Assor;;;;10965;theatre;theatre;
+node;2518081510;bauchhund salonlabor;52.473376200000004;13.4517863;;;;;Th 20:00+;no;;gallery;;gallery
+node;2565247202;Kunstgießerei & Galerie Flierl;52.553215899999984;13.4405365;;;;;;yes;13086;gallery;;gallery
+node;2627106420;Volksbühne am Rosa-Luxemburg-Platz;52.52702399999999;13.4119171;;;;;;limited;10178;theatre;theatre;
+node;2645539038;Galerie im Körnerpark;52.471189500000015;13.436605299999998;;;Bezirksamt Neukölln, Fachbereich Kultur;;"Mo-Su,PH 10:00-20:00; Dec 24-25 off; Dec 31-Jan 01 off";yes;12051;gallery;;gallery
+node;2674916628;Katakomben;52.4879104;13.375692;;;;;24/7;no;10965;arts_centre;arts_centre;
+node;2715760752;Tischlerei;52.513302599999996;13.307806;;;;;;;;theatre;theatre;
+node;2733888748;Studiobühne;52.51616769999999;13.4422678;;;;;;yes;;theatre;theatre;
+node;2733888749;Projektraum;52.51623459999999;13.4420943;;;;;;yes;;gallery;;gallery
+node;2733904737;Waldmuseum;52.4871137;13.2512169;;;;;;;14193;museum;;museum
+node;2763752659;Schaubude Berlin;52.540913599999996;13.4390617;;;;;;limited;10405;theatre;theatre;
+node;2781293656;Theater Nikolassee;52.424908599999995;13.2050769;;;;;;;14129;theatre;theatre;
+node;2796309823;Kiez Galerie / Initiative;52.4909291;13.447473800000001;;;;;"Tu 10:00-12:00,14:00-16:00; We 16:00-18:00; Th-Su 15:00-19:00";limited;12435;arts_centre;arts_centre;
+node;2807497298;Lippenstiftmuseum;52.4883396;13.3340771;;;;;"""nach Terminvereinbarung""";;;museum;;museum
+node;2807538150;DDR-Museumswohnung WBS 70;52.5342987;13.5930033;;;;;"Su 14:00-16:00; ""oder nach Vereinbarung unter +49 151 16114440""";;12627;museum;;museum
+node;2807587974;Museum der Unerhörten Dinge;52.48699229999999;13.3586756;;;;;We-Fr 15:00-19:00;yes;;museum;;museum
+node;2818117012;Schwules Museum *;52.5042512;13.3582193;;;;;"Mo, We, Fr 12:00-18:00; Th 12:00-20:00; Sa 14:00-19:00; Su 14:00-18:00";yes;10785;museum;;museum
+node;2825036523;Vetomat;52.50870359999999;13.4606574;;;;;;no;10245;arts_centre;arts_centre;
+node;2830792309;Theaterspielraum Bethanien;52.5036751;13.4232108;;;;;;limited;10997;arts_centre;arts_centre;
+node;2845403101;Judo Welt-Museum;52.44049299999999;13.3911183;;;Lothar Nest;;"Mo,Tu,Th 17:00-21:00;We,Fr 16:00-23:00; Sa,Su, PH off";no;;museum;;museum
+node;2849129814;Buchhändlerkeller;52.51807999999999;13.3082666;;;;;;;10587;arts_centre;arts_centre;
+node;2853421751;Spandovia Sacra – Museum mit Bibliothek und Archiv;52.5387799;13.2056528;;;Ev. Kirchengemeinde St. Nikolai;;"Fr-Su 15:00-18:00 ""sowie nach Vereinbarung""";;13597;museum;;museum
+node;2853902146;Sexauer Gallery;52.5510653;13.4388651;;;Jan-Philipp Sexauer;;We-Sa 14:00-18:00;yes;13086;gallery;;gallery
+node;2856161800;Lab for Emerging Arts and Performance;52.511188999999995;13.3941846;;;;;;;10117;arts_centre;arts_centre;
+node;2877333455;Theaterhof;52.4523699;13.289491600000002;;;;;;;;theatre;theatre;
+node;2886633616;Spandauer Theater Varianta;52.5390911;13.205015400000002;;;;;;no;;theatre;theatre;
+node;2891401081;Kulturversteck Tegel;52.59189749999999;13.283531100000001;;;;;;;13507;theatre;theatre;
+node;2918303868;Freilichtbühne;52.47268;13.2698924;;;;;;;;theatre;theatre;
+node;2950100933;Drink and Draw;52.48015159999999;13.4999684;;;;;;;12459;arts_centre;arts_centre;
+node;2959465154;C/O Berlin;52.506594699999994;13.3306266;;;C/O Berlin Foundation;;"Mo-Su 11:00-20:00; PH 11:00-20:00";yes;10623;museum;;museum
+node;2965254689;Haus für Poesie;52.54000239999999;13.4132824;;;;;;;;arts_centre;arts_centre;
+node;2971387933;Ramones Museum;52.482481299999996;13.4430897;;;;;"Mo-Fr 16:00+; Sa-Su 12:00+";;12045;museum;;museum
+node;3002968653;Kunstwerkstatt des russischen Hauses in Berlin;52.5136844;13.3891789;;;;;;;;gallery;;gallery
+node;3074703141;Galerie Zeitzone;52.5031955;13.4204361;;;;;;;10997;gallery;;gallery
+node;3116790122;Sternberg - Theater in der Spielbank;52.50789950000001;13.372025;;;;;;yes;10785;theatre;theatre;
+node;3144651070;Kotti Shop;52.499748499999995;13.4192379;;;;;;yes;10999;arts_centre;arts_centre;
+node;3203167561;Deutsches Historisches Museum;52.5177477;13.397022500000002;;;Stiftung Deutsches Historisches Museum;;"Mo-Su 10:00-18:00; Dec 24 off";yes;10117;museum;;museum
+node;3216719427;;52.506575;13.3903538;;;;;;;;gallery;;gallery
+node;3241428528;Art Square;52.515929299999996;13.4608911;;;;;;;10247;gallery;;gallery
+node;3255895792;Trabi Museum;52.50745100000001;13.388650000000002;;;;;10:00-18:00;yes;10969;museum;;museum
+node;3287787806;G.A.S-station;52.4947067;13.4001846;;;;;We-Fr 15:00-18:00;no;10961;gallery;;gallery
+node;3312400192;Puppentheater Berlin;52.51670419999999;13.302854;;;;;;no;10585;theatre;theatre;
+node;3314515604;;52.534656299999995;13.4165594;;;;;;;;gallery;;gallery
+node;3343043950;Gangway e.V. - Verein für Straßensozialarbeit;52.523480599999985;13.380149300000001;;;;;;no;10117;arts_centre;arts_centre;
+node;3354056742;Rotkreuz-Museum;52.474300899999996;13.3268744;;;Rotkreuz-Museum Berlin e.V.;;We 16:00-19:00;yes;12161;museum;;museum
+node;3354648518;galerie georg nothelfer;52.5066964;13.3505106;;;;;;yes;;gallery;;gallery
+node;3449612281;Tanzfabrik Berlin Studio 4;52.49070890000001;13.3774412;;;;;;no;10965;arts_centre;arts_centre;
+node;3449612282;Tanzfabrik Berlin Studios 1-3;52.49076839999999;13.3777744;;;;;;no;10965;arts_centre;arts_centre;
+node;3464946992;Puppentheater Felicio;52.5505948;13.4120357;;;;;;no;10439;theatre;theatre;
+node;3478842464;Zwitschermaschine;52.4948089;13.3613629;;;;;;limited;;art;;gallery
+node;3487575693;Zaubertheater Igor Jedlin;52.50029500000001;13.3017312;;;;;;;10629;theatre;theatre;
+node;3513338376;Berliner Stadtmodelle;52.5132378;13.4159972;;;;;Mo-Sa 10:00-18:00;yes;;museum;;museum
+node;3530865986;Camera Work Photogalerie;52.504893200000005;13.3244289;;;;;Tu-Sa 11:00-18:00;;10623;gallery;;gallery
+node;3632389516;Noah Klink Gallery;52.49256509999999;13.364788900000002;;;;;;;10783;gallery;;gallery
+node;3641040703;KW Institute for Contemporary Art;52.5271636;13.3948218;;;;;"Fr-Mo 12:00-19:00; Th 12:00-21:00; We 12:00-19:00";no;10117;gallery;;gallery
+node;3675973920;Astor Film Lounge;52.50325120000001;13.330021600000002;;;;;;limited;10719;cinema;cinema;
+node;3676215899;Menschen Museum;52.52057909999999;13.408904100000003;;Körperwelten;Institute for Plastination e.K;;10:00-19:00;yes;10178;museum;;museum
+node;3716477056;Spiegelsalon;52.50386859999999;13.294007600000002;;;;;Th-Sa 16:00-19:00;;14057;theatre;theatre;
+node;3717599626;Culterim Spaces;52.521440999999996;13.4112845;;;;;;;;gallery;;gallery
+node;3749451170;Deutsches Spionagemuseum;52.50901249999999;13.379293700000002;;;;;10:00-20:00;yes;10117;museum;;museum
+node;3755207008;Museum Europäischer Kulturen;52.45555999999999;13.292635000000002;;;;;"Sa-Su 11:00-18:00; We-Fr 10:00-17:00";limited;;museum;;museum
+node;3763639067;Ida Nowhere;52.47821369999999;13.4430391;;;eiliges Kanonenohr e.V.;;Sa 18:00+;;12043;theatre;theatre;
+node;3801390186;galerie burster;52.5020607;13.3259855;;;;;;;;gallery;;gallery
+node;3814667251;Africa Art Gallery;52.50386639999999;13.3218562;;;;;;yes;10623;gallery;;gallery
+node;3817115996;City Kino Wedding im Centre Français;52.5585816;13.3395608;;;;;"""Nach Spielplan""";no;;cinema;cinema;
+node;3837620170;Wintergarten Varieté;52.50218019999999;13.364582;;;;;;yes;10785;theatre;theatre;
+node;3838219406;König Galerie;52.50074219999999;13.400910500000002;;;;;Tu-Su 11:00-18:00;;10969;gallery;;gallery
+node;3838230484;Max Hetzler;52.5018777;13.3659139;;;;;;;10785;gallery;;gallery
+node;3861762661;re|space;52.50270369999999;13.3209826;;;;;Tu-Sa 10:00-18:00;;10629;gallery;;gallery
+node;3874869057;Galerie Torstraße - Popup Shop;52.52925879999999;13.396231200000003;;;;;;no;10115;gallery;;gallery
+node;3917330120;Steglitz Museum;52.437256399999995;13.3026687;;;Heimatverein Steglitz e. V.;;"Tu-Fr 15:00-18:00; Su 15:00-18:00";;12205;museum;;museum
+node;3925275757;Pfefferberg Theater;52.531674;13.411322;;;;;;yes;10119;theatre;theatre;
+node;3933417014;Japonica Graphic;52.51365839999998;13.4584461;;;;;;;;gallery;;gallery
+node;3943789009;Galerie kajetan;52.5084239;13.3206186;;;Tobias Posselt;;"Mo-Tu,Su,PH off; We-Sa 12:00-18:00";no;;gallery;;gallery
+node;3977880885;Gutshof Gatow und Garten der Religion;52.48493959999999;13.1817243;;;;;;yes;14089;museum;;museum
+node;4002168008;Urbanraum;52.489227299999996;13.4230332;;;;;;yes;10967;arts_centre;arts_centre;
+node;4007032909;Schneiders Filmclub;52.5411004;13.3849408;;;;;"""nur zu speziellen vereinzelten Vorstellungen""";yes;13355;cinema;cinema;
+node;4060728418;Galerie Wigand;52.51487689999999;13.305353000000002;;;;;;;10585;gallery;;gallery
+node;4061948104;Made in Wedding;52.560054;13.379524;;;;;;;;gallery;;gallery
+node;4061948105;toolbox Gallery;52.5601093;13.3795606;;;;;;;;gallery;;gallery
+node;4065074489;Fliegendes Theater;52.489792699999995;13.4222385;;;;;;yes;10967;theatre;theatre;
+node;4151694509;Kaspertheater Rixdorf;52.47374369999999;13.4490449;;;;;;;;theatre;theatre;
+node;4167927508;Atelier Sam Grigorian;52.533082300000004;13.4092451;;;Sam Grigorian;;;no;;gallery;;gallery
+node;4187244802;Rath Factory;52.515247699999996;13.4091883;;;;;;;;gallery;;gallery
+node;4193664825;The Kennedys;52.5264157;13.3944625;;;;;;no;;gallery;;gallery
+node;4197069045;Sporttauchermuseum;52.41929769999999;13.5877844;;;;;;;12557;museum;;museum
+node;4210852779;Wassersportmuseum;52.41197929999999;13.5874462;;;;;We 10:00-16:00;;12527;museum;;museum
+node;4215688690;Fotogalerie Friedrichshain;52.508404699999986;13.448470100000002;;;;;"Tu,We,Fr,Sa 14:00-18:00; Th 10:00-20:00";yes;10243;gallery;;gallery
+node;4219262248;Sammlung Boros;52.523509000000004;13.38404;;;;;Fr-Su 10:30-19:30;limited;;gallery;;gallery
+node;4243480894;Zebrano-Theater;52.50571610000001;13.4667402;;;;;;limited;10245;theatre;theatre;
+node;4261575761;Linien83a Atelier Patricia Dreyfus;52.5289959;13.3994517;;;;;;no;10119;gallery;;gallery
+node;4261575763;HVW8;52.5280088;13.3952512;;;;;;no;10115;gallery;;gallery
+node;4261575768;Kuckei + Kuckei;52.5277836;13.394478300000001;;;;;;;10115;gallery;;gallery
+node;4261575770;Martin Mertens;52.5271057;13.3920137;;;;;;no;10115;gallery;;gallery
+node;4261575774;Museum der Stille;52.527565599999996;13.3936942;;;;;Sa-Su 14:00-19:00;;10115;museum;;museum
+node;4261575778;Rasche Ripken;52.5270755;13.3918812;;;;;;no;10115;gallery;;gallery
+node;4266723799;Jordan Seydoux;52.526834;13.396419400000001;;;;;Tu-Sa 12:00-18:00;no;10117;gallery;;gallery
+node;4269824816;Museum Historischer Ort Krumpuhler Weg;52.573639299999996;13.2727004;;;;;;;13507;museum;;museum
+node;4278104787;Von Hirscheydt;52.5020654;13.3154057;;;;;;;;gallery;;gallery
+node;4306025961;Savvy Contemporary;52.544730699999995;13.370709200000002;;;;;Th-Su 14:00-19:00;yes;13347;gallery;;gallery
+node;4320989889;Architektur Galerie Berlin XXV;52.51670179999999;13.4420426;;;;;"Tu-Fr 14:00-19:00; Sa 12:00-18:00";no;10243;gallery;;gallery
+node;4366560440;Projekte;52.5659483;13.3983263;;;;;;;13187;arts_centre;arts_centre;
+node;4366611765;Flakturmruine Volkspark Humboldthain;52.547458799999994;13.3850341;;;Berliner Unterwelten e.V.;;"May-Oct ""Nach Vereinbarung. Reservierung erforderlich.""";no;;museum;;museum
+node;4388867424;Madame Tussauds;52.51684159999999;13.381674200000003;;;Merlin Entertainments Group;;10:00-19:00;yes;10117;museum;;museum
+node;4405990770;Lapidarium Köllnischer Park;52.51305439999999;13.414332300000002;;;;;;yes;;museum;;museum
+node;4412304403;Urban Art Kids;52.509661400000006;13.3077018;;;Astrid Bassler;;"Tu-Fr 16:00-18:00; Sa 11:00-14:00; Su,Mo off";;10627;gallery;;gallery
+node;4454024998;Galerie M + R Fricke;52.52904509999999;13.328347800000001;;;;;"Tu-Fr 11:00-18:00; Sa 12:00-17:00";no;10553;gallery;;gallery
+node;4456147960;Theater im Delphi;52.5519035;13.4311632;;;Theater im Delphi gGmbH;;;yes;13086;theatre;theatre;
+node;4465297306;Theater im Bergmannkiez;52.489748299999995;13.393375500000001;;;;;;;;theatre;theatre;
+node;4479183428;Galerie Born;52.5053398;13.36739;;;Matthias Fuhrmann;;Tu-Sa 11:00-18:00;limited;10785;gallery;;gallery
+node;4479183429;House of Egorn;52.50562540000001;13.367117000000002;;;;;;;;gallery;;gallery
+node;4479183430;Verein Berliner Künstler;52.5056639;13.3662054;;;;;"Tu-Fr 15:00-19:00; Sa,Su 14:00-18:00";;;gallery;;gallery
+node;4491488301;Helmut Newton Foundation;52.50801909999999;13.3320045;;;;;"Tu,We,Fr,Sa,Su 11:00-19:00; Th 11:00-20:00; Mo off";yes;;museum;;museum
+node;4508022333;Galli Theater Berlin;52.5258054;13.3943591;;;;;;no;10117;theatre;theatre;
+node;4511961891;Magicum;52.5247205;13.399090700000002;;;;;"PH,Mo-Su 11:00-18:00; Sa 11:00-19:00; Dec 24-25 off; Dec 31 11:00-17:00; Jan 01 12:00-18:00";no;;museum;;museum
+node;4512601381;Schau Fenster;52.5031351;13.407127900000003;;;;;;;10969;gallery;;gallery
+node;4549849349;Kulturhaus Karlshorst;52.48205819999999;13.5251196;;;;;"Mo-Sa 11:00-19:00; Su 14:00-18:00";yes;10318;arts_centre;arts_centre;
+node;4593625878;Galerie Guido W. Baudach;52.500829299999985;13.362980400000001;;;;;Tu-Sa 11:00-18:00;;10785;gallery;;gallery
+node;4595203770;okazi gallery;52.50274559999999;13.4793799;;;;;;;;gallery;;gallery
+node;4613845298;daad Galerie;52.5026724;13.413786;;;;;;;10969;gallery;;gallery
+node;4708547016;Urban Nation;52.4986678;13.3566505;;;;;"Tu,We 10:00-18:00; Mo off; Th-Su 12:00-20:00";yes;10783;museum;;museum
+node;4716921527;Pierre Boulez Saal;52.5154359;13.3963671;;;;;;yes;10117;theatre;theatre;
+node;4723897691;Wolf Kino;52.48274539999999;13.44178;;;;;Mo-Fr 10:00-24:00+, Sa,Su 12:00-24:00+;yes;12045;cinema;cinema;
+node;4725890783;Samurai Museum Berlin;52.526808599999995;13.3953314;;;Samurai Museum Berlin GmbH;;Mo-Su 10:00-19:00;yes;10117;museum;;museum
+node;4742541421;MOEON;52.4915153;13.4199898;;;;;Th-Sa 12:00-18:00;no;;gallery;;gallery
+node;4742923387;Imago;52.50292459999999;13.4099077;;;;;Mo-Sa 11:00-19:00;yes;10969;photo;;gallery
+node;4745230362;Russische Bühne;52.5023061;13.3500004;;;;;;yes;;theatre;theatre;
+node;4757755548;Dittrich & Schlechtriem;52.528244900000004;13.4098684;;;;;"Mo,Sa-Su off; Tu-Fr 10:00-18:00";yes;;gallery;;gallery
+node;4825870146;Paradox Loom;52.5477223;13.390028;;;;;;no;13355;arts_centre;arts_centre;
+node;4831523443;Wolf & Galentz;52.5662932;13.3967165;;;;;"Mo 17:30-21:30; Su 14:30-17:30 || ""nach Vereinbarung""";no;;gallery;;gallery
+node;4831523454;Theater BOKA;52.56620409999999;13.3965864;;;;;;limited;13187;theatre;theatre;
+node;4833616123;Braun-Sammlung Ettel Museum für Design;52.524147899999996;13.336357900000001;;;Braun Design Freunde e.V.;;Su-Mo 11:00-17:00;limited;10555;museum;;museum
+node;4834609476;Galerie Amalienpark;52.56941309999999;13.402228;;;;;"Tu-Fr 14:00-19:00; Sa 12:00-17:00";limited;13187;gallery;;gallery
+node;4838662169;Hanf Museum Berlin;52.516368099999994;13.4079912;;;;;"Tu-Fr 10:00-20:00; Sa,Su 12:00-20:00; Mo off";limited;10178;museum;;museum
+node;4846091222;bäckerei moabit;52.5262483;13.3305783;;;;;Fr-Sa 13:00-18:00;limited;;gallery;;gallery
+node;4871854508;Galerie Dikmayer;52.5132156;13.405691200000001;;;;;;;10178;gallery;;gallery
+node;4894834027;umsonst&draussen;52.53445219999999;13.360006100000001;;;;;Jun-Sep: Fr-Sa sunset-01:00 || 22:00-01:00;limited;10557;cinema;cinema;
+node;4897648138;Aagaard-Galerie;52.613955999999995;13.3212568;;;Raija Freund;;;;13467;gallery;;gallery
+node;4946716108;Zirkus Zack;52.507679399999994;13.4540503;;;Vuesch gGmbH;;;;;theatre;theatre;
+node;4948140225;Jaro Theater;52.47164750000001;13.307745;;;;;;yes;;theatre;theatre;
+node;4954306161;Inselgalerie;52.51883789999999;13.4522163;;;;;"Tu-Fr 14:00-19:00; Sa 13:00-17:00";yes;;gallery;;gallery
+node;4998192398;Pandora;52.4939207;13.397000400000001;;;;;"Tu-Th 14:00-18:00; Fr 14:00-20:00; Sa 14:00-22:00; Su,Mo off";no;10961;juggling;;gallery
+node;5051474599;David Hasselhoff Museum;52.530145000000005;13.401996;;;;;;;;museum;;museum
+node;5060290948;Atelier Lächeln des Lichts;52.491608299999996;13.4317629;;;;;;;;gallery;;gallery
+node;5083213423;Spreewerkstätten;52.51513769999999;13.4100789;;;;;;no;;arts_centre;arts_centre;
+node;5102712064;Group Global 3000;52.504664599999984;13.4180986;;;;;;no;10999;arts_centre;arts_centre;
+node;5119217259;Designpanoptikum;52.5168725;13.4060339;;;;;Th, Sa 12:00-18:00;;10178;museum;;museum
+node;5131101040;Galerie Kai Dikhas;52.5038331;13.4096091;;;;;Th-Sa 16:00-19:00;yes;;gallery;;gallery
+node;5135781062;oMo Artspace;52.4771794;13.4480557;;;;;;;;gallery;;gallery
+node;5140754521;Piano Salon Christophori;52.55159689999999;13.3739474;;;;;;yes;13357;theatre;theatre;
+node;5153435222;Il Kino;52.4916642;13.4330413;;;;;Mo-Su 14:00-22:00+;yes;12047;cinema;cinema;
+node;5157095868;Hilleckes Gallery;52.50192640000001;13.3154058;;;;;;;;gallery;;gallery
+node;5186166877;Polyrama;52.50578639999999;13.3058261;;;;;"Mo-Tu off; We,Fr-Su 11:00-18:00; Th 11:00-20:00";;;museum;;museum
+node;5249079050;Haus der Sinne;52.5490912;13.4040123;;;SchaukelSofaSündikat e.V.;;;;10437;theatre;theatre;
+node;5249346659;TD Berlin;52.51759929999999;13.4119798;;;;;;;10179;theatre;theatre;
+node;5265842119;Galerie Theis;52.517179699999986;13.303767500000001;;;;;"Mo 17:00-18:00; Tu-Sa 14:00-18:00";;;gallery;;gallery
+node;5306246621;Kindl - Zentrum für zeitgenössische Kunst;52.47946369999999;13.431275;;;Kindl - Zentrum für zeitgenössische Kunst GmbH;;"We 12:00-20:00; Th-Su 12:00-18:00";yes;12053;museum;;museum
+node;5335602741;Art on the run;52.5524423;13.4081665;;;;;;no;;arts_centre;arts_centre;
+node;5389518870;Connection Shop und Kino;52.4989962;13.3427073;;;;;Mo-Th 12:00-23:00, Fr,Sa 12:00-01:00, Su,PH 14:00-22:00;limited;;cinema;cinema;
+node;5408750503;Sprüth Magers;52.5242252;13.3970643;;;;;Tu-Sa 10:00-18:00;;10178;gallery;;gallery
+node;5408778943;Chert Lüdde;52.5010504;13.3642087;;;;;;;10785;gallery;;gallery
+node;5423271621;Salon Berlin;52.52631399999999;13.394336500000001;;;Patricia Kamp / Burda;;;no;10117;gallery;;gallery
+node;5472678621;Sammlung Hoffmann;52.5262162;13.4011627;;;;;;;10178;gallery;;gallery
+node;5477244581;Tauthaus;52.445279499999984;13.4470296;;;;;;;;museum;;museum
+node;5483290365;Neon Kunst;52.47675799999998;13.4206105;;;;;;no;;arts_centre;arts_centre;
+node;5484218399;LeonART 25;52.50454969999999;13.2987651;;;;;;;14057;gallery;;gallery
+node;5493352632;Julia Stoschek Collection Berlin;52.5112602;13.39626;;;;;Sa-Su 12:00-18:00;;10117;museum;;museum
+node;5498079821;Künstlerhaus Bethanien;52.4971249;13.4188484;;;;;Tu-Su 14:00-19:00;yes;;museum;;museum
+node;5504502639;KiKuFri;52.47955019999998;13.330264600000001;;;;;;;10715;museum;;museum
+node;5513859122;Der Bunker;52.48021849999999;13.2877333;;;Artist Homes;;;no;;arts_centre;arts_centre;
+node;5569263936;Galerie Seelenkuss;52.5690087;13.4011116;;;;;;;13187;gallery;;gallery
+node;5590039797;Photocircle;52.48816980000001;13.364219;;;;;"Mo-Fr 11:00-18:00; Sa 11:00-14:00";limited;10829;gallery;;gallery
+node;5618342956;Galerie Futura;52.49716299999999;13.451600100000002;;;Weibliche Visionen in Kultur Politik und Kunst e.V.;;;no;12435;gallery;;gallery
+node;5618342958;Flutgraben e.V.;52.49726789999998;13.4513962;;;Flutgraben e.V.;;;;12435;arts_centre;arts_centre;
+node;5688015226;Hatch Sticker Museum;52.51732179999999;13.4645632;;;;;Sa 12:00-14:00;limited;10247;museum;;museum
+node;5723205465;Jagdschloss Grunewald;52.4673699;13.2615082;;;;;"Nov-Mar Sa,Su,PH 10:00-16:00; Apr-Oct Tu-Su 10:00-18:00";;14193;museum;;museum
+node;5763720229;Bauhaus-Shop;52.5107327;13.3228522;;;Bauhaus-Archiv GmbH;;Mo-Sa 10:00-18:00;limited;10623;books;;gallery
+node;5839747834;Hošek Contemporary;52.5136681;13.41187;;;;;;;;gallery;;gallery
+node;5871420799;Monsterkabinett;52.52447939999999;13.4018335;;;;;"We,Th 18:30-21:30; Fr-Sa16:30-21:30";no;10178;gallery;;gallery
+node;5875331486;Illuseum Berlin;52.52150569999999;13.4069139;;;;;Mo-Su 10:00-20:00;yes;10178;museum;;museum
+node;5902860167;galerie weisser elefant;52.5267987;13.3961905;;;;;"Tu-Fr 11:00-19:00; Sa-Su 13:00-19:00";;10117;gallery;;gallery
+node;5920899264;;52.53315559999999;13.3989774;;;;;;;10119;gallery;;gallery
+node;5942823502;Leslie;52.499775299999996;13.410355;;;Leslie;;"We 10:00-14:00; Th 10:00-15:00; Fr 10:00-14:00; Sa 13:00-17:00";;10969;gallery;;gallery
+node;5968330278;Haus am Lützowplatz;52.50435459999999;13.3535546;;;;;;;10785;arts_centre;arts_centre;
+node;5970389728;European Roma Institute for Arts and Culture;52.52232269999999;13.3789179;;;European Roma Institute for Arts and Culture e.V.;;"Mo-Fr 10:00-17:00; PH closed";yes;10117;arts_centre;arts_centre;
+node;5998664736;Deutsches Architektur Zentrum;52.509809;13.424668;;;;;;;10179;arts_centre;arts_centre;
+node;6007509221;Kewenig Galerie;52.514454099999995;13.4024723;;;Kewenig Galerie GmbH;;Tu-Sa 11:00-18:00;;10178;gallery;;gallery
+node;6013588180;GEDOK Berlin;52.509251599999985;13.296757400000002;;;;;We-Su 14:00-18:00;;14057;gallery;;gallery
+node;6017813746;Galerie 100;52.54182809999998;13.488490600000002;;;;;"Tu-Fr 10:00-18:00; Su 14:00-18:00; PH off";yes;13055;gallery;;gallery
+node;6058229939;UCI Luxe East Side Gallery;52.50526419999999;13.4418072;;UCI Kinowelt;Anschutz Entertainment Group;;;yes;10243;cinema;cinema;
+node;6096673705;GH36;52.5261448;13.398692;;;;;;no;10115;gallery;;gallery
+node;6109284926;Katapult;52.462880299999995;13.5102894;;;;;;;12459;arts_centre;arts_centre;
+node;6110920627;Art Nova;52.5075557;13.316661;;;;;;no;10625;gallery;;gallery
+node;6119371020;Culinarium;52.45884629999999;13.2894689;;;;;We-Su 10:00-17:00;yes;14195;museum;;museum
+node;6176650528;Studio3926;52.5678034;13.386441000000001;;;;;;no;;arts_centre;arts_centre;
+node;6176650529;Ateliers;52.567926099999994;13.385909900000001;;;;;;no;;arts_centre;arts_centre;
+node;6213540988;;52.494993099999995;13.2980619;;;;;;;;gallery;;gallery
+node;6245627492;Artistania Atelier;52.4799892;13.433874400000002;;;;;;;;arts_centre;arts_centre;
+node;6255854695;Galerie im Turm;52.51644079999999;13.4527125;;;;;Mo-Su 10:00-20:00;yes;10243;gallery;;gallery
+node;6258313118;State Studio;52.49006910000001;13.3596063;;;;;"Tu-Fr 12:00-19:00; Sa,Su 12:00-17:00";yes;10827;gallery;;gallery
+node;6276841961;panke.gallery;52.54510040000001;13.3742433;;;panke.gallery – Verein für künstlerisch-kulturelle Bildung e.V.;;We-Sa 15:00-19:00;no;13347;gallery;;gallery
+node;6284471183;takt;52.54874160000001;13.4029014;;;;;;limited;;arts_centre;arts_centre;
+node;6292209891;Zönotéka;52.49195639999999;13.425693000000003;;;;;Th-Sa 15:00-18:00;;12047;gallery;;gallery
+node;6303268164;Kreuzberg Pavillon;52.50238199999999;13.4182678;;;;;;no;10999;gallery;;gallery
+node;6306436221;Ballhaus Prinzenallee;52.5577738;13.386407700000001;;;Interkulturell Aktiv e.V.;;;yes;13359;theatre;theatre;
+node;6352638453;Schlossplatztheater;52.4454641;13.5747437;;;;;;;12555;theatre;theatre;
+node;6355366085;PalaisPopulaire;52.517146499999996;13.396145100000002;;;Deutsche Bank;;"Mo,We,Fr-Su 11:00-18:00; Th 11:00-21:00; Tu closed";yes;10117;gallery;;gallery
+node;6415198022;Raab Galerie;52.5087459;13.3214605;;;Ingrid Raab;;;limited;;gallery;;gallery
+node;6441040985;X Lane;52.4979881;13.4243424;;;;;;;10999;gallery;;gallery
+node;6474864586;Alice – Museum für Kinder;52.4609975;13.5500961;;;;;;;;museum;;museum
+node;6475506035;Museum des Kapitalismus;52.5043179;13.4348363;;;;;"Th 17:00-19:00; Sa 14:00-18:00";yes;10997;museum;;museum
+node;6512247318;Globe Theater Berlin;52.52210459999999;13.3052748;;;GLOBE Berlin Theater gGmbH;;;;;theatre;theatre;
+node;6522039698;Tempelhof Museum;52.439571799999996;13.3854756;;;;;"Tu,We 13:00-18:00; Th 10:00-18:00; Fr-Su 13:00-18:00";;12107;museum;;museum
+node;6568352468;Galerie Minimal;52.4939405;13.3973536;;;;;;no;10961;gallery;;gallery
+node;6578042743;Gipsformerei;52.5192079;13.2862663;;;;;"Mo-Th 09:00-16:00; We 09:00-18:00";;14059;museum;;museum
+node;6582271201;Zeughauskino;52.5184355;13.3975301;;;;;;limited;10117;cinema;cinema;
+node;6612961272;Kulturraum Mainzer 7;52.4837992;13.4272717;;;Wider die Mühlen, zu den Schaumkronen e.V.;;;limited;12053;arts_centre;arts_centre;
+node;6630979556;Internationales Theaterinstitut Deutschland;52.50366390000001;13.424156;;;Zentrum Bundesrepublik Deutschland des Internationalen Theaterinstituts e.V;;;;10997;arts_centre;arts_centre;
+node;6697621223;Videokino Peliculoso;52.50777909999999;13.425995000000002;;;;;"Mo 21:00-23:30; Th 21:00-23:30";no;10179;cinema;cinema;
+node;6728666235;McLaughlin;52.5280593;13.4108807;;;Daniel McLaughlin;;;;10178;gallery;;gallery
+node;6788159718;Galerie Mensing;52.5148704;13.3889613;;;;;"Mo-Fr 11:00-19:00; Sa 10:00-19:00";;10117;gallery;;gallery
+node;6804241939;zebrapony;52.4741391;13.450805;;;line claudius & michael schröer;;;;12055;gallery;;gallery
+node;6834779786;Little Big City;52.520847999999994;13.4084747;;;Merlin Entertainments Group Deutschland;;Mo-Su 10:00-19:00;no;10178;museum;;museum
+node;6880841995;Museum Pankow;52.5333155;13.420243700000002;;;;;Tu-Su 10:00-18:00;;10405;museum;;museum
+node;6880841996;MACHmit! Museum für Kinder;52.5405294;13.4226724;;;;;"Th-Fr 14:00-18:00; Sa-Su 10:00-18:00; Dec 24-26 off";yes;10437;museum;;museum
+node;6892139318;Kostümkollektiv Berlin;52.5039317;13.4241227;;;;;;;10997;arts_centre;arts_centre;
+node;6895858797;DruckbarWedding;52.5442808;13.3711125;;;Leo Kloster;;"""Öffnung nach telefonischer Absprache""";limited;;gallery;;gallery
+node;6918675059;World in a room;52.4863151;13.3642272;;;;;Fr 14:00-18:00, Sa 14:00-17:00;;10829;gallery;;gallery
+node;6939878354;Institut für Alles Mögliche;52.531436800000016;13.3970128;;;;;;;10115;gallery;;gallery
+node;6946245046;Theater X;52.53126539999999;13.3295679;;;Initiative Grenzen-los! e. V. Verein für emanzipative Bildung und kulturelle Aktion;;;yes;10551;theatre;theatre;
+node;7012086014;Mojavari;52.527610599999996;13.3980372;;;;;;no;10115;gallery;;gallery
+node;7041066639;Polyphony e.V.;52.56851309999998;13.3802405;;;;;;;;arts_centre;arts_centre;
+node;7041632031;drj art projects;52.4816191;13.3612584;;;;;Sa 14:00-19:00;;10829;gallery;;gallery
+node;7047205009;Chaussee 36;52.53324669999999;13.3800353;;;BKLV Management GmbH;;off;no;10115;gallery;;gallery
+node;7063453003;Sammlung Scharf-Gerstenberg;52.519118299999995;13.2967062;;;Staatliche Museen zu Berlin;;"We-Su 11:00-18:00; Mo,Tu off";yes;14059;museum;;museum
+node;7063483104;Abguss-Sammlung Antiker Plastik;52.518805;13.2970164;;;Freie Universität Berlin;;"Th-Su 14:00-17:00; PH off";;14059;museum;;museum
+node;7070408739;Beyond Reality;52.5080563;13.318122700000002;;;Klaus Memmert;;"We-Fr 13:00-18:00; Sa 13:00-17:00";;;gallery;;gallery
+node;7077883098;Stage Bluemax Theater;52.50692599999999;13.3733397;;;Stage Entertainment Germany GmbH;;;limited;10785;theatre;theatre;
+node;7082622446;Läkemäker Galerie;52.53419439999999;13.4087899;;;;;"Th-Fr 14:00-18:00; Sa 11:00-14:00 || unknown ""und nach telefonischer Vereinbarung auch gerne außerhalb der Öffnungszeiten """;no;10119;gallery;;gallery
+node;7095890398;Galerie HitoArt;52.5373064;13.4348212;;;;;;limited;10405;gallery;;gallery
+node;7131941724;Institut Français Berlin;52.50206879999998;13.324759800000002;;;;;;;10719;arts_centre;arts_centre;
+node;7141376790;Kino in der Königstadt;52.5294934;13.413028;;;;;;;10405;cinema;cinema;
+node;7169300370;Galerie 165;52.533269399999995;13.4399053;;;;;"Mo-Th 09:30-18:00; Fr 09:30-15:00";limited;10407;gallery;;gallery
+node;7194124806;Druckgraphik-Atelier;52.534852999999984;13.4330162;;;;;"Mo 16:00-18:30; Tu 18:00-22:00";yes;10407;gallery;;gallery
+node;7212405461;Kulturbremse;52.52316859999999;13.3337683;;;;;;;10555;theatre;theatre;
+node;7246050188;Paulo Ventura;52.4898401;13.376484;;;;;;limited;;gallery;;gallery
+node;7261241882;objets cherchés;52.4739804;13.4256867;;;;;"""nach Vereinbarung""";;;gallery;;gallery
+node;7274621179;Zimmermeister Brunzel baut ein Mietshaus;52.543527999999995;13.4214133;;;"Pankow Museum;Miteinander-Füreinander Selbsthilfebegegnungsstätten e.V.";;Mo, Tu, Th-Su 11:00-16:30;no;10437;museum;;museum
+node;7279416464;Galerie Süssholz;52.5443461;13.4205639;;;;;;;10437;gallery;;gallery
+node;7279475156;Museum of Future;52.54513409999999;13.4209859;;;;;Mo-Su 16:00-00:30;;10437;gallery;;gallery
+node;7279913649;Luisa Catucci;52.47472739999999;13.4239623;;;;;;;;gallery;;gallery
+node;7291141419;Axel Peters;52.4734038;13.426941900000001;;;;;;;;gallery;;gallery
+node;7347092796;;52.4770419;13.4480193;;;;;;;;gallery;;gallery
+node;7429100648;;52.4924583;13.3987632;;;Kunst in Kreuzberg e.V.;;;;10961;gallery;;gallery
+node;7546074520;;52.4762931;13.3320275;;;;;;;12159;gallery;;gallery
+node;7546100377;Kammermusiksaal Friedenau;52.4766714;13.3319721;;;;;;no;12159;theatre;theatre;
+node;7590566061;Crystal Ball;52.492211399999995;13.420944;;;;;;no;;gallery;;gallery
+node;7590566062;the window of modern art;52.4923102;13.4210091;;;;;;;;gallery;;gallery
+node;7590593335;whitegrid;52.49312059999999;13.4180295;;;;;;;;gallery;;gallery
+node;7633023880;Galerie Gelbe Tonne;52.55532529999999;13.341520600000003;;;;;;no;13351;gallery;;gallery
+node;7707089562;Borch Gallery;52.5087697;13.3209965;;;Niels Borch Jensen Gallery & Editions;;Tu-Fr 11:00-16:00;;10623;gallery;;gallery
+node;7710147764;Galerie Eigen+Art;52.5270045;13.3971881;;;Galerie EIGEN + ART GmbH & Co. KG.;;Tu-Sa 11:00-18:00;no;10117;gallery;;gallery
+node;7710353352;Hofkino;52.51273760000001;13.4405751;;;;;"Jun-Sep open ""Genaue Termine siehe Website.""";limited;10243;cinema;cinema;
+node;7710976597;Ber Verk;52.56027619999999;13.3811057;;;;;;no;;arts_centre;arts_centre;
+node;7710976600;Dritte Rampe;52.560182699999984;13.3814558;;;;;;yes;13359;arts_centre;arts_centre;
+node;7817068930;Hegenbarth Sammlung Schaudepot;52.474164999999985;13.3199297;;;;;"We 12:00-17:00; PH,SH off || ""nach Vereinbarung""";;14197;gallery;;gallery
+node;7821177798;Kinderkunstschule Tempera;52.485002400000006;13.3282827;;;;;;;10715;arts_centre;arts_centre;
+node;7844126105;Galerie Bottega Barone;52.5044141;13.3593582;;;;;Mo-Fr 15:00-18:00;;10785;gallery;;gallery
+node;7903412080;TransferTeam;52.5116685;13.2943422;;;;;;;14059;gallery;;gallery
+node;7932307104;Galerie Nagel Draxler;52.5261251;13.4117877;;;;;;yes;10178;gallery;;gallery
+node;7932307105;Nagel Draxler Kabinett;52.5260792;13.4116075;;;;;;yes;10178;gallery;;gallery
+node;7947855087;Klick Kino;52.50543219999999;13.2993996;;;;;;limited;10627;cinema;cinema;
+node;8000704915;Resi Art;52.569257199999996;13.3617898;;;;;;no;;arts_centre;arts_centre;
+node;8042869045;Tonhain;52.4621362;13.3435727;;;Tonhain Kollektiv e.V.;;;;12157;arts_centre;arts_centre;
+node;8064034288;pirco.berlin & gallery'ish;52.48606939999999;13.3514936;;;;;"""by appointment""";;10823;gallery;;gallery
+node;8092436965;Galerie Düesberg;52.50086099999999;13.4315396;;;;;;no;10997;gallery;;gallery
+node;8092507862;Designat;52.5535943;13.3650627;;;;;;;13347;gallery;;gallery
+node;8118755960;diekleinegalerie;52.46930079999999;13.3250315;;;;;"We,Fr 15:00-18:00; Sa 11:00-14:00";no;12161;gallery;;gallery
+node;8151807717;Galerie Judin;52.5018484;13.3659996;;;Judin GmbH;;"Tu-Sa 11:00-18:00 || ""oder nach Vereinbarung""";;10785;gallery;;gallery
+node;8245118494;Licht Atelier + Galerie;52.4928178;13.3777547;;;Dieter Barz;;;;10963;gallery;;gallery
+node;8264929383;Kunsthaus der Achim Freyer Stiftung;52.436026599999984;13.2987431;;;;;Tu,Th,Su 15:00-18:00;;12205;gallery;;gallery
+node;8267040592;L'écritoire;52.54186249999999;13.371578000000001;;;;;;limited;13347;arts_centre;arts_centre;
+node;8413352835;Humboldt Forum;52.5170316;13.4012274;;;Stiftung Humboldt Forum im Berliner Schloss;;"Mo,We-Su 10:30-18:30; Tu off";yes;10178;museum;;museum
+node;8428338215;Militär-Historisches Museum Berlin-Gatow;52.47192629999999;13.1386768;;;Bundeswehr;;"Tu-Su 10:00-18:00; PH 10:00-18:00";;14089;museum;;museum
+node;8432444011;Schaustellerbetrieb H. Nitzsche;52.56251289999999;13.3771209;;;;;;;;arts_centre;arts_centre;
+node;8458516904;Lite-Haus;52.47413749999999;13.451784000000002;;;Ad Finem gGmbH;;Tu-Sa 13:00-19:00;limited;12055;gallery;;gallery
+node;8589954014;ACUD Theater;52.5334434;13.401008500000001;;;;;;yes;10119;theatre;theatre;
+node;8641738412;BND-Besucherzentrum;52.532876099999996;13.379828;;;Bundesnachrichtendienst;;"Tu-Fr 10:00-17:00; Sa-Mo,PH off";yes;10115;museum;;museum
+node;8655633879;Art Claims Impulse;52.50349839999999;13.3947318;;;Art Claims Impulse, Wolter & Zagrean Gbr;;;;10969;gallery;;gallery
+node;8699014134;;52.5106061;13.2662477;;;;private;;;;theatre;theatre;
+node;8755034862;Ateliergemeinschaft Milchhof e.V.;52.5382911;13.404264299999998;;;;;;;10435;arts_centre;arts_centre;
+node;8755180767;Autonomous Forest / terra0.org;52.4739017;13.450495100000001;;;;;;;12055;gallery;;gallery
+node;8762013606;d/b33-galerie;52.44701869999999;13.3070724;;;;;"""nach Vereinbarung""";;;gallery;;gallery
+node;8839649636;Bunt;52.4995776;13.2967202;;;;;;;10711;arts_centre;arts_centre;
+node;8888473363;Tränenpalast;52.520913099999994;13.3871461;;;Stiftung Haus der Geschichte der Bundesrepublik Deutschland;;"Mo off; Tu-Fr 09:00-18:00; Sa-Su,PH 10:00-18:00";yes;10117;museum;;museum
+node;8909423107;Papiertheater Invisius;52.6259069;13.2808102;;;;;;;13465;theatre;theatre;
+node;8946648417;Erdemuseum;52.4865039;13.4357058;;;;;We-Sa 14:00-18:00;no;12045;museum;;museum
+node;8959671672;MaHalla;52.4594502;13.523658100000002;;;;;;limited;12459;arts_centre;arts_centre;
+node;9079726511;Zinema;52.529586;13.3958605;;;;;19:00+;limited;10115;cinema;cinema;
+node;9124468412;Art Laboratory Berlin;52.558005699999995;13.386070000000002;;;;;;no;;gallery;;gallery
+node;9162840142;LeoArt;52.5708376;13.3793891;;;Schulze´s Farben- und Tapetenhaus Heinz Schulze;;"""Sign says to call phone number on sign if closed""";;;gallery;;gallery
+node;9198286167;Atelier und Showroom;52.5547098;13.3756954;;;Tobias Trutwin;;;no;;gallery;;gallery
+node;9198286168;ETI Berlin;52.555442;13.3774053;;;Victoria Pawlik;;;no;;gallery;;gallery
+node;9198286171;uqbar Projektraum;52.55501640000001;13.3754004;;;;;;yes;13357;gallery;;gallery
+node;9214922168;Nome;52.504449699999995;13.366561100000002;;;;;;;;gallery;;gallery
+node;9221860123;Galerie A - Der Kunstladen;52.5721039;13.4134793;;;;;"Tu-Fr 14:00-19:00; Sa 11:00-15:00";no;;gallery;;gallery
+node;9272790617;Disgusting Food Museum;52.50879179999999;13.3913957;;;;;Fr-Tu 11:00-19:00;;10117;museum;;museum
+node;9275262971;Architekturmuseum;52.51361409999999;13.3238223;;;;;Mo-Th 12:00-16:00;;;museum;;museum
+node;9277014760;Friedrichswerdersche Kirche;52.515888399999994;13.3975159;;;;;Tu-Su 10:00-18:00;yes;10117;museum;;museum
+node;9307150703;Müll Museum;52.5589075;13.3867843;;;;;"""currently only open for workshops""";;13359;gallery;;gallery
+node;9420865793;Nadan;52.4872222;13.3393885;;;;;;;10825;gallery;;gallery
+node;9502948045;Galerie SMK;52.494538799999994;13.31319;;;Sooki & Matthias Koeppel;;Sa 15:00-18:00;no;10707;gallery;;gallery
+node;9509426970;Transform Galerie;52.507775699999996;13.316861000000001;;;;;"Mo,We,Fr,Su,PH off; Tu,Th,Sa 15:00-19:00";no;;gallery;;gallery
+node;9517825120;Kühlspot Social Club;52.5504007;13.436534000000002;;;;;;;13086;events_venue;events_venue;gallery
+node;9553980268;Bärenzwinger;52.51279149999999;13.4144578;;;Bezirksamt Mitte von Berlin;;Tu-Su 11:00-19:00;yes;10179;gallery;;gallery
+node;9573608156;Lettrétage;52.5335306;13.4007771;;;;;;;;theatre;theatre;
+node;9573679812;Galerie Kornfeld;52.50139999999999;13.3270023;;;Galerie Kornfeld Kunsthandel GmbH & Co.KG;;Tu-Sa 11:00-18:00;;10719;gallery;;gallery
+node;9587817336;;52.501008299999995;13.2975372;;;;;;;10711;gallery;;gallery
+node;9631262552;Galerie Elfriede Fechner;52.48795279999999;13.321887700000001;;;;;;;10717;gallery;;gallery
+node;9633252576;AR_29;52.5760277;13.3495055;;;;;;;;arts_centre;arts_centre;
+node;9633732523;kenkō;52.5275968;13.3926373;;;;;Tu-Sa 11:00-19:00;;10117;gallery;;gallery
+node;9656229274;Alpha Nova Werkstatttheater;52.453118800000006;13.3299441;;;Kultur in Zehlendorf e.V.;;;;12167;theatre;theatre;
+node;9686177280;Galerie Kuchling;52.516974499999996;13.447752000000001;;;Robert Kuchling;;"We-Fr 14:00-19:00; Sa 13:00-18:00";limited;10243;gallery;;gallery
+node;9689247850;Haus des Papiers;52.510451999999994;13.4032861;;;Haus des Papiers gGmbH;;"Fr-Su 10:00-17:00; Mo-Th off";;10117;museum;;museum
+node;9689717824;Atelier Plus Galerie;52.51357169999999;13.2948945;;;;;;;;gallery;;gallery
+node;9690316618;pigasus polish poster music film gallery;52.5395577;13.420313600000002;;;;;;;;gallery;;gallery
+node;9694634633;gr_und;52.55086659999999;13.3535915;;;;;"We-Fr 15:00-19:00; Sa 14:00-18:00";yes;13347;gallery;;gallery
+node;9699851474;artists in progress;52.509409000000005;13.2962695;;;;;"Th,Fr 15:00-19:00; Sa 11:00-15:00";;14057;gallery;;gallery
+node;9713922099;Salon Verde;52.4867661;13.4612641;;;;;;;12435;arts_centre;arts_centre;
+node;9741714717;Pace Gallery;52.4978516;13.3598013;;;;;Tu-Su 11:00-18:00;;10783;gallery;;gallery
+node;9774919599;Monopol;52.5676563;13.379357100000002;;;;;;;;arts_centre;arts_centre;
+node;9782500661;prince11;52.553688599999994;13.383015000000002;;;;;;;13357;gallery;;gallery
+node;9788376956;Minimalistix.eu;52.49847100000001;13.3577265;;;;;;;10783;gallery;;gallery
+node;9794470958;Haze Gallery;52.4984477;13.3577777;;;;;;;10783;gallery;;gallery
+node;9806828893;The Wall Museum;52.5028154;13.4452761;;;;;Mo-Su 10:00-19:00;;10243;museum;;museum
+node;9816601558;mkas;52.51042739999999;13.292305500000001;;;;;;;;arts_centre;arts_centre;
+node;9844946879;tropez;52.5457744;13.3812014;;;;;Mo-Su 10:00-18:00;limited;;arts_centre;arts_centre;
+node;9849031823;Maigalerie;52.5274247;13.4141624;;;Verlag 8. Mai GmbH;;"We-Fr 13:00-18:00; PH off";yes;10119;events_venue;events_venue;gallery
+node;9858791831;Cordillera;52.45824309999999;13.527936300000002;;;;;;yes;12459;arts_centre;arts_centre;
+node;9858868570;Sommerkino Kulturforum;52.508787899999994;13.367182900000001;;Yorck Kinogruppe;;;Jun-Aug 21:15-23:45;yes;10785;cinema;cinema;
+node;9926784273;Bibellabor;52.4658388;13.4339213;;;;;;;;museum;;museum
+node;9935547322;Kunstbruecke Am Wildenbruch;52.484744799999994;13.44454;;;Bezirksamts Neukölln von Berlin, Abteilung Bildung, Kultur und Sport / Amt für Weiterbildung und Kultur / Fachbereich Kultur;;We-Su 12:00-18:00;no;;gallery;;gallery
+node;9938090502;Freiluftkino Insel;52.464791999999996;13.4106619;;;;;;;12099;cinema;cinema;
+node;9979815161;Käthe-Kollwitz-Museum Berlin;52.5205395;13.2920852;;;Käthe-Kollwitz-Museum und grafische Sammlung Hans Pels-Leusden e.V;;PH,Mo-Su 11:00-18:00;;14059;museum;;museum
+node;9979815162;Schloss Charlottenburg;52.520982;13.2957019;;;Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg;;Tu-Su 10:00-17:30;limited;14059;museum;;museum
+node;9988935261;West and Art;52.5137183;13.280924100000002;;;;;;;;arts_centre;arts_centre;
+node;10003644033;Museum der Trostfrauen;52.53393;13.340529300000002;;;;;"Tu 14:00-18:00; Su 14:00-18:00";;10551;museum;;museum
+node;10003860042;Dana Dmikelson;52.51348269999999;13.2933584;;;;;;;;arts_centre;arts_centre;
+node;10003860047;Concreare;52.51302799999999;13.2899338;;;;;;no;;arts_centre;arts_centre;
+node;10003860054;;52.5131968;13.2926655;;;;;;;;arts_centre;arts_centre;
+node;10029372863;Kurt Mühlenhaupt Museum;52.48769339999998;13.3885333;;;;;Tu-Su 14:00-18:00;;10965;museum;;museum
+node;10035794568;PharoDercks;52.54411509999999;13.4128502;;;;;;limited;10437;language_school;language_school;gallery
+node;10035829818;Kinderkunstgalerie;52.5446552;13.4129967;;;Klax;;"Tu-Fr 14:00-18:00; Sa 11:00-17:00";no;10437;gallery;;gallery
+node;10041423479;Haus Kunst Mitte;52.53010319999999;13.3683003;;;;;"We-Su 12:00-18:00; Mo-Tu closed";limited;10557;museum;;museum
+node;10098812511;Theater Morgenstern;52.47281370000001;13.3363405;;;;;;yes;12159;theatre;theatre;
+node;10107178444;Galerie Vinogradov;52.537752699999984;13.4254363;;;Marina Vinogradova;;"""nach Vereinbarung""";;10405;gallery;;gallery
+node;10111146177;Galerie im alten Zollhaus;52.5229839;13.1478965;;;Arbeitskreis Spandauer Künstler e. V.;;"Su[1] 14:00 - 17:00 || ""Veranstaltungen""";;13593;gallery;;gallery
+node;10128582978;erstererster - Popup Space für Kunst, Design und Neues Arbeiten;52.54482759999999;13.4161267;;;openmjnd ventures GmbH;;;;10437;gallery;;gallery
+node;10128714287;Puppenbühnchen;52.4983247;13.2906051;;;;;;;10711;theatre;theatre;
+node;10141379702;Zozoville;52.50895439999999;13.4559572;;;;;Mo-Su 12:00-19:00;;;gallery;;gallery
+node;10142723917;Bud Spencer Museum;52.51745089999999;13.390419500000002;;;;;Mo-Su 10:30-18:00;;10117;museum;;museum
+node;10152841675;POPCORNER;52.4715569;13.3388729;;;;;;no;12159;arts_centre;arts_centre;
+node;10156230805;Caos Conzept;52.5086915;13.4490038;;;Martin Hartmann;;"""nach Vereinbarung, laut Website""";no;10243;gallery;;gallery
+node;10167589317;Tatwerk Theater;52.48804880000001;13.4222367;;;;;;;10967;theatre;theatre;
+node;10188746519;Galerie Robinson;52.50436880000001;13.3167999;;;;;;;;gallery;;gallery
+node;10188753480;feinart Berlin;52.504275899999996;13.314574400000001;;;;;Tu-Sa 14:00-19:00;;;arts_centre;arts_centre;
+node;10248374221;Art.Salon;52.49756649999999;13.326644100000001;;;;;We-Sa 12:00-18:00;;;gallery;;gallery
+node;10262733380;Stadttheater Cöpenick;52.4420034;13.582361;;;Stadttheater-Köpenick e.V.;;;yes;;theatre;theatre;
+node;10287958985;Sinema Transtopia;52.5437951;13.3672393;;;bi'bak e.V.;;"We-Th 19:00-24:00; Fr-Su 18:00-24:00";limited;;cinema;cinema;
+node;10300413675;Notagallery;52.499443099999986;13.3623392;;;Ivan Gette;;;;10783;gallery;;gallery
+node;10307742432;Aura Labs;52.5069835;13.4533313;;;;;"Su,Mo,We,Th 10:00-20:00; Fr,Sa 10:00-21:00; Tu Off";;10245;gallery;;gallery
+node;10316977904;theaterforum kreuzberg;52.504010799999996;13.434454500000001;;;;;;;;theatre;theatre;
+node;10537010394;;52.514180499999995;13.305057600000001;;;;;;;;gallery;;gallery
+node;10539925126;Maschinenhaus Kulturbrauerei;52.53942419999998;13.4136682;;;;;;;10435;arts_centre;arts_centre;
+node;10581612331;Galerie Michael Janssen;52.5072273;13.3199647;;;;;;;10623;gallery;;gallery
+node;10591311872;Gesamtkunstwerk des Sozialen;52.48293429999999;13.428761500000002;;;;;;;;gallery;;gallery
+node;10603642459;nüüd.berlin gallery;52.5111239;13.3910257;;;;;;;10117;gallery;;gallery
+node;10648363515;Kontor;52.505448200000004;13.2958883;;;;;;;14057;gallery;;gallery
+node;10648363517;Frau Kette Goldschmiede;52.5058253;13.2959708;;;;;Tu-Th 11:00-14:00, Fr 11:00-14:00, Sa 11:00-15:00, Tu-Th 15:00-18:00, Fr 15:00-19:00;;14057;jewelry;;gallery
+node;10648363518;Nina Horvitz Galerie;52.50565370000001;13.2965903;;;;;We-Sa 12:00-18:00;;14057;gallery;;gallery
+node;10658564547;Acht Berlin;52.5298094;13.4106652;;;;;;;10119;arts_centre;arts_centre;
+node;10676187980;Lapidarium;52.5016688;13.3776008;;;Boros GmbH;;;;10963;arts_centre;arts_centre;
+node;10688463815;Uferstudios für zeitgenössischen Tanz;52.5526663;13.3762533;;;uferstudios GmbH;;;yes;13357;theatre;theatre;
+node;10688645648;Panda Platforma;52.53980769999999;13.4133001;;;;;;;10435;arts_centre;arts_centre;
+node;10688993805;Zemin;52.4941264;13.4008282;;;;;Tu-Su 16:00-02:00;;10961;gallery;;gallery
+node;10708090105;Scherben e.V.;52.5111443;13.395181500000001;;;;;Fr-Su 14:00-18:00;;10117;gallery;;gallery
+node;10721193346;zentrale;52.5410213;13.437894900000002;;;;;;no;10409;arts_centre;arts_centre;
+node;10722716210;Petersburg Art Space;52.524763799999995;13.3202048;;;;;;;;arts_centre;arts_centre;
+node;10727636442;Q Gallery;52.4912929;13.3638872;;;;;Mo-Sa 08:25-08:30;;10827;gallery;;gallery
+node;10731220850;Klosterruine Berlin;52.5184236;13.4124733;;;Bezirksamt Mitte von Berlin, Abteilung Weiterbildung, Kultur, Umwelt, Natur, Straßen- und Grünflächen;;"May-Sep Mo-Su,PH 10:00-18:00; Oct-Apr ""Special events, exhibition launches / Auftaktveranstaltung""";;10179;gallery;;gallery
+node;10750992827;Thikwa Werkstatt für Theater und Kunst;52.486557499999996;13.389700900000001;;;;;;;10965;arts_centre;arts_centre;
+node;10780033148;Ars et Musica;52.508298;13.3115125;;;Hiko Iizuka;;;no;;gallery;;gallery
+node;10782683410;Galerie Inga Kondeyne;52.5066748;13.3237459;;;;;;;10623;gallery;;gallery
+node;10788629498;Taubert Contemporary;52.508147499999986;13.323063600000001;;;;;;;10623;gallery;;gallery
+node;10788629499;Galerie Mathias Güntner;52.50805649999999;13.323045600000002;;;;;;;10623;gallery;;gallery
+node;10788629500;gräfe;52.5079988;13.3230367;;;;;;;10623;gallery;;gallery
+node;10804128222;Kindermuseum unterm Dach;52.3878178;13.3970516;;;;;"Mo-Fr 14:00-18:00; Sa, Su 11:00-17:00";;;museum;;museum
+node;10814367949;Projektgalerie Brunnen64;52.540461699999994;13.3947777;;;;;;;;gallery;;gallery
+node;10830063247;NÅPOLEON KOMPLEX;52.5035754;13.4585291;;;;;;limited;10245;arts_centre;arts_centre;
+node;10855520708;neugerriemschneider;52.527595899999994;13.3940895;;;;;Mo-Su 11:00-18:00;;10115;museum;;museum
+node;10855541805;BQ;52.526270199999985;13.4123393;;;;;Mo-Fr 11:00-18:00;;10178;gallery;;gallery
+node;10902497205;Luftschloss;52.473715799999994;13.3886918;;;;;;;;theatre;theatre;
+node;10944408202;Kunstsammlung der Akademie der Künste;52.526061399999996;13.3792759;;;Akademie der Künste Berlin;;;;;gallery;;gallery
+node;10959576469;TimeRide - Berlin 1985 und VR-Stadtrundgänge;52.507734899999996;13.3880411;;;TimeRide GmbH;;;;10117;museum;;museum
+node;10992121591;Gedenkstätte Köpenicker Blutwoche;52.4549647;13.5786101;;;;;"Th 10:00-18:00; Su 14:00-18:00";;12555;museum;;museum
+node;11012409284;Max Hetzler;52.5089558;13.324028;;;;;Tu-Sa 11:00-18:00;;;gallery;;gallery
+node;11014333864;Semjon Contemporary Galerie für zeitgenössische Kunst;52.5301201;13.3925214;;;;;Tu-Sa 13:00-19:00;;10115;gallery;;gallery
+node;11014339721;Artrelations;52.531133000000004;13.3964713;;;;;;;10115;gallery;;gallery
+node;11020676406;Kulturpalast;52.5583103;13.3920425;;;;;;;;arts_centre;arts_centre;
+node;11035783618;Kulturhaus Schöneberg;52.494221999999986;13.3523204;;;Förderverein Kulturhaus Schöneberg e.V.;;;;;arts_centre;arts_centre;
+node;11035783626;Schmuckgallerie;52.4937044;13.3539337;;;;;"Mo,Tu,Th,Fr 10:30-17:00; We 10:30-14:15";;;gallery;;gallery
+node;11040120813;Orange AtelierGalerie;52.58534550000001;13.409323;;;;;"""Offene Atelier & Café am Nachmittag""";no;;gallery;;gallery
+node;11081934909;F3 - Freiraum für Fotografie;52.5013889;13.4140423;;;;;Tu-Su 13:00-19:00;limited;10969;gallery;;gallery
+node;11094595135;Museum Buckow;52.4223917;13.437427400000002;;;Buckower Heimatverein e.V.;;;;12349;museum;;museum
+node;11114876076;Guelman und Unbekannt;52.5178258;13.3878447;;;;;;;10117;gallery;;gallery
+node;11186479739;Verwalterhaus;52.52717810000001;13.4163674;;;ag friedhofsmuseum Berlin e.V.;;"Mo-We off; Th-Fr 15:00-19:00; Sa-Su 13:00-19:00";no;10405;gallery;;gallery
+node;11200668007;Colosseum Filmtheater Berlin;52.5478942;13.4130423;;;;;"""Kasse öffnet eine halbe Stunde vor Beginn der ersten Vorstellung""";;10437;cinema;cinema;
+node;11203063853;Berlin Story Bunker;52.502902199999994;13.380352400000001;;;Berlin Story Bunker GmbH;;Mo-Su 10:00-19:00;no;;museum;;museum
+node;11218721726;Zilles Stubentheater;52.4457454;13.5778827;;;Albrecht Hoffmann;;;;12555;theatre;theatre;
+node;11218737137;Altstadttheater Köpenick;52.445899099999984;13.577872;;;Loretta Müller-Stoll;;Th-Sa 18:00-21:30, Tu 16:00-19:00, We 18:00-21:30, Th 11:00-14:00, Su 15:00-18:30;yes;12555;theatre;theatre;
+node;11224522538;P61 Gallery;52.5043264;13.3672509;;;;;"Mo-Fr 12:00-20:00; Sa-Su 14:00-22:00";;10785;gallery;;gallery
+node;11227932675;KuKu - Kunst und Kulinarik;52.53537099999999;13.4010677;;;;;;;10119;gallery;;gallery
+node;11257213161;KARA;52.5326481;13.3513118;;;Not The Cat GmbH;;;;10559;arts_centre;arts_centre;
+node;11272995330;Fotografiska Berlin;52.525732299999994;13.3889157;;;Fotografiska;;Mo-Su 10:00-23:00;yes;10117;museum;;museum
+node;11295791561;froschke;52.490055199999986;13.4034967;;;;;"Fr 14:00-18:00; Sa 11:00-14:00";yes;;gallery;;gallery
+node;11336846004;neue Gesellschaft für bildende Kunst (nGbK);52.52185169999998;13.407630400000002;;;Neue Gesellschaft für bildende Kunst;;Tu-Su 12:00-18:00, Fr 12:00-20:00;yes;10178;arts_centre;arts_centre;
+node;11373437496;ANOHA – Die Kinderwelt des Jüdischen Museums Berlin;52.5030126;13.392346;;;Stiftung Jüdisches Museum Berlin;;"Tu-Fr 09:00-16:00; PH,Sa,Su 10:00-17:00; Dec 24 off";yes;10969;museum;;museum
+node;11449543954;Colory;52.474287999999994;13.3224632;;;;;Mo-Th 17:00-20:00;;12161;gallery;;gallery
+node;11516533592;COGALERIE;52.5063348;13.3432373;;;;;"""by appointment""";yes;;gallery;;gallery
+node;11645047364;Kostbar;52.524211300000005;13.4065863;;;;;;;;gallery;;gallery
+node;11687952639;Lagos;52.508033899999994;13.3049617;;;;;Mo-Fr 12:00-18:00;;;gallery;;gallery
+node;11694388740;Museum Schloß Friedrichsfelde;52.5046731;13.5234335;;;;;Fr-Su 11:00-15:00;;10319;museum;;museum
+node;11760628612;Theodor-Fontane-Apotheke im Bethanien;52.504257300000006;13.424666;;;FHXB Friedrichshain-Kreuzberg Museum;;Tu-We 11:00-16:00;;10997;museum;;museum
+node;11771780456;hitzbleck, staudenherz projektraum;52.4807569;13.3452669;;;;;;;;gallery;;gallery
+node;11787592208;Rixdorfer Schmiede;52.4741555;13.4461584;;;;;Mo-Th 10:00-13:00,14:00-17:00;limited;12055;museum;;museum
+node;11789591361;Galerie Classico;52.4548201;13.3247217;;;;;;;;gallery;;gallery
+node;11800502797;Hoto;52.490132499999994;13.388049200000001;;;;;"Mo-Tu,Su off; We-Sa 13:00-18:00";;;gallery;;gallery
+node;11812325269;DeJa Vu Museum;52.5229427;13.4077366;;;;;Mo-Su 10:00-20:00;no;;museum;;museum
+node;11813223472;Stabi Kulturwerk;52.51795009999999;13.3915589;;;Stiftung Preußischer Kulturbesitz;yes;"Tu-Su 10:00-18:00, Th 10:00-20:00; PH,Mo off; May 14,Dec 24,Dec 31 off";yes;10117;museum;;museum
+node;11816495166;Erlebnis Europa;52.51677459999999;13.380424000000001;;;;;Mo-Su 10:00-18:00;yes;10117;museum;;museum
+node;11832745376;Alexander Levy;52.524105199999994;13.3511515;;;;;"Mo-Tu,Su off; We-Sa 11:00-18:00";;10559;gallery;;gallery
+node;11837413657;Galerie Mazzoli;52.541359899999996;13.4102621;;;;;Tu-Sa 14:00-18:00;;;gallery;;gallery
+node;11847642699;Expedition Metropolis;52.49437979999999;13.4294108;;;;;;;10999;theatre;theatre;
+node;11871642109;Wolfgang Neuss Salon;52.454419;13.3824923;;;;;;;;theatre;theatre;
+node;11871642110;Varieté Salon;52.4543234;13.3823482;;;;;;;;theatre;theatre;
+node;11900902990;Computer Museum HTW Berlin;52.45739359999999;13.5269565;;;;;;yes;12459;museum;;museum
+node;11921928162;90MIL;52.5127946;13.424266;;;;;;yes;;arts_centre;arts_centre;
+node;11929113057;Werkbundarchiv - Museum der Dinge;52.5115009;13.399799100000001;;;;;Th-Mo 12:00-19:00;yes;10117;museum;;museum
+node;11975247670;Kulturhaus Bouché e.V.;52.48964269999999;13.447961000000001;;;;;;;12435;arts_centre;arts_centre;
+node;11978361821;KlanGallerie;52.5303836;13.4258664;;;;;;no;;gallery;;gallery
+node;11982899887;KVOST;52.51022230000001;13.3978763;;;Kunstverein Ost e.V.;;We-Sa 14:00-18:00;yes;10117;gallery;;gallery
+node;11991996319;GlogauAIR gGmbH;52.492216500000005;13.4359064;;;;;;;10999;arts_centre;arts_centre;
+node;12022820182;Theater Strahl, Ostkreuz;52.50427989999999;13.4718394;;;;;;;;theatre;theatre;
+node;12033247662;GROTTO;52.5186711;13.3428281;;;;;We,Fr,Sa 14:00-17:00;yes;10557;gallery;;gallery
+node;12040084973;Circular Gallery;52.53279930000001;13.4115571;;;;;;;;gallery;;gallery
+node;12049854949;Zuostant;52.55000069999999;13.3625601;;;;;;;;gallery;;gallery
+node;12075530395;Galerie Met;52.49739699999999;13.4210695;;;Galerie Met;;Tu-Sa 11:00-18:00;;10999;gallery;;gallery
+node;12087187431;Fluentum;52.4514118;13.2740105;;;;;;limited;14195;gallery;;gallery
+node;12094257553;Migrant Bird Space;52.527789299999995;13.3985545;;;Migrant Bird Space Arts Management GmbH;;Tu-Sa 11:00-18:00;no;;gallery;;gallery
+node;12110093947;Monbijou Theater;52.523060099999995;13.3947899;;;;;;;;theatre;theatre;
+node;12153331304;Galerie Brockstedt;52.50306280000001;13.3144862;;;;;"Tu-Fr 12:00-18:00; Sa 12:00-14:00";;;gallery;;gallery
+node;12160358670;Luisa Catucci Gallery;52.533366799999996;13.3983579;;;;;"Tu-Fr 11:00-18:00; Sa 12:00-17:00";no;;gallery;;gallery
+node;12175733039;Mikhel Muskar;52.4887429;13.3977175;;;;;;;;gallery;;gallery
+node;12178377448;Mythos Germania;52.5493687;13.3874681;;;Berliner Unterwelten e.V.;customers;Sa 11:00-17:00;no;;museum;;museum
+node;12207025383;Berliner Unterwelten e.V;52.537408499999984;13.3963637;;;;;;;10115;museum;;museum
+node;12228031490;CelloMusikSalon;52.5111403;13.3949383;;;;;;;;arts_centre;arts_centre;
+node;12256221924;Michael Reid;52.53035299999999;13.3968466;;;;;Mo-Fr 10:00-17:00;no;10115;gallery;;gallery
+node;12256366641;Galerie Anton Janizewski;52.52626459999999;13.4122761;;;;;We-Sa 12:00-18:00;yes;10178;gallery;;gallery
+node;12270721340;Studio 4;52.5155079;13.4649409;;;;;;;;gallery;;gallery
+node;12288177001;Johan Lorbeer Art Space;52.54915239999999;13.3648141;;;;;;no;13347;arts_centre;arts_centre;
+node;12288177101;Prachtsaal Studio;52.4717843;13.4337641;;;;;;;12053;arts_centre;arts_centre;
+node;12323856459;Galerie kunstWerkstatt Weißensee;52.54933;13.447881;;;;;;;;gallery;;gallery
+node;12330602407;Die Möglichkeit einer Insel;52.5129894;13.411048400000002;;;;;"""nur während Ausstellungen, siehe Webseite""";;10179;gallery;;gallery
+node;12330615741;Heidi;52.5001771;13.3604626;;;;;Th-Sa 11:00-18:00;;10785;gallery;;gallery
+node;12349522812;Kicken Gallery;52.51065580000001;13.296639300000002;;;;;;;;gallery;;gallery
+node;12352338935;Saarländische Galerie;52.50604739999999;13.393307600000002;;;;;;;10969;gallery;;gallery
+node;12357897312;Lernort Keibelstraße;52.5243656;13.4165412;;;Agentur für Bildung, Geschichte und Politik e.V.;;"""nur im Rahmen von Führungen und Lernwerkstätten""";;10178;museum;;museum
+node;12387885001;Deutsches Design Museum;52.5042678;13.3258475;;;;;Sa 11:00-16:00;;;museum;;museum
+node;12419975534;Galerie Wasser;52.52482349999998;13.4104339;;;;;;no;;gallery;;gallery
+node;12435818377;New & Abstract;52.526128799999995;13.416335;;;;;;;;gallery;;gallery
+node;12465146217;;52.54154779999999;13.211107600000002;;;;;;;;gallery;;gallery
+node;12468571319;Galerie Studio St. St.;52.49243399999999;13.4243815;;;;;Fr,Sa 20:00-00:00;;;gallery;;gallery
+node;12514145427;;52.525397;13.3901685;;;;;;;;gallery;;gallery
+node;12534871079;station urbaner kulturen/nGbK Hellersdorf;52.53322659999999;13.6021834;;;neue Gesellschaft für bildende Kunst;;Th,Sa 15:00-19:00;;12619;gallery;;gallery
+node;12618409291;di Galerie;52.5042965;13.3810922;;;;;Su 16:00-19:00;yes;;gallery;;gallery
+node;12620520303;Charlies Campus Filmclub (Unikino TU Berlin);52.5134702;13.3262548;;;;;"Tu 18:45-22:00 open, Tu 18:30-18:45 open ""Kasse""";yes;10623;cinema;cinema;
+node;12640881684;Dorothée Nilsson Gallery;52.50352879999999;13.3663999;;;;;We-Sa 12:00-18:00;;;gallery;;gallery
+node;12657933202;Stern 5 Zacken;52.472879600000006;13.4528741;;;;;;;;gallery;;gallery
+node;12672329705;DDR Museum Depot;52.5338864;13.5267581;;;;;"Tu 11:00-15:00; Th 14:00-19:00; Su 11:00-16:00";limited;;museum;;museum
+node;12696380244;THF Tower Ausstellung;52.477173799999996;13.3871949;;;;;;yes;12101;museum;;museum
+node;12700492001;hdk;52.474112799999986;13.4482507;;;;;;;12055;gallery;;gallery
+node;12734386032;Kommunale Galerie im Historischen Keller;52.53854439999999;13.204410900000001;;;;;;;;gallery;;gallery
+node;12766378846;Miete Strom Gas;52.5314578;13.3966521;;;;;;;;gallery;;gallery
+node;12768473902;HilbertRaum;52.4875662;13.4291842;;;;;"Fr 16:00-19:00; Sa-Su 14:00-19:00";;12047;gallery;;gallery
+node;12770039749;prideART Berlin;52.43778999999999;13.3083501;;;prideART Berlin e.V.;;;;;gallery;;gallery
+node;12802045501;halle tanzbühne berlin;52.540580399999996;13.4072088;;;;;;;10437;theatre;theatre;
+node;12819997131;Polykiosk;52.52692309999998;13.4002113;;;;;;;;gallery;;gallery
+node;12837777829;Sternschuppen;52.5266291;13.412403200000002;;;Volksbühne;;;;;gallery;;gallery
+node;12844224052;Galerie Alte Schule Adlershof;52.4390018;13.5500841;;;;;"Tu,We,Th 12:00-19:00; Fr 12:00-17:00; Sa 15:00-19:00";;;gallery;;gallery
+node;12862499584;Theater am Schlachthof;52.52389590000001;13.4545614;;;;;;no;10249;theatre;theatre;
+node;12890518186;Friedhofsmuseum;52.52501409999999;13.2788764;;;;;;;;museum;;museum
+node;12905548372;MOUNTAINS;52.5261535;13.4119057;;;;;"We-Fr 12:00-18:00; Sa-Tu off";yes;10178;gallery;;gallery
+node;12943284367;Galeria Azur;52.5178548;13.4312602;;;Artzur GmbH;;Tu-Fr 12:00-18:00;yes;10243;gallery;;gallery
+node;12961230601;Polymedialer Ponyhof;52.477295299999994;13.4370269;;;;;;;12053;gallery;;gallery
+node;13034304289;CCB Studios;52.4879076;13.4215964;;;;;;;10967;arts_centre;arts_centre;
+node;13062130474;Werkstatt Exilmuseum;52.5016997;13.3269358;;;Stiftung Exilmuseum Berlin;;closed;yes;10719;museum;;museum
+node;13071030779;Kunstverein am Rosa-Luxemburg-Platz e.V;52.5271905;13.4105158;;;;;;;10178;gallery;;gallery
+node;13075857990;PETRI Berlin;52.51305560000001;13.4039446;;;;;"Tu-Fr 09:00-17:00; Sa-Su,PH 10:00-18:00";;;museum;;museum
+node;13096438013;Einblick ins Geheime - Ausstellung zum Stasi-Unterlagen-Archiv;52.5136605;13.4871566;;;;;"Mo-Fr 10:00-18:00; Sa-Su 11:00-18:00";yes;;museum;;museum
+node;13098300269;Atelier Lile;52.526151199999994;13.3916607;;;;;;;;gallery;;gallery
+node;13101175108;Freiluftkino Neue Zukunft;52.4979656;13.4661487;;;;;"""Open only during summer for OpenLuftKino""";limited;;cinema;cinema;
+node;13105326337;IKONO;52.520494600000006;13.4112146;;;;;;;10178;gallery;;gallery
+node;13144232435;Galerie Philippe Bober;52.518714800000005;13.4263937;;;;;"""mit Termin""";yes;10243;gallery;;gallery
+node;13150051301;STATTLAB;52.5376578;13.3849955;;;;;;;13355;arts_centre;arts_centre;
+node;13152347703;p: photography unlimited e.V.;52.458323400000005;13.5280941;;;;;;;12459;arts_centre;arts_centre;
+node;13159699301;FHXB Museum Friedrichshain Kreuzberg;52.500601399999994;13.4182423;;;;;"Tu-Th 12:00-18:00; Fr-Su 10:00-20:00; Mo off";;;museum;;museum
+node;13203279170;Browse Gallery;52.4890892;13.3884384;;;;;;;;gallery;;gallery
+node;13206808576;Scope Berlin;52.52802969999998;13.3451765;;;;;Fr-Sa 14:00-18:00;;;gallery;;gallery
+node;13206808577;Kurt Kurt;52.5284495;13.3455268;;;;;;;;gallery;;gallery
+node;13208464999;U144 Untergrundmuseum;52.52678000000001;13.390762100000002;;;;;"""nach Vereinbarung""";;;museum;;museum
+node;13227329301;Kindertheater;52.4545993;13.4764647;;;;;;;;theatre;theatre;
+node;13232566626;Das Weite Theater;52.516898600000005;13.4774074;;;Das Weite Theater e.V.;;;;10367;theatre;theatre;
+node;13232959701;IQZ (Innovations- und Qualitätszentrum) Berlin;52.4953214;13.377493100000002;;;;;"Tu-Fr 09:00-17:30; Sa-Su 10:00-18:00";yes;10963;museum;;museum
+node;13269220260;Punch Line;52.5073448;13.3719248;;;Live Nation Theater GmbH;;;;10785;theatre;theatre;
+node;13269230343;Komödie am Kurfürstendamm;52.5884025;13.3238522;;;;;;limited;13437;theatre;theatre;
+node;13278037601;Atelier Roman Lipski;52.498551799999994;13.4278571;;;;;;;10999;gallery;;gallery
+node;13289087831;Malort Friedrichshain;52.525733399999986;13.4516409;;;;;;no;10249;arts_centre;arts_centre;
+node;13299066101;Unterfilm Clubkino;52.53057700000001;13.4134103;;;;;;;10405;cinema;cinema;
+node;13304600501;Deutsche Kinemathek – Museum für Film und Fernsehen;52.5086058;13.3871269;;;;;;;;cinema;cinema;
+node;13356231032;Ill Galeries;52.52430859999999;13.4021345;;;;;;yes;;gallery;;gallery
+node;13360494401;Riverside;52.526704399999986;13.393537;;;;;;;;gallery;;gallery
+node;13361971664;Berliner S-Bahn-Museum;52.5496217;13.386802;;;Berliner S-Bahn-Museum;;;no;13357;museum;;museum
+node;13381855494;DARK MATTER;52.49290479999999;13.4925811;;;Christopher Bauder;;"We,Th 14:00-22:00; Fr 12:00-23:00; Sa 11:00-23:00; Su 11:00-22:00";yes;10317;gallery;;gallery
+node;13451028602;Atrium Art;52.48481799999999;13.3844763;;;;;;no;;art;;gallery
+node;13468552335;Tribal Art Galerie Dogon;52.505518099999996;13.3202126;;;;;;no;10623;gallery;;gallery
+node;13468595703;Galerie Albrecht;52.504743999999995;13.3201283;;;;;;;;gallery;;gallery
+node;13484113963;Art Space Berlin;52.50108749999999;13.303701100000001;;;;;Mo-Su 10:00-19:00;;10629;arts_centre;arts_centre;
+node;13544407101;Galerie Poll;52.52720990000001;13.3992902;;;;;Tu-Sa 12:00-18:00;;10119;gallery;;gallery
+node;13556345607;Junges Tanzhaus Berlin;52.4838882;13.4225848;;;TanzZeit e.V.;;;;12049;arts_centre;arts_centre;
+node;13565688257;Eigen+Art Lab;52.527050599999995;13.3890034;;;;;;;10115;gallery;;gallery
+node;13586932101;Future Gallery;52.50561339999999;13.365997700000001;;;;;Th-Sa 13:00-18:00;;10785;gallery;;gallery
+node;13587192802;Esther Schipper;52.501851499999994;13.3657651;;;;;;;;gallery;;gallery
+node;13587193601;PSM;52.5055822;13.365738899999998;;;;;;;10785;gallery;;gallery
+node;13587193701;Galerie Isabella Bortolozzi;52.50548839999998;13.3655704;;;;;;;10785;gallery;;gallery
+node;13587193702;HUA International;52.5021597;13.3659687;;;;;;;10785;gallery;;gallery
+node;13587193801;Galerie Thomas Schulte;52.502141099999996;13.3659769;;;;;;;;gallery;;gallery
+node;13587193802;Reiter;52.50213879999999;13.3659492;;;;;;;10785;gallery;;gallery
+node;13588137401;Kristin Hjellegjerde Gallery;52.5012439;13.3660798;;;;;;;10875;gallery;;gallery
+node;13590429804;Serpen;52.52623019999999;13.3921247;;;;;;;;gallery;;gallery
+node;13592294001;Galerie Pleiku;52.5362033;13.436284400000002;;;;;Tu-Sa 15:00-19:00;no;10407;gallery;;gallery
+node;13595786201;Kunst Raum Mitte;52.5268052;13.3962693;;;;;Mo-Su 10:00-18:00;;10117;gallery;;gallery
+node;13644811020;Galerie Judin;52.4978197;13.3597892;;;;;Tu-Su 11:00-18:00;;;gallery;;gallery
+node;13647338021;ART CRU;52.52495309999999;13.3951028;;;;;;;;gallery;;gallery
+node;13686553519;Art Pavillon '61;52.47461409999999;13.292534400000001;;;;;;;14199;gallery;;gallery
+node;13700765940;Synthesizer Museum BERLIN;52.4993776;13.419052600000002;;;;;Mo, We-Su 10:00-18:00;;;museum;;museum
+node;13742027003;Downstairs Comedy Club;52.5250346;13.3920366;;;;;;;;theatre;theatre;
+node;13746185263;BĀLAVAT;52.5028299;13.2885505;;;;;We-Sa 14:00-19:00;no;14057;gallery;;gallery
+node;13758994601;Emmas kreative Veranstaltungen;52.55395059999999;13.415760800000001;;;;;;;;arts_centre;arts_centre;
+node;13763655009;Arsenal;52.5463041;13.3662652;;;;;;yes;13347;cinema;cinema;
+node;13770763702;Theater unterm Dach;52.553381;13.408872700000002;;;;;;;10437;theatre;theatre;
+node;13790834007;;52.55033409999999;13.4464523;;;;;;;;gallery;;gallery
+node;13819418939;Tiyatrom;52.50381089999998;13.399304800000001;;;;;;;10969;theatre;theatre;
+node;13821278713;Showfenster;52.56339439999999;13.3772792;;;;;;limited;13409;theatre;theatre;
+node;13828471201;Showbühne Berlin;52.50713989999999;13.3774911;;;;;;;10963;theatre;theatre;
+node;13828537679;Project Space Kimgo;52.5375248;13.4352376;;;;;;no;;gallery;;gallery
+node;13830578301;Showbühne Berlin;52.50713999999999;13.377491;;;;;;;10963;theatre;theatre;
+node;13895755992;Galerie Stephan;52.53395299999999;13.3493525;;;;;;;;gallery;;gallery
+node;13909502753;Weserhalle;52.4832145;13.4409544;;;;;;;;gallery;;gallery
+node;13909847993;Susanne Rikus;52.525362799999996;13.3939583;;;;;;;;gallery;;gallery
+node;13910499203;Galerie Tammen;52.5031292;13.390658;;;;;;;10969;gallery;;gallery
+node;13931252689;KSTN;52.49154879999999;13.419918800000001;;;;;;;;arts_centre;arts_centre;
+node;13931472190;filter;52.52626349999999;13.401105200000002;;;;;;no;;gallery;;gallery
+node;13931477303;gilter;52.52623439999999;13.401093500000002;;;;;;;;gallery;;gallery
+node;13950466401;Backsteinboot;52.547993;13.2196295;;;;;;;13585;arts_centre;arts_centre;
+node;13952831701;Hauptmannausstellung;52.4456666;13.5747391;;;;;;;;museum;;museum
+node;13981230302;;52.5277037;13.4010956;;;;;;;;gallery;;gallery
+node;13987878617;Dr. Claudio Lange;52.4655971;13.3200144;;;CL schAURAum 41;;auf Nachfrage;;12163;gallery;;gallery
+node;14005564844;Studio Hannibal;52.5429649;13.4152784;;;;;;no;;gallery;;gallery
+node;14031699207;Nelke;52.5462554;13.4103799;;;;;;;10437;gallery;;gallery
+node;14101754209;Bardo Projektraum;52.511030500000004;13.4718573;;;;;;;10247;gallery;;gallery
+node;14142329968;Galerie M;52.546039400000005;13.5548115;;;;;;;;gallery;;gallery
+node;14180100246;Komische Oper Berlin @Schillertheater;52.51166229999999;13.3183687;;;Stiftung Oper in Berlin;;;;;theatre;theatre;
+node;14201405871;Galerie Brusberg;52.5038688;13.2938537;;;;;;;;gallery;;gallery
+node;14213002001;OFFICE IMPART;52.5296776;13.3376412;;;;;We-Fr 15:00-18:00;;10551;gallery;;gallery
+node;14213130189;Signalpark;52.4646966;13.5385814;;;Berliner Parkeisenbahn;;;;;museum;;museum
+node;14232165137;Kulturhaus Baumschulenweg;52.46553399999999;13.4893339;;;Kulturring in Berlin e.V.;;"Mo,We-Fr 10:00-16:30; Tu 10:00-19:00";no;12437;arts_centre;arts_centre;
+node;14239082831;oqbo - raum für bild wort und ton;52.5402706;13.394925;;;;;Th-Sa 15:00-18:00;;;gallery;;gallery
+node;14243798945;Atelier;52.4557135;13.57926;;;Karoline Kohle;;;no;;gallery;;gallery
+node;14246274431;Lichtblau;52.4860631;13.376390100000002;;;;;"Mo 10:00-15:00; Sa 12:00-17:00";;10965;gallery;;gallery
+node;14261891747;Die Aktgalerie;52.5096085;13.4636131;;;;;Fr-Su 15:00-19:00;no;;gallery;;gallery
+node;14267179402;CITTIPUNKT e.V.;52.54582889999999;13.3481263;;;;;;;13359;arts_centre;arts_centre;
+node;14283183501;NEW FEARS Gallery;52.49455699999999;13.4343335;;;;;;;10999;gallery;;gallery
+node;14342810502;Prater Galerie;52.53973619999999;13.4106728;;;Bezirk Pankow;;;;;gallery;;gallery
+node;14416182941;Ägyptisches museum;52.5199702;13.3977911;;;;;;;;museum;;museum
+node;14420617701;;52.5043144;13.3581949;;;;;;;10785;museum;;museum
+relation;3619;Altes Museum;52.5194531766395;13.398785107384356;;;;;"Mo off; Tu-Fr 10:00-17:00; Sa-Su 10:00-18:00; PH 10:00-18:00; Dec 24 off; Dec 31 off";yes;10178;museum;;museum
+relation;28134;Kunstgewerbemuseum;52.50975638432208;13.36734283062557;;;;;"Mo-Tu off; We-Fr 10:00-17:00; Sa-Su 11:00-18:00";yes;;museum;;museum
+relation;1120888;Theater am Park;52.511002983411764;13.56473161612929;;;;;;no;12683;theatre;theatre;
+relation;1652105;Märkisches Museum;52.5135249724991;13.414747806742971;;;;;closed;;10179;museum;;museum
+relation;2309788;Archenhold-Sternwarte;52.48583413490893;13.476332964890695;;;;;"We-Su 14:00-16:30 ""museum"" || Th 20:00+; Sa-Su 15:00+ ""guided tour""";yes;12435;planetarium;planetarium;museum
+relation;2309795;Freigelände der Archenhold-Sternwarte;52.48639314957663;13.475492565168985;;;;;;;;museum;;museum
+relation;3626233;Gemäldegalerie am Kulturforum;52.50851560255818;13.36489295069611;;;;;"Mo off; Tu-Su 10:00-18:00";yes;;museum;;museum
+relation;3626485;Philharmonie;52.50998823172482;13.369701799477204;;;;;;yes;10785;theatre;theatre;attraction
+relation;4211594;Bode-Museum;52.521731366096304;13.394951257291916;;;;;"Mo off; Tu-Fr 10:00-17:00; Sa-Su 10:00-18:00; PH 10:00-18:00; Dec 24 off; Dec 31 off";yes;10117;museum;;museum
+relation;6807791;East Side Gallery;52.50517198663868;13.439908273682843;;;;;24/7;;;gallery;;gallery
+relation;7868401;Brücke-Museum;52.46693222270502;13.27472247284479;;;;;"11:00-17:00; Tu off";limited;14195;museum;;museum
+relation;9333682;Amphitheater im Mauerpark;52.54291191194183;13.403410772608725;;;;;;;;theatre;theatre;
+relation;11516702;Gropius-Bau;52.50671455658717;13.381928504580157;;;Berliner Festspiele;;"Sa-Su 10:00-19:00; Mo, We-Fr 12:00-19:00";yes;10963;museum;;museum
+relation;21360019;CineStar;52.584144117454876;13.285648045382855;;CineStar;;;"Mo-Fr 13:30-24:00; Sa-Su 11:00-24:00";yes;13507;cinema;cinema;
+way;4555267;Waldbühne;52.51549683999213;13.229330571549339;;;;;;yes;14053;theatre;theatre;
+way;5117224;ZAK;52.541645687245435;13.212511856540345;;;;;"Mo-We,Fr-Su 10:00-17:00; Th 13:00-20:00";yes;;arts_centre;arts_centre;
+way;10672271;Museum der Staatlichen Münze Berlin;52.572739192680935;13.330325548238386;;;;;;;13403;museum;;museum
+way;11544256;Neuer Pavillon;52.5213225002883;13.29922661776564;;;Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg;;Apr-Oct Su 10:00-17:30;;14059;museum;;museum
+way;14437262;Ausstellung Totgeschwiegen;52.58302383707822;13.33037851852271;;;Vivantes GmbH + totgeschwiegen e.V.;;;;;museum;;museum
+way;15221252;Freiluftkino Rehberge;52.55490651201802;13.330203396337376;;;Freiluftkino.Berlin FKR GmbH;;"""30 Minuten vor Vorstellungsbeginn""";yes;;cinema;cinema;
+way;15976892;Staatsoper Unter den Linden;52.51665731002926;13.394745099509816;;;;;;yes;10117;theatre;theatre;
+way;16739451;Ernst-Reuter-Saal;52.58838442258089;13.3239299029001;;;;;;yes;;theatre;theatre;
+way;18578139;Neues Museum;52.520169947939095;13.397730719501943;;;;;"Mo off; Tu-Su 10:00-18:00; PH 10:00-18:00; Dec 24 off; Dec 31 off";yes;10178;museum;;museum
+way;18676381;Theater unterm Dach;52.5375089923295;13.430950959634576;;;;;;no;10405;theatre;theatre;
+way;20131071;Freilichtbühne Weißensee;52.55615264642247;13.463298070941834;;;Freunde der Freilichtbühne Weißensee e.V.;;"""60 Minuten vor Vorstellungsbeginn""";;;cinema;cinema;
+way;22990151;Musikinstrumenten-Museum;52.51043458041952;13.37083257883358;;;;;"Tu,We,Fr 09:00-17:00; Th 09:00-22:00; Sa,Su 10:00-17:00";yes;10785;museum;;museum
+way;22990276;Kupferstichkabinett;52.508401476616186;13.366646305437708;;;;;"Mo-Tu off; We-Fr 10:00-17:00; Sa-Su,PH 11:00-18:00; Jan 01 12:00-18:00; Dec 24,Dec 31 off";yes;;museum;;museum
+way;23010077;Zoo Palast;52.506081471148505;13.334206106885283;;;Premium Entertainment GmbH;;;yes;10623;cinema;cinema;
+way;23093989;Kino in der Kulturbrauerei;52.53863135532835;13.414157864085315;;CineStar;Cinestar;;;yes;10435;cinema;cinema;
+way;23261241;Cineplex Alhambra;52.550570712551455;13.35109166505302;;Cineplex;;;;yes;13353;cinema;cinema;
+way;23453625;Odeon;52.48204700762698;13.349650340891142;;;Yorck-Kino GmbH;;"""Täglich 15 Minuten vor Beginn der ersten Vorstellung""";limited;10827;cinema;cinema;
+way;23695973;Galerie & Ateliers Mikael Andersen;52.53138940801283;13.41019915848245;;;;;;no;;gallery;;gallery
+way;23813200;Nikolaikirche;52.516815305112964;13.407495364011815;;;Stiftung Stadt Museum Berlin;;Mo-Su 10:00-18:00;limited;10178;place_of_worship;place_of_worship;museum
+way;23910878;Cabuwazi;52.55194761759775;13.547571798843284;;;Grenzkultur gGmbH;;;;12681;theatre;theatre;
+way;24054901;Kunsthaus KuLe;52.52636551600884;13.394168140146157;;;;;;;10117;arts_centre;arts_centre;
+way;24240975;Kino International;52.520636696053614;13.423008962917178;;;Yorck Kinogruppe;;"""30 minutes before first screening""";yes;10178;cinema;cinema;
+way;24304736;Haus am Kleistpark;52.49059865840295;13.357256405043968;;;;;;;10823;gallery;;gallery
+way;24315051;Schloss Schönhausen;52.57834545291475;13.405692858329076;;;;;"Apr-Oct: Tu-Su,PH 10:00-17:30; Nov-Mar: Sa,Su,PH 10:00-16:00";yes;13156;museum;;museum
+way;24362579;Alfred Ehrhardt Stiftung;52.52661380354941;13.393906536236353;;;;;"Tu-Su 11:00-18:00; Th 11:00-21:00";no;10117;gallery;;gallery
+way;24368681;Topographie des Terrors;52.50628411171627;13.384434984607072;;;Stiftung Topographie des Terrors;;"Mo-Su,PH 10:00-20:00; Jan 01,Dec 24,Dec 31 off";yes;10963;museum;;museum
+way;24478438;Mausoleum Charlottenburg;52.524260249376056;13.291798148547223;;;Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg;customers;Apr-Oct Tu-Su 10:00-17:30;;;museum;;museum
+way;25356456;Atze Musiktheater;52.54323801080211;13.351539956616328;;;;;;yes;13353;theatre;theatre;
+way;25652321;Neue Nationalgalerie;52.50697002659604;13.367575918161966;;;;;"Tu,We,Fr-Su 10:00-18:00; Th 10:00-20:00";yes;10785;museum;;museum
+way;25775881;Stadtgeschichtliches Museum Spandau;52.54062850580718;13.213538199103988;;;;;;yes;;museum;;museum
+way;25779477;GRIPS Theater;52.51866874323185;13.341423861455944;;;GRIPS Theater GmbH;;;yes;10557;theatre;theatre;
+way;26121688;Kunstremise Spandau;52.53712871206266;13.201210707759666;;;;;Mo-Fr 14:00-18:00;;;gallery;;gallery
+way;26144213;Gründerzeitmuseum im Gutshaus Mahlsdorf;52.5024940086296;13.613928484746117;;;;;We,Su 10:00-18:00;no;12623;museum;;museum
+way;26247891;Museum für Fotografie;52.508140443000364;13.332075054612162;;;Staatliche Museen Berlin;;"Tu-We,Fr-Su 11:00-19:00; Th 11:00-20:00";limited;10623;museum;;museum
+way;26382664;Knoblauchhaus;52.51644287770398;13.406987709371245;;;Stiftung Stadtmuseum Berlin;;Th-Su 10:00-18:00;no;;museum;;museum
+way;26491214;Junior Campus;52.495722367715764;13.377208678215593;;;;;;;;arts_centre;arts_centre;
+way;26640235;Haus der Berliner Festspiele;52.4984950838165;13.328693404635613;;;Berliner Festspiele;;;yes;10719;theatre;theatre;
+way;26836899;Liebermann-Villa;52.428771448007474;13.164888047803446;;;;;"Oct-Mar We-Mo 11:00-17:00; Apr-Sep We-Mo 10:00-18:00; Dec 24 off; Dec 31 off";limited;14109;museum;;museum
+way;26966079;Atelierhaus;52.5301606893899;13.285894805573328;;;;;;;13627;arts_centre;arts_centre;
+way;27120308;Museum Neukölln;52.445966435790105;13.43777796069177;;;;;10:00-18:00;yes;12359;museum;;museum
+way;27182821;Botanisches Museum Berlin-Dahlem;52.458396780415924;13.305098055385521;;;Freie Universität Berlin;;closed for renovations until 2025;limited;14195;museum;;museum
+way;28018544;Capitol Dahlem;52.453031867171376;13.286835139290908;;;Yorck Kinogruppe;;"""Irregular screenings, see website""";;14195;cinema;cinema;
+way;28147152;Museumsdorf Düppel;52.42518003471817;13.233358322671595;;;Stiftung Stadtmuseum Berlin;;"Mar-Oct Sa-Su 10:00-18:00; Mar-Oct PH 10:00-18:00";;14163;museum;;museum
+way;29053886;Capitain Petzel;52.51985388860497;13.425211307262611;;;Capitain Petzel GmbH;;Tu-Sa 11:00-18:00;limited;10178;gallery;;gallery
+way;30419819;SA-Gefängnis Papestraße;52.475565126872674;13.370007013128408;;;;;"Su, Tu-Th 13:00-18:00; Sa 13:00-18:00";;12101;museum;;museum
+way;30782864;Bar jeder Vernunft;52.49800894677375;13.329585895889396;;;Bar jeder Vernunft Veranstaltungs-Organisations-GmbH;;;limited;10719;theatre;theatre;
+way;31046802;Ruine der Künste;52.451720579091564;13.285480603102894;;;;;;no;14195;museum;;museum
+way;31283095;Haus am Waldsee;52.44208522503972;13.238470917441644;;;;;Tu-Su 11:00-18:00;limited;14163;museum;;museum
+way;31583865;Bezirksmuseum Marzahn-Hellersdorf, Haus 1;52.543152590355604;13.561005154373275;;;;;"Mo-Fr 10:00-18:00; PH off";yes;12685;museum;;museum
+way;31622818;Deutsches Technikmuseum;52.49723351579241;13.376250189704288;;;Stiftung Deutsches Technikmuseum Berlin;;"Tu-Fr 09:00-17:30; Sa-Su 10:00-18:00; PH 10:00-18:00";yes;10963;museum;;museum
+way;32212224;Kunsthaus Dahlem;52.466372139582525;13.27414368400265;;;;;;;14195;museum;;museum
+way;32510898;Universität der Künste Konzertsaal;52.50892092587549;13.328160075626833;;;Universität der Künste Berlin;;;yes;;theatre;theatre;
+way;32861687;Delphi Filmpalast;52.506040857535304;13.328503362107739;;;Yorck Kinogruppe;;"""Öffnet 30min vor Beginn des ersten Films (etwa 14 Uhr), Kasse schließt um 21 Uhr, Haus schließt 30min nach Ende des letzten Films""";no;10623;cinema;cinema;
+way;33743630;Berlinische Galerie;52.50389386000477;13.398203939971934;;;Landesmuseum für moderne Kunst, Fotografie und Architektur Stiftung Öffentlichen Rechts;;Mo,We-Su 10:00-18:00;yes;10969;museum;;museum
+way;33910270;Schmetterlingshorst;52.4125978992797;13.609493292430829;;;Bezirkssportbund Treptow-Köpenick e.V.;;"Oct-Mar: Mo-Fr 11:00-16:00; Sa-Su 11:00-17:00; Apr-Sep: Mo-Fr 10:00-17:00; Sa-Su 10:00-19:00";yes;12559;museum;;museum
+way;33949547;Berliner Rockhaus;52.50965561753632;13.490246348013336;;;;private;;;10365;arts_centre;arts_centre;
+way;34871720;Schwartzsche Villa;52.45691744107209;13.319395904518377;;;;;;;12165;arts_centre;arts_centre;
+way;35265862;Schlosspark Theater;52.454894406375026;13.317697998932672;;;;;Mo-Sa 10:00-20:00, Su 12:00+;limited;12165;theatre;theatre;
+way;35265863;Adria Filmtheater;52.45469705396533;13.317408071846579;;;;;;limited;12165;cinema;cinema;
+way;35599311;Figurentheater Grashüpfer;52.491672470406535;13.466180722164562;;;;;;;12435;theatre;theatre;
+way;37791501;Freie Volksbühne Berlin;52.49132667590381;13.308207360493865;;;;;;;;theatre;theatre;
+way;40432101;Haus der Wannseekonferenz;52.432926489520455;13.165601978473825;;;Erinnern für die Zukunft - Trägerverein des Hauses der Wannsee-Konferenz e. V.;;"Mo-Su 10:00-18:00; May 01 off; easter -2 days off; Jan 01 off; Dec 24-26 off; Dec 31 off";yes;14109;museum;;museum
+way;41368729;Ausstellung;52.51461655417239;13.509484055645714;;;;;24/7;;;museum;;museum
+way;41604856;Theaterzelt;52.420544580530176;13.406464911230957;;;;;;;;theatre;theatre;
+way;42163186;Radialsystem V;52.5103216420658;13.428629023742918;;;;;;yes;10243;arts_centre;arts_centre;
+way;42485381;Kulturforum Hellersdorf;52.53072936725783;13.592546878150474;;;;;;yes;12619;arts_centre;arts_centre;
+way;42520703;Reinbeckhallen;52.45974008404226;13.518702283276296;;;;;"Th,Fr 16:00-20:00; Sa,Su 11:00-20:00";;12459;gallery;;gallery
+way;43106241;Kunsthalle Koidl;52.50314533933114;13.299785285336117;;;;;;;10629;gallery;;gallery
+way;43106382;Parkbühne Wuhlheide;52.46233876486889;13.545460566957237;;;;;;yes;12459;theatre;theatre;attraction
+way;43159444;Direktorenhaus Berlin;52.51516554601304;13.40960574024712;;;;;Tu-Fr 11:00-17:00;;10179;museum;;museum
+way;43231186;Schinkelpavillon;52.516335839395815;13.396855929875844;;;Schinkel Pavillon e.V.;;;limited;;arts_centre;arts_centre;
+way;43445380;Galerie Brusberg - Die Wunderkammer;52.503771264902724;13.293963382679998;;;;;;;14057;gallery;;gallery
+way;43721584;Villa Heike;52.54256455795879;13.498434219688905;;;;;;;13055;gallery;;gallery
+way;43767919;Schloss Biesdorf;52.50981259160274;13.557665231788908;;;;;"We, Th, Sa-Mo 10:00-18:00; Fr 12:00-21:00";limited;12683;museum;;museum
+way;44699274;The Feuerle Collection;52.50046653967369;13.378540933343386;;;;;;;;museum;;museum
+way;45001951;Urban Spree;52.50758208524608;13.451528170722884;;;;;;limited;10245;arts_centre;arts_centre;
+way;45122744;Stage Theater des Westens;52.5058914180219;13.328995581210911;;;Stage Entertainment Germany GmbH;;;yes;10623;theatre;theatre;
+way;45524990;Energie-Museum;52.44344328405206;13.329977736555625;;;;;"closed ""Das Museum ist aktuell auf der Suche nach neuen Räumlichkeiten, der Museumsbetrieb ist deshalb vorübergehend eingestellt.""";;12247;museum;;museum
+way;45664094;Gedenkstätte Berliner Mauer (Dokumentationszentrum);52.535300178340194;13.38955240633269;;;;;Tu-Su 10:00-18:00;limited;13355;museum;;museum
+way;45741088;FELD;52.4964519735405;13.35533401144947;;;FELD Zentrale für junge Performance e.V.;;;yes;10781;theatre;theatre;
+way;47906427;Bali Kino;52.431896096050735;13.259706233709366;;;Helgard Gammert;;PH,Mo-Su 16:00-23:00;limited;14169;cinema;cinema;
+way;49223741;Fontanehaus;52.59787329417237;13.352297045808433;;;;;;limited;;arts_centre;arts_centre;
+way;49900345;Deutsches Blinden-Museum;52.45580154642699;13.315082766920401;;;;;We 15:00-18:00;;12165;museum;;museum
+way;49967469;Wilhelm-Foerster-Sternwarte;52.45739978205584;13.351265057754748;;;Wilhelm-Foerster-Sternwarte e.V. Berlin;;"""nur zu Veranstaltungen""";;12169;museum;;museum
+way;52118901;Astra-Filmpalast;52.44646572784247;13.507288147722031;;;;;;limited;12487;cinema;cinema;
+way;53333454;Gedenkstätte Berliner Mauer (Besucherzentrum);52.53379429525258;13.387457303090958;;;;;"Mo off; Tu-Su 10:00-18:00";yes;13355;museum;;museum
+way;56917139;;52.540214122493744;13.409038973797799;;;Prater;;;;;theatre;theatre;
+way;72509827;Georg-Kolbe-Museum;52.50990291597441;13.25477639946157;;;Georg-Kolbe-Stiftung;;We-Mo 11:00-18:00, Tu closed;yes;14055;museum;;museum
+way;73427143;Meierei;52.43924122727541;13.131976824017903;;;;;"closed ""temporary closed""";no;;museum;;museum
+way;75008484;Museum im Böhmischen Dorf;52.475431649937505;13.445599249821784;;;;;"Th 14:00-17:00; Su[1] 12:00-14:00; Su[3] 12:00-14:00";;;museum;;museum
+way;76859761;Kunsthaus;52.570814241289526;13.412409420177099;;;;;;;;arts_centre;arts_centre;
+way;76859769;Kunsthaus 2;52.57043670760046;13.412837978150717;;;;;;;;arts_centre;arts_centre;
+way;76859771;Kavalierhaus;52.57153585184559;13.412949993230699;;;;;;yes;13187;arts_centre;arts_centre;
+way;78140038;Museum Reinickendorf;52.61545800416787;13.318683246388312;;;;;"Mo-Fr 09:00-17:00; Su 09:00-17:00; Sa,PH off";yes;13467;museum;;museum
+way;78372656;Löwenpalais;52.48633695244515;13.271465253968017;;;;;;;14193;arts_centre;arts_centre;
+way;79611278;Museum Charlottenburg-Wilmersdorf in der Villa Oppenheim;52.516152615976615;13.298042822477827;;;;;"Mo off; Tu-Fr 10:00-17:00; Sa-Su 11:00-17:00";yes;14059;museum;;museum
+way;80578271;Ateliergemeinschaft Meinblau;52.53129295752599;13.4104771923163;;;;;;no;;gallery;;gallery
+way;81127025;Brotfabrik;52.55260059124181;13.43057887414711;;;;;;yes;13086;arts_centre;arts_centre;
+way;81194038;HAU 1 (Hebbel am Ufer);52.499952617534944;13.387149399901853;;;;;;limited;10963;theatre;theatre;
+way;83811523;Alliierten-Museum;52.45562991983233;13.272268999560666;;;;;Tu-Su 10:00-18:00;;14195;museum;;museum
+way;85605866;;52.492774270920066;13.385133937340445;;;;;;;;cinema;cinema;
+way;86814083;Circus Schatzinsel;52.502084754366315;13.441548109739996;;;;;;yes;;arts_centre;arts_centre;
+way;87646457;Museum Berggruen;52.51909912409966;13.295079646621863;;;Staatliche Museen zu Berlin;;"Temporär geschlossen; Temporarily closed";yes;14059;museum;;museum
+way;93942770;Bröhan-Museum;52.518645947591686;13.295380288177025;;;;;"Tu-Su,PH 10:00-18:00; Dec 24,Dec 31 off";limited;14059;museum;;museum
+way;96829618;Essen und Trinken im Museum (Zimmer f. Zeiterweiterung);52.530946302571046;13.434835865500014;;;;;;;10407;gallery;;gallery
+way;101922215;Atelierhaus Mengerzeile;52.48874733720555;13.444034163094829;;;;;;;12435;gallery;;gallery
+way;102813193;Science Center Spectrum;52.49811551508934;13.379403014013043;;;Stiftung Deutsches Technikmuseum Berlin;;"Tu-Fr 09:00-17:30; Sa,Su 10:00-18:00";yes;;museum;;museum
+way;106886812;Jugend-, Kultur- und Informartionzentrum Wasserturm e.V.;52.48714032173822;13.389661021503512;;;;;;no;10965;arts_centre;arts_centre;
+way;123268854;Konzertbühne;52.49889396771583;13.526109098371684;;;;;;yes;;theatre;theatre;
+way;131487807;Max-Liebermann-Haus;52.51670348043158;13.377835112385622;;;;;We-Mo 11:00-18:00;yes;10117;museum;;museum
+way;132555271;Museum in der Kulturbrauerei;52.54028529883261;13.413718392108649;;;Stiftung Haus der Geschichte der Bundesrepublik Deutschland;;"Tu-Fr 09:00-18:00; Sa-Su 10:00-18:00";yes;10435;museum;;museum
+way;136077234;Labyrinth Kindermuseum;52.5561253541123;13.385995926312145;;;;;"Fr 13:00-18:00; Sa,Su 11:00-18:00";limited;13359;museum;;museum
+way;138516180;Kunsthalle Berlin-Weißensee;52.556103503736615;13.439339989267852;;;;;;limited;13086;museum;;museum
+way;143367746;Kulturforum;52.50894767825672;13.365909312830306;;;Stiftung Preußischer Kulturbesitz;;"Mo off; Tu-Fr 10:00-18:00; Sa-Su 11:00-18:00";yes;10785;museum;;museum
+way;144078902;Effizienzhaus-Plus mit Elektromobilität;52.50907989778738;13.329338057986444;;;Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit;;Th,Sa 13:00-18:00;yes;10623;museum;;museum
+way;145586611;Dokumentationszentrum NS-Zwangsarbeit;52.45269057940889;13.518847700182071;;;Stiftung Topographie des Terrors;;"Tu-Su 10:00-18:00; Th 10:00-20:00; Dec 24,Dec 31 off";yes;12439;museum;;museum
+way;145796789;Die Weiße Rose;52.48835758626604;13.34623312105669;;;;;;limited;10825;arts_centre;arts_centre;
+way;148086368;Thalia Kino;52.43500502214053;13.344939972790325;;;;;;no;12247;cinema;cinema;
+way;149535679;Theater Ost;52.43362794242349;13.539177017363933;;;Theater OST;;;limited;12489;theatre;theatre;
+way;157004206;CineMotion;52.566185208263015;13.508911820892306;;;;;;yes;13051;cinema;cinema;
+way;158347734;Kinder-Zirkus Cabuwazi;52.4039340146275;13.5326832341697;;;;;;;12524;theatre;theatre;
+way;166709624;Ort der Information;52.513743748581845;13.379756374424892;;;;;"Apr-Sep Mo-Su 10:00-20:00; Oct-Mar Mo-Su 10:00-19:00; Dec 24-26 off; Dec 31 10:00-16:00";yes;10117;museum;;museum
+way;175149971;DDR-Museum;52.5194214973905;13.402256179374785;;;;;Mo-Su 09:00-21:00;limited;10178;museum;;museum
+way;182553889;Informationsort Schwerbelastungskörper;52.48403044265943;13.371572244785662;;;Museen Tempelhof-Schöneberg;;Apr-Oct Tu-Th,Sa,Su 13:00-18:00;no;12101;museum;;museum
+way;182566447;asisi Panorama Berlin Die Mauer;52.50789899344231;13.389435019385905;;;;;Mo-Su 10:00-18:00;limited;10117;museum;;museum
+way;184592746;Museum für Architekturzeichnung;52.53206457034381;13.410019019658197;;;;;"Mo-Fr 14:00-19:00; Sa-Su 13:00-17:00";yes;10119;museum;;museum
+way;194422265;James-Simon-Galerie;52.519938393961766;13.396992856099164;;;;;"Mo off; Tu-Su 10:00-18:00";yes;;museum;;museum
+way;195085927;Alte Bäckerei – Museum für Kindheit in Pankow;52.568366199107714;13.399905702722647;;;;;"Tu 11:00-17:00 || ""und nach telefonischer Anmeldung sowie zu Veranstaltungen""";;13187;museum;;museum
+way;195141209;Café Theater Schalotte;52.516665752371225;13.30336344961445;;;Café Theater Schalotte;;;no;10585;theatre;theatre;
+way;199532111;Industriesalon Schöneweide;52.46033606973418;13.517984003970712;;;Industriesalon Schöneweide e.V.;;We-Su 14:00-18:00;yes;12459;museum;;museum
+way;210353718;Madi – Zelt der Sinne;52.57563513408464;13.293519134531156;;;;;;no;13507;theatre;theatre;
+way;217402355;Freiluftkino Hasenheide;52.48361731734887;13.416398313287392;;;;;May-Sep sunset+;limited;;cinema;cinema;
+way;217512230;Konzerthaus Berlin;52.51358402279194;13.391815884295525;;;;;;yes;10117;theatre;theatre;attraction
+way;219345481;Sommerbühne;52.45365203885617;13.381357143099079;;;;;;;;theatre;theatre;
+way;219345516;Theatersaal;52.453918442732444;13.381072050771929;;;;;;;;theatre;theatre;
+way;223307726;Max-Taut-Aula;52.50122619227844;13.486251362252302;;;;;;yes;;theatre;theatre;
+way;225919675;ZK/U;52.53388510982447;13.336522989579978;;;KUNSTrePUBLIK;;;yes;10551;arts_centre;arts_centre;
+way;231008506;Kunst-Pavillon;52.43411854873742;13.411928683158417;;;Buckower Malgruppe;;Apr 09-Oct 30 Sa,Su,PH 14:00-18:00;;;gallery;;gallery
+way;235493631;Pergamon-Panorama;52.520823889988925;13.393483644391385;;;Staatlichen Museen zu Berlin;;"Mo off; Tu-Su 10:00-18:00; PH 10:00-18:00; Dec 24 off; Dec 31 off";;10117;museum;;museum
+way;237816189;Akademie der Künste;52.515477219265804;13.379606386028854;;;;;;yes;10117;arts_centre;arts_centre;
+way;252953373;Gaslaternen-Freilichtmuseum;52.51245796727283;13.33704701628436;;;Stiftung Deutsches Technikmuseum;;24/7;yes;;museum;;museum
+way;258756195;Tipi am Kanzleramt;52.51844451877483;13.36716416902248;;;Bar jeder Vernunft Veranstaltungs-Organisations-GmbH;;;yes;10557;theatre;theatre;
+way;279469769;Kino Union;52.45631137152725;13.625910974924787;;;;;"Th-Tu 12:30-24:00+; We 09:30-24:00+";yes;;cinema;cinema;
+way;283862582;Museumsdorf Düppel;52.42482295167398;13.236177047456056;;;;;;;14163;museum;;museum
+way;285972948;Ephraim-Palais;52.515867892734384;13.407141440399544;;;Stiftung Stadtmuseum Berlin;;"Tu-Su 10:00-18:00; We 12:00-20:00";yes;10178;museum;;museum
+way;290220610;Museum Berlin-Karlshorst;52.486245812555794;13.54006852281306;;;;;Tu-Su 10:00-18:00;yes;;museum;;museum
+way;302942554;Jüdisches Museum;52.50185937769795;13.396037944689997;;;;;Tu-Su 10:00-18:00;yes;10969;museum;;museum
+way;305425477;Kammermusiksaal;52.5093502310802;13.368994764362924;;;;;;yes;;theatre;theatre;
+way;307731758;BlackBox Kalter Krieg;52.50797947119516;13.39065410478076;;;Berliner Forum für Geschichte und Gegenwart;;Mo-Su 10:00-18:00;yes;10117;museum;;museum
+way;310002681;Operationsbunker Teichstraße;52.57226901625929;13.34855639143257;;;;;;;13407;museum;;museum
+way;313659704;Pergamonmuseum;52.5209714416386;13.396591106678118;;;;;off;yes;10117;museum;;museum
+way;313670733;Alte Nationalgalerie;52.520871227958644;13.398251145048452;;;;;"Mo off; Tu-Su 10:00-18:00; PH 10:00-18:00; Dec 24 off; Dec 31 off";yes;10178;museum;;museum
+way;326279545;Freiluftkino Friedrichshagen;52.45960548494116;13.623800284068622;;;;;;limited;12587;cinema;cinema;
+way;327432801;Freilichtbühne;52.500080634672;13.531442158684559;;;;;;;;theatre;theatre;
+way;329510221;Astrid-Lindgren-Bühne;52.4610438476527;13.54900288098698;;;;;;yes;;theatre;theatre;
+way;340842792;Lern- und Gedenkort Annedore und Julius Leber;52.47932073991649;13.360988787984498;;;"Stadtteilverein Schöneberg;Arbeitskreis Lern- und Gedenkort";;closed;yes;;museum;;museum
+way;365615506;Freilichtbühne Spandau;52.53985416142483;13.216778316194997;;;;;;yes;;theatre;theatre;
+way;367216314;Gedenkstätte Berlin-Hohenschönhausen;52.54173648915373;13.50135537778369;;;;;Mo-Su 09:00-18:00;limited;;museum;;museum
+way;367502474;Schillertheater;52.511629044360006;13.318706669947195;;;;;;yes;10625;theatre;theatre;
+way;380427033;Camaro Stiftung;52.50203797654536;13.363080054441895;;;;;;;;gallery;;gallery
+way;397532274;forum 1848 am Friedhof der Märzgefallenen;52.52417188118263;13.436586726356062;;;Paul Singer e.V.;;"Mo-Su 10:00-18:00; Nov-Mar We off";yes;10249;museum;;museum
+way;420053341;Mitte Museum;52.55105321952034;13.380134094499311;;;Bezirksamt Mitte;;Su-Fr 10:00-18:00;yes;13357;museum;;museum
+way;421630792;Wiesenburg;52.54563168548353;13.374968206483455;;;;;;;13357;arts_centre;arts_centre;
+way;422928025;Berliner Ensemble;52.52216947038568;13.385606012549363;;;;;;limited;10117;theatre;theatre;
+way;441793447;Ausstellung Zwangsarbeiter des kirchlichen Friedhofslagers Berlin 1942 - 1945;52.472616045435274;13.4291659783947;;;;;Apr 15-Oct 15: Sa 15:00-18:00;;;museum;;museum
+way;446921845;Khroma;52.50733489244124;13.45368552267366;;;;;;;10245;museum;;museum
+way;465412562;Art by Cassio;52.54945756382103;13.414295479127857;;;;;;;;gallery;;gallery
+way;474297385;Freilichtbühne;52.51768604350448;13.477455101134058;;;;;;no;;theatre;theatre;
+way;500735910;Futurium;52.524028796201414;13.374339322763788;;;Futurium gGmbH;;"Th 10:00-20:00; We,Fr-Mo 10:00-18:00; Tu off";yes;10117;museum;;museum
+way;500744619;Arena;52.53873067888938;13.57152764812903;;;;;;yes;;theatre;theatre;
+way;514553688;Biesdorfer Parkbühne;52.511720639089255;13.559126787234622;;;;;;no;12683;theatre;theatre;
+way;518546579;Kinder- und Jugendzirkus Cabuwazi Tempelhof - Der Kulturflughafen;52.48196040990088;13.401752465117603;;;GrenzKultur gemeinnützige GmbH;;;yes;10965;theatre;theatre;
+way;545837671;Freilicht Klassenzimmer;52.459448817797046;13.290628798898444;;;;;;;;theatre;theatre;
+way;571190602;Alte Dorfschule Rudow;52.41758543410811;13.495476896522854;;;;;;;12355;arts_centre;arts_centre;
+way;591200184;Trabi Museum;52.50810085268302;13.386371748211262;;;;;Mo-Su 10:00-18:00;yes;;museum;;museum
+way;598532238;Juxirkus;52.494698946866365;13.348080006710447;;;;;;yes;;theatre;theatre;
+way;608087185;;52.4751291803056;13.465136700795282;;;;;;;;theatre;theatre;
+way;645006822;silent green Kulturquartier;52.54572903001286;13.366444470286757;;;;;;yes;13347;arts_centre;arts_centre;
+way;689620121;Dokumentationszentrum NS-Zwangsarbeit Berlin-Schöneweide: Baracke 13;52.45233623579568;13.522941094418366;;;;;"""Besichtigung nach Vereinbarung.""";;12439;museum;;museum
+way;693955935;;52.50786572106643;13.390085648942406;;;;;;;;museum;;museum
+way;706108769;Cabuwazi;52.489365054899096;13.448170320662314;;;Grenzkultur gGmbH;;;;12435;theatre;theatre;
+way;714430840;Schöneberg Museum;52.48389956064808;13.35098175465035;;;;;"Sa-Th 14:00-18:00; Fr 09:00-14:00";no;10827;museum;;museum
+way;720431268;Mies van der Rohe Haus;52.54918769990102;13.490531156336743;;;;;Tu-Su 11:00-17:00;;13053;museum;;museum
+way;738500475;Heimatmuseum;52.41193295001136;13.662357300018392;;;Müggelheimer Heimatverein e.V.;;;;;museum;;museum
+way;759414113;Gedenkstätte Plötzensee;52.540877574059905;13.322872587158699;;;;;"Mar-Oct 09:00-17:00; Nov-Feb 09:00-16:00; Dec 24-26,Dec 31 off; Jan 01 off";;13627;museum;;museum
+way;789025173;Studio Bildende Kunst;52.51147788159409;13.479049767454379;;;Kulturring in Berlin e.V.;;;;;arts_centre;arts_centre;
+way;831797331;Kinderzirkus Aron;52.45667535794932;13.616609993836644;;;;;;;;theatre;theatre;
+way;871078344;Galerie Bastian Berlin;52.45389880721056;13.271701481079115;;;;;;;14195;gallery;;gallery
+way;913292926;Grüne Bühne;52.54367852576652;13.589510626406113;;;;;;yes;12629;theatre;theatre;
+way;918793035;Freiluftkino Friedrichshain;52.52530774318383;13.435557959535023;;;;;"""unterschiedlich, je nach Kinoprogramm""";yes;;cinema;cinema;
+way;940024259;Erlebniscircus Neukölln;52.43803702474508;13.439045655056697;;;ErlebnisCircus e.V.;;;;;theatre;theatre;
+way;1000845161;Spore-Haus;52.47162976066773;13.428647321026013;;;Spore Initiative;;"Sa-Su 12:00-19:00; Tu-Fr 15:00-19:00";yes;12051;arts_centre;arts_centre;
+way;1023020168;Museum Kesselhaus;52.52793669349638;13.512059216412087;;;;;Nach Terminabsprache;yes;10365;museum;;museum
+way;1036522103;;52.60989133600959;13.235858123658348;;;Eigentümer und Bewohner Nr. 33;;May-Sep;;13503;museum;;museum
+way;1051272400;Ausstellungszentrum Pyramide;52.53150775541738;13.615619043590936;;;;;;;12627;gallery;;gallery
+way;1065864180;Haus der Kulturen der Welt;52.518852568486345;13.364829876089246;;;;;We-Mo 11:00-19:00;yes;10557;arts_centre;arts_centre;museum
+way;1082454637;Shakespeare Company Berlin;52.456509124324626;13.349837124538302;;;Shakespeare Company Berlin e.V.;;;yes;12169;theatre;theatre;
+way;1174000879;Studio183;52.50596337373315;13.335006394325983;;;;;;;;gallery;;gallery
+way;1174000881;Galerie SLP;52.50581691780551;13.335514014483806;;;;;;;;gallery;;gallery
+way;1531492070;;52.59697399308057;13.223192630906702;;;;;;;;theatre;theatre;
+way;1580170329;Zirkus Mond;52.50406821007443;13.455614161401023;;;Max Mohr;;;limited;10245;theatre;theatre;
+way;1583659287;ACUD Macht Neu;52.53345585344433;13.400931069181192;;;;;;limited;10119;arts_centre;arts_centre;
